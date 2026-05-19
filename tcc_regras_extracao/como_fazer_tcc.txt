@@ -1,0 +1,216 @@
+--- SLIDE 1 ---
+GUIA PRÁTICO
+Como Fazer um TCC
+Passo a passo sem dores de cabeça
+1. Escolha a área
+2. Tema e orientador
+3. Estruturação
+4. Normas ABNT
+5. Apresentação
+Fonte: 
+https://www.ibmec.br/blog/conteudo-gratuito/passo-a-passo-de-como-fazer-um-tcc
+
+--- SLIDE 2 ---
+O QUE É O TCC?
+Finalização do curso — entendendo o propósito
+Definição: 
+O TCC é o projeto elaborado ao final da graduação ou pós-graduação para obtenção do diploma. Seu objetivo é fazer o aluno aplicar todo o conhecimento adquirido durante o curso em algo específico.
+Monografia
+Formato mais comum. Exige pesquisa científica e segue regras específicas da ABNT.
+Projeto Experimental
+Aplicação prática de um produto, serviço ou solução desenvolvida pelo aluno.
+Outros Formatos
+Documentário, artigo científico, relato de experiência — varia por instituição e curso.
+⚠ Ao longo deste guia, TCC = monografia, o formato que gera mais dúvidas.
+
+--- SLIDE 3 ---
+PASSO 1 — ESCOLHA A ÁREA QUE VOCÊ GOSTA
+O ponto de partida é a motivação
+1
+Analise as matérias do curso e identifique a que mais desperta seu interesse
+POR QUE ESCOLHER O QUE GOSTA?
+✔ 
+Maior motivação para iniciar e manter o ritmo
+✔ 
+Menor receio de desenvolver o trabalho
+✔ 
+Mais facilidade para aprofundar o tema
+✔ 
+Apresentação mais segura perante a banca
+COMO IDENTIFICAR SUA ÁREA?
+→ 
+Quais disciplinas você esperava ansiosamente?
+→ 
+Sobre qual tema você leria fora da faculdade?
+→ 
+Em qual área você já tem leituras extras?
+→ 
+Onde sua curiosidade é naturalmente maior?
+
+--- SLIDE 4 ---
+PASSO 2 — TEMA E ORIENTADOR
+As duas escolhas mais importantes do TCC
+COMO ESCOLHER O ORIENTADOR
+✔ 
+Deve ser professor da sua faculdade
+✔ 
+Precisa ter pesquisas na sua área de interesse
+✔ 
+Pode ser indicado pelo coordenador do curso
+✔ 
+Poderá guiá-lo em todas as etapas do trabalho
+COMO ESCOLHER O TEMA
+1
+Avalie o tempo disponível
+Mais tempo = pesquisa mais complexa
+2
+Levante o material existente
+Quanto mais referências, mais fácil o desenvolvimento
+3
+Defina a pergunta central
+"O que quero responder com esta pesquisa?"
+4
+Verifique a relevância
+Por que esse estudo importa para a sociedade?
+
+--- SLIDE 5 ---
+PASSO 3 — ESTRUTURAÇÃO DO TCC
+As três partes obrigatórias conforme NBR 14724
+1. Elementos Pré-textuais
+• 
+Capa
+• 
+Folha de rosto
+• 
+Dedicatória (opcional)
+• 
+Agradecimentos (opcional)
+• 
+Resumo e Abstract
+• 
+Sumário
+2. Elementos Textuais
+• 
+Introdução
+• 
+Desenvolvimento (Revisão Bibliográfica, Metodologia, Resultados)
+• 
+Conclusão
+3. Elementos Pós-textuais
+• 
+Referências (obrigatório)
+• 
+Glossário (opcional)
+• 
+Apêndices (opcional)
+• 
+Anexos (opcional)
+Nem todos os tópicos são obrigatórios em todas as partes — consulte sempre as normas da sua instituição.
+
+--- SLIDE 6 ---
+COMO FAZER A CONCLUSÃO DO TCC?
+O fechamento de todas as ideias apresentadas
+Conceito: 
+A conclusão é, quando bem compreendida, a parte mais simples do TCC. É onde você retoma a pergunta central da pesquisa e a responde com base nas descobertas realizadas.
+1
+Retome a pergunta central
+Relembre ao leitor qual era o problema de pesquisa que originou o trabalho.
+2
+Responda com base nos achados
+Use os resultados da sua pesquisa para dar uma resposta fundamentada à pergunta inicial.
+3
+Proponha reflexões
+Sugira como mudar o cenário apresentado ou como melhorar resultados positivos encontrados.
+4
+Aponte limitações e próximos passos
+Indique o que não foi possível abordar e sugira temas para pesquisas futuras.
+
+--- SLIDE 7 ---
+PASSO 4 — NORMAS ABNT
+As principais NBRs para trabalhos acadêmicos
+O que é a ABNT? 
+A Associação Brasileira de Normas Técnicas (ABNT) desenvolve regras para diversos segmentos, incluindo a educação. Para trabalhos acadêmicos, as principais normas estão nas NBRs abaixo:
+NBR 14724
+Apresentação de trabalhos acadêmicos
+A principal — define capa, folha de rosto, margens, fonte, espaçamento, etc.
+NBR 6023
+Referências bibliográficas
+Define como citar livros, artigos, sites e outras fontes nas referências finais.
+NBR 10520
+Citações em documentos
+Define citação direta, indireta e as regras de apud.
+NBR 6027
+Sumário
+Normas de apresentação do sumário do trabalho.
+NBR 6028
+Resumos
+Define o formato e tamanho do resumo e abstract.
+NBR 6022
+Artigos científicos
+Para trabalhos em formato de artigo científico.
+
+--- SLIDE 8 ---
+PASSO 5 — APRESENTAÇÃO PARA A BANCA
+O momento de mostrar que você domina o tema
+A banca avaliadora é composta pelo seu orientador, professores e, em alguns casos, um profissional convidado.
+⏱ Tempo de apresentação
+Entre 10 e 20 minutos, dependendo da instituição. Seja objetivo — não tente apresentar tudo.
+📊 Use PowerPoint
+Elabore slides com as principais informações da pesquisa. Evite textos longos nos slides.
+🎯 Demonstre domínio
+A banca analisa o quanto você conhece o tema. Estude bem os fundamentos do seu trabalho.
+🔁 Treine em casa
+Apresente para amigos ou familiares. Cronometre. Ajuste até sentir segurança.
+
+--- SLIDE 9 ---
+DICAS ESSENCIAIS — O QUE FAZER
+Boas práticas que fazem a diferença no TCC
+✔
+Planeje-se com antecedência
+Separe um ou dois semestres para o TCC. Começar cedo reduz o estresse e melhora a qualidade final.
+✔
+Peça revisões regulares
+Solicite ao orientador e a colegas que revisem o trabalho com frequência — olhos frescos detectam erros que você não vê.
+✔
+Seja objetivo nas escolhas
+Ao justificar tema ou autores, seja direto. Liste as razões que o levaram àquele caminho.
+✔
+Busque o corpus antes do tema
+Analise o material disponível antes de fechar o tema. Escolher um assunto sem referências obriga você a recomeçar.
+✔
+Isole-se para escrever
+Avise amigos e família que você estará focado no TCC. Escolha um local tranquilo e sem distrações.
+
+--- SLIDE 10 ---
+ERROS COMUNS — O QUE NÃO FAZER
+Armadilhas que atrapalham o desenvolvimento do TCC
+✘
+Não comece pelo referencial teórico
+Sem tema, pergunta de pesquisa e objetivos definidos, você não conseguirá filtrar o referencial corretamente.
+✘
+Não comece pelo resumo ou introdução
+Ambos dependem do trabalho pronto ou quase pronto — escreva-os por último.
+✘
+Não deixe para a última hora
+Fazer o TCC em poucos dias eleva o estresse e compromete gravemente a qualidade do resultado.
+✘
+Não ignore o orientador
+O orientador existe para guiar. Reuniões frequentes evitam retrabalho e surpresas antes da entrega.
+✘
+Não escolha tema sem verificar as fontes
+Temas sem material de referência disponível obrigam o aluno a recomeçar o processo inteiro.
+
+--- SLIDE 11 ---
+RESUMO DOS 5 PASSOS
+Seu TCC passo a passo
+Passo 1. 
+Escolha a área que desperta seu interesse genuíno
+Passo 2. 
+Defina tema e orientador — verifique o material disponível
+Passo 3. 
+Estruture o trabalho conforme NBR 14724 (pré-textual, textual, pós-textual)
+Passo 4. 
+Siga as normas ABNT: NBR 14724, 6023, 10520, 6027 e 6028
+Passo 5. 
+Prepare a apresentação, treine e seja objetivo com a banca
+Planeje-se, peça revisões e comece antes do prazo!

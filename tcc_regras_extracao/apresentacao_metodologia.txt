@@ -1,0 +1,214 @@
+--- SLIDE 1 ---
+IBM 0324
+Metodologia da Pesquisa Científica
+Graduação em Economia
+Tópicos da Aula
+1. Metodologia de Pesquisa
+2. Objetivos do TCC
+3. Levantamento e Validação de Dados
+Prof. IBM 0324 • 2025
+
+--- SLIDE 2 ---
+O QUE É METODOLOGIA DE PESQUISA?
+Seção 1 — Fundamentos
+Definição: 
+Conjunto sistemático de métodos, técnicas e procedimentos utilizados para investigar fenômenos, adquirir novos conhecimentos e resolver problemas de forma científica e replicável.
+POR QUÊ?
+Garante rigor, credibilidade e reprodutibilidade dos resultados
+O QUÊ?
+Define o caminho: tipo de pesquisa, coleta, análise e apresentação dos dados
+COMO?
+Escolha do método adequado ao problema, objetivos e recursos disponíveis
+
+--- SLIDE 3 ---
+TIPOS DE PESQUISA
+Seção 1b — Classificações Principais
+Quanto à natureza
+Básica / Aplicada
+Quanto à abordagem
+Quantitativa / Qualitativa / Mista
+Quanto aos objetivos
+Exploratória / Descritiva / Explicativa
+Quanto aos procedimentos
+Bibliográfica / Documental / Experimental / Estudo de Caso / Survey / Ex-post-facto
+💡 Para TCC em Economia: o mais comum é pesquisa quantitativa, descritiva ou explicativa, com procedimento documental/survey.
+
+--- SLIDE 4 ---
+COMO ESTRUTURAR UMA PESQUISA
+Seção 1c — Etapas do Processo Científico
+1
+Problema de Pesquisa
+Formule uma pergunta clara e delimitada
+2
+Revisão Bibliográfica
+Mapeie o estado da arte na área
+3
+Hipóteses / Obj.
+Defina o que quer provar ou descrever
+4
+Coleta de Dados
+Escolha fontes confiáveis e adequadas
+5
+Análise
+Aplique o método escolhido (econometria, etc.)
+6
+Conclusões
+Responda ao problema com base nos achados
+
+--- SLIDE 5 ---
+EXEMPLOS DE TCC EM ECONOMIA
+FGV EPGE — Trabalhos Defendidos (2022–2024)
+"A Curva de Phillips no Brasil: 2004–2022"
+Instituição: FGV EPGE, 2023 | Método: Quantitativa / Econométrica
+Fontes de dados: IPCA (IBGE), PNAD, BCB
+"Impacto da Amortização de Intangível no IR de Empresas"
+Instituição: FGV EPGE, 2023 | Método: Quantitativa / Documental
+Fontes de dados: Demonstrações financeiras CVM
+"Export-led Gains: Tariff Cuts e Produtividade"
+Instituição: FGV EPGE, 2024 | Método: Quantitativa / Dados em Painel
+Fontes de dados: MDIC/ComexStat, Banco Mundial
+Fonte: FGV EPGE — Relatório Anual 2023 / 2024 | epge.fgv.br
+
+--- SLIDE 6 ---
+OBJETIVOS DO TCC
+Seção 2 — Como Elaborar Bons Objetivos
+OBJETIVO GERAL
+• 
+Único e abrangente
+
+• 
+Responde: O QUE você vai analisar?
+
+• 
+Use verbos como: analisar, investigar, avaliar, mensurar
+
+• 
+Ex: "Analisar o impacto da taxa Selic no crédito às PMEs brasileiras (2015–2024)"
+OBJETIVOS ESPECÍFICOS
+• 
+2 a 5 objetivos derivados do geral
+
+• 
+Cada um é mensurável e verificável
+
+• 
+Use verbos: descrever, identificar, comparar, estimar, mapear
+
+• 
+Ex: "Identificar a elasticidade-juro do crédito PF vs PJ"
+Critério SMART para objetivos:
+S — Specific (Específico)
+M — Measurable (Mensurável)
+A — Achievable (Alcançável)
+R — Relevant (Relevante)
+T — Time-bound (Temporal)
+
+--- SLIDE 7 ---
+LEVANTAMENTO DE DADOS
+Seção 3 — Organização, Cuidados e Fontes por Área
+Macroeconomia
+IBGE, BCB, IPEA Data, FMI, OCDE
+Finanças
+CVM, B3, Bloomberg, Economatica, Refinitiv
+Comércio Exterior
+ComexStat (MDIC), UN Comtrade, Banco Mundial
+Mercado de Trabalho
+PNAD/IBGE, RAIS (MTE), CAGED
+Setor Público / Finanças Públicas
+STN, Tesouro Nacional, Portal da Transparência
+Desenvolvimento Regional
+IBGE, IPEA, Atlas do Desenvolvimento Humano
+
+--- SLIDE 8 ---
+CUIDADOS E VALIDAÇÃO DOS DADOS
+Seção 3b — Como garantir a qualidade dos dados
+Search
+Verificar a fonte
+Prefira fontes primárias oficiais (IBGE, BCB, OCDE). Evite blogs ou sites sem referência.
+Calendar
+Periodicidade e atualidade
+Confirme se os dados cobrem o período analisado. Dados desatualizados invalidam conclusões.
+ExclamationTriangle
+Valores ausentes e outliers
+Identifique NAs, zeros espúrios e outliers. Trate com imputação, winsorização ou exclusão justificada.
+BalanceScale
+Consistência interna
+Cruze dados de fontes diferentes. Divergências devem ser explicadas ou corrigidas.
+FileAlt
+Documentação e rastreabilidade
+Registre data de acesso, URL, versão do arquivo e todas as transformações realizadas.
+Lock
+Limitações e vieses
+Informe as limitações: cobertura geográfica, seleção amostral, possível endogeneidade.
+
+--- SLIDE 9 ---
+DADOS BONS vs DADOS RUINS — EXEMPLOS
+Seção 3c — Como reconhecer e apresentar dados de qualidade
+✔ DADOS DE QUALIDADE
+✔ 
+IPCA mensal do IBGE (SIDRA), série histórica 1980–2024, com metodologia publicada e notas de revisão documentadas
+✔ 
+Taxa SELIC diária do BCB via API do SGS (Sistema Gerenciador de Séries Temporais)
+✔ 
+Dados de comércio exterior via ComexStat/MDIC com NCM, país parceiro e valor FOB em USD
+✘ DADOS PROBLEMÁTICOS
+✘ 
+"Dados do Google" sem especificar série, data de acesso ou unidade de medida — não rastreável
+✘ 
+Inflação coletada de notícia de jornal, sem referência à metodologia ou ao período exato de apuração
+✘ 
+PIB em moeda corrente comparado entre anos sem deflacionamento — leva a conclusões equivocadas
+
+--- SLIDE 10 ---
+IA E FERRAMENTAS DIGITAIS NA PESQUISA
+Seção 3d — Como a IA pode auxiliar (e seus limites)
+ChatGPT / Claude / Gemini
+Resumir literatura, gerar hipóteses, revisão de texto, sugestão de métodos. NÃO use para dados numéricos sem verificar a fonte original.
+Perplexity AI
+Busca acadêmica com citação de fontes. Útil para levantamento bibliográfico inicial e identificação de artigos relevantes.
+Elicit.org
+Extração automatizada de dados de artigos científicos (metodologia, resultados, amostras). Excelente para meta-análises.
+Research Rabbit / Semantic Scholar
+Mapeamento de redes de citações e descoberta de artigos relacionados. Facilita a revisão bibliográfica sistemática.
+⚠ ATENÇÃO: IAs podem alucinar dados e referências. NUNCA cite diretamente um número fornecido por IA sem verificar na fonte primária oficial.
+
+--- SLIDE 11 ---
+ATÉ QUE PONTO CONFIAR NOS DADOS?
+Seção 3e — Hierarquia e Confiabilidade das Fontes
+NÍVEL 1 — ALTA CONFIANÇA
+Dados primários oficiais: IBGE, BCB, IPEA, Ministérios, Banco Mundial, FMI, OCDE
+NÍVEL 2 — BOA CONFIANÇA
+Artigos peer-reviewed (Qualis A1/A2), working papers de BIS, NBER, IMF Working Papers
+NÍVEL 3 — MODERADO
+Relatórios de consultorias reconhecidas (FGV IBRE, Tendências, LCA), imprensa especializada
+NÍVEL 4 — USE COM CAUTELA
+Blogs, sites sem peer review, Wikipedia, dados de IA sem verificação de fonte
+Regra de ouro: quanto mais próximo da fonte primária oficial e com metodologia documentada, maior a confiança.
+
+--- SLIDE 12 ---
+COMO APRESENTAR OS DADOS
+Seção 3f — Boas Práticas de Visualização e Tabelas (ABNT)
+Tabelas
+Número, título acima, fonte abaixo (ABNT NBR 14724). Três fios horizontais, sem fios verticais. Dados alinhados à direita (números) ou esquerda (texto).
+Gráficos
+Título e fonte obrigatórios. Prefira gráficos de linha para séries temporais, barras para comparações e dispersão para correlações.
+Estatísticas Descritivas
+Apresente sempre: n, média, mediana, desvio-padrão, mín. e máx. Tabela no corpo do texto ou apêndice.
+Resultados Econométricos
+Inclua coeficientes, erros-padrão (entre parênteses), R², N e nível de significância (*, **, ***). Padrão nos principais periódicos.
+ABNT NBR 14724:2011 — Norma para trabalhos acadêmicos | Ver também: APA 7ª Ed. para tabelas de resultados
+
+--- SLIDE 13 ---
+RECAPITULANDO
+Pontos-Chave da Aula
+1. 
+Metodologia de pesquisa é o CAMINHO que garante rigor e credibilidade científica.
+2. 
+Objetivos SMART: específicos, mensuráveis, alcançáveis, relevantes e temporais.
+3. 
+Dados de qualidade = fonte primária oficial + metodologia documentada + rastreabilidade.
+4. 
+IA pode auxiliar na busca bibliográfica, mas NUNCA substitui a verificação da fonte.
+5. 
+Apresente dados com tabelas e gráficos conforme ABNT NBR 14724:2011.
+Consulte a apostila para referências completas em ABNT.
