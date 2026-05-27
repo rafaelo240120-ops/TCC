@@ -1,0 +1,17 @@
+# Credenciais — nunca commitar token/senha
+.env
+
+# Cache de preços (4MB, gerado automaticamente pelo código)
+precos_historicos_cache.csv
+
+# Outputs intermediários (gerados pelo código a cada execução)
+retornos_diarios_factor.csv
+retornos_acumulados_factor.csv
+
+# VSCode
+settings.json
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
