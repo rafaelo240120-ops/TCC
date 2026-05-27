@@ -156,7 +156,7 @@ if faltantes:
 
         try:  # 1) Yahoo Finance
             tkr  = yf.Ticker(f"{ticker}.SA")
-            df_h = tkr.history(start="2015-01-01", end="2025-12-31", auto_adjust=True)
+            df_h = tkr.history(start="2014-01-01", end="2025-12-31", auto_adjust=True)
             if not df_h.empty:
                 ch = df_h["Close"].dropna()
                 if ch.index.tz is not None:
@@ -168,7 +168,7 @@ if faltantes:
         if serie.empty:  # 2) Laboratório de Finanças (fallback)
             resp = requests.get(f"{BASE_URL}/preco/corrigido",
                                 headers={"Authorization": f"Bearer {TOKEN}"},
-                                params={"ticker": ticker, "data_ini": "2015-01-01", "data_fim": "2025-12-31"},
+                                params={"ticker": ticker, "data_ini": "2014-01-01", "data_fim": "2025-12-31"},
                                 timeout=30)
             if resp.status_code == 200:
                 dados_p = resp.json()
@@ -318,7 +318,7 @@ for ano in range(2016, 2026):
     print(f"  Baixa Vol  : {top_baixa_vol}")
     print(f"  Valor P/VP : {top_valor}")
     print(f"  Qualidade  : {top_qualidade}")
-    print(f"  Carteira   : {len(carteira)} ações → {carteira}")
+    print(f"  Carteira   : {len(carteira)} acoes -> {carteira}")
 
     # Retorno diário da carteira no ano N: média igual-ponderada
     tickers_ok = [t for t in carteira if t in df_retornos.columns]
