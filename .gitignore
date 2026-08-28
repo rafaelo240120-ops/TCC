@@ -15,3 +15,30 @@ settings.json
 # Python
 __pycache__/
 *.pyc
+
+
+# LaTeX build outputs
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.lox
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv

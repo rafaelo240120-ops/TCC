@@ -1,0 +1,13 @@
+ipykernel
+linearmodels
+openpyxl
+pandas
+pyarrow
+pydynpd
+pyodbc
+pyreadr
+python-dotenv
+requests
+seaborn
+sqlalchemy
+

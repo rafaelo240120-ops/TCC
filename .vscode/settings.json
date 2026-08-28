@@ -1,9 +1,33 @@
 {
-    "python-envs.pythonProjects": [
+    "editor.rulers": [130],
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 130,
+    "[latex]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 100,
+        "editor.rulers": [100]
+    },
+    "latex-workshop.latex.outDir": "%DIR%/build",
+    "latex-workshop.latex.tools": [
         {
-            "path": ".",
-            "envManager": "ms-python.python:system",
-            "packageManager": "ms-python.python:pip"
+            "name": "latexmk",
+            "command": "latexmk",
+            "args": [
+                "-norc",
+                "-r",
+                "%DIR%/.latexmkrc",
+                "-cd",
+                "%DOC%"
+            ]
         }
-    ]
+    ],
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "latexmk",
+            "tools": [
+                "latexmk"
+            ]
+        }
+    ],
+    "latex-workshop.latex.recipe.default": "latexmk"
 }
