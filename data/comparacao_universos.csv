@@ -1,0 +1,17 @@
+﻿Universo,Carteira,Retorno Total (%),Retorno Anual (%),Volatilidade (%),Sharpe,Max Drawdown (%)
+ISE B3,Momentum,164.8,10.24,25.56,0.16,-46.96
+ISE B3,Baixa Vol,391.14,17.28,18.59,0.48,-31.72
+ISE B3,Valor,379.61,17.0,30.6,0.38,-47.29
+ISE B3,Qualidade,172.28,10.55,23.39,0.17,-42.93
+ISE B3,Multifator,481.88,19.28,21.32,0.52,-38.27
+ISE B3,Uniao top-10,264.21,13.82,23.19,0.3,-43.89
+ISE B3,Universo inteiro (EW),306.07,15.06,24.34,0.34,-45.75
+IBrX-100,Momentum,318.64,15.41,28.81,0.34,-55.42
+IBrX-100,Baixa Vol,273.73,14.11,16.73,0.35,-32.14
+IBrX-100,Valor,409.06,17.7,31.14,0.4,-52.8
+IBrX-100,Qualidade,334.81,15.85,25.0,0.36,-51.27
+IBrX-100,Multifator,533.41,20.3,20.69,0.58,-41.89
+IBrX-100,Uniao top-10,389.97,17.25,22.65,0.43,-48.12
+IBrX-100,Universo inteiro (EW),316.15,15.35,23.55,0.35,-47.46
+Índice,ISE B3 (índice oficial),96.96,7.02,22.8,0.02,-43.86
+Índice,IBrX-100 (índice oficial),275.09,14.15,22.99,0.31,-46.73

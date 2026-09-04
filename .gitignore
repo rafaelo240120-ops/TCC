@@ -3,6 +3,7 @@
 
 # Cache de preços (4MB, gerado automaticamente pelo código)
 precos_historicos_cache.csv
+data/precos_cache_ANTES_correcao.csv
 
 # Outputs intermediários (gerados pelo código a cada execução)
 retornos_diarios_factor.csv

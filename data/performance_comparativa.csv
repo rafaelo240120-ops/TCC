@@ -1,4 +1,9 @@
-﻿Estrategia,Retorno Total (%),Retorno Anual (%),Volatilidade (%),Sharpe,Max Drawdown (%)
-Carteira Factor ESG,227.14,12.83,23.81,0.25,-47.17
-IBrX-100,302.23,15.23,22.98,0.34,-46.73
-ISE B3,108.17,7.75,22.79,0.05,-43.86
+﻿Estrategia,Retorno Total (%),Retorno Anual (%),Volatilidade (%),Sharpe,Max Drawdown (%),Turnover medio
+Fator Momentum,164.8,10.24,25.56,0.16,-46.96,0.76
+Fator Baixa Vol,391.14,17.28,18.59,0.48,-31.72,0.434
+Fator Valor,379.61,17.0,30.6,0.38,-47.29,0.433
+Fator Qualidade,172.28,10.55,23.39,0.17,-42.93,0.491
+Multifator (score),481.88,19.28,21.32,0.52,-38.27,0.441
+Uniao top-10 (TCC),264.21,13.82,23.19,0.3,-43.89,0.369
+IBrX-100,275.09,14.15,22.99,0.31,-46.73,
+ISE B3,96.96,7.02,22.8,0.02,-43.86,

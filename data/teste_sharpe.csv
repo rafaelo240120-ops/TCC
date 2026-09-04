@@ -1,0 +1,7 @@
+﻿Comparação,Sharpe A,Sharpe B,Diferença,IC95 inf,IC95 sup,p Memmel,p Ledoit-Wolf,sig.
+H1 — carteira do TCC vs IBrX-100,0.296,0.309,-0.014,-0.3,0.278,0.9231,0.9254,
+Multifator vs IBrX-100,0.525,0.309,0.216,-0.128,0.571,0.211,0.2186,
+Baixa Vol vs IBrX-100,0.48,0.309,0.17,-0.182,0.517,0.3301,0.3419,
+Carteira do TCC vs ISE B3,0.296,0.023,0.273,0.064,0.486,0.0078,0.0102,**
+ESG: universos em peso igual,0.338,0.352,-0.014,-0.199,0.165,0.881,0.8808,
+ESG: índices oficiais,0.023,0.309,-0.286,-0.531,-0.046,0.0162,0.0214,**
