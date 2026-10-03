@@ -1,0 +1,4 @@
+Ticker,Procedimento,Observacoes_antes,Observacoes_depois
+BRAV3,"Coluna adicionada: API corrigida, resposta e hash preservados",0,327
+CPLE5,"Coluna adicionada: API corrigida, resposta e hash preservados",0,47
+CPLE6,"CPLE6 recuperada do cache anterior, sem usar CPLE3",2977,2943

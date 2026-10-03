@@ -1,0 +1,8 @@
+{
+  "url": "https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2015-12-30",
+  "data_base": "2015-12-30",
+  "obtido_em": "2026-09-09T20:51:19.865946+00:00",
+  "sha256": "4696ca6c860f62694a1b108b8b3d2cf3519485c6efff83f602795daa895232ca",
+  "linhas": 203,
+  "publicacao_original_verificada": false
+}

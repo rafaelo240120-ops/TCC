@@ -1,0 +1,14 @@
+# Fundamentos congelados
+
+Dez respostas históricas consultadas em 2026. P/VP e ROIC passam pelo controle de data_base até o sinal e pelo hash. Não foi comprovado se todas as revisões históricas dos balanços são preservadas pelo fornecedor. A consulta retrospectiva não equivale a um arquivo contemporâneo ao sinal.
+
+- 2015-12-30: consulta 2026-09-09T20:51:19.865946+00:00; 203 linhas; SHA-256 `4696ca6c860f62694a1b108b8b3d2cf3519485c6efff83f602795daa895232ca`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2015-12-30.
+- 2016-12-29: consulta 2026-09-09T20:51:21.880726+00:00; 212 linhas; SHA-256 `49b8a77ee1ed7c1e0133bdfdd284c6d00b03c5430f6ca678908b68cd0e679014`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2016-12-29.
+- 2017-12-28: consulta 2026-09-09T20:51:24.379160+00:00; 232 linhas; SHA-256 `a8c4274f2c4b33089569544522b63c7ef7cd57710f7cbd91bf178cc409d3683b`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2017-12-28.
+- 2018-12-28: consulta 2026-09-09T20:51:26.325942+00:00; 250 linhas; SHA-256 `84c8f656d92ceaa82a32331000ef9a22e49945a01cdf46b3eb344bbe31fe615d`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2018-12-28.
+- 2019-12-30: consulta 2026-09-09T20:51:28.445766+00:00; 259 linhas; SHA-256 `b33f8f0e92f70416a1c04c1d905e680074a016e7f413a8d79bad7faeb9eadd8b`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2019-12-30.
+- 2020-12-30: consulta 2026-09-09T20:51:30.715290+00:00; 300 linhas; SHA-256 `b6ffd43b9a1085303b3af09cbfe6ce1579b2056696b931cbdcb719466ad64daa`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2020-12-30.
+- 2021-12-30: consulta 2026-09-09T20:51:32.806241+00:00; 339 linhas; SHA-256 `f05fe5bc090f65e514f2156e38c4a9d232517bb8854c081513f0a1c8ad998dbc`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2021-12-30.
+- 2022-12-29: consulta 2026-09-09T20:51:35.913238+00:00; 320 linhas; SHA-256 `82891866e1901e6db48b914529f96f190cdffad9f3b07ce99b0856fa3854bbaf`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2022-12-29.
+- 2023-12-28: consulta 2026-09-09T20:51:39.224198+00:00; 310 linhas; SHA-256 `1e774e06f99f8bc35100df902d9e3596b91713e94ecf7f6fdc6a82865a456d87`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2023-12-28.
+- 2024-12-30: consulta 2026-09-09T20:51:42.868522+00:00; 304 linhas; SHA-256 `64441e1f9676ba8279e8164df066e03368ac00a38c65b36f00d87b5bdf56cbb5`. Fonte: https://laboratoriodefinancas.com/api/v2/bolsa/planilhao?data_base=2024-12-30.

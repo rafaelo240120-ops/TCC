@@ -1,0 +1,65 @@
+[
+  {
+    "arquivo": "bdi_20221229.pdf",
+    "url": "https://arquivos.b3.com.br/bdi/download/bdi/2022-12-29/BDI_02_20221229.pdf",
+    "sha256": "21b5afabd17b7076b5666a381bb3f3fa7f68242a6e3ec490039079f238eb2e0c",
+    "obtido_em": "2026-09-10T19:50:26.960190+00:00",
+    "status": "obtido",
+    "paginas": 105
+  },
+  {
+    "arquivo": "bdi_20230102.pdf",
+    "url": "https://arquivos.b3.com.br/bdi/download/bdi/2023-01-02/BDI_02_20230102.pdf",
+    "sha256": "f85ea158864468489a9873b2444f4e969adec49e09e6db440029bcee382ec97a",
+    "obtido_em": "2026-09-10T19:50:26.546370+00:00",
+    "status": "obtido",
+    "paginas": 66
+  },
+  {
+    "arquivo": "bdi_20231228.pdf",
+    "url": "https://arquivos.b3.com.br/bdi/download/bdi/2023-12-28/BDI_02_20231228.pdf",
+    "sha256": "49e5f1070d19417d141adbeaa5ae37fdd7064090259cb47f220b969ab5cdfe81",
+    "obtido_em": "2026-09-10T19:50:27.240701+00:00",
+    "status": "obtido",
+    "paginas": 127
+  },
+  {
+    "arquivo": "bdi_20241230.pdf",
+    "url": "https://arquivos.b3.com.br/bdi/download/bdi/2024-12-30/BDI_02_20241230.pdf",
+    "sha256": "91125c93200bb7740d76af775529dfcfcc92be3a9611de1d7ea2a73cad8fb5f6",
+    "obtido_em": "2026-09-10T19:50:53.180246+00:00",
+    "status": "obtido",
+    "paginas": 117
+  },
+  {
+    "arquivo": "calendario_ise_2025.pdf",
+    "url": "https://www.b3.com.br/data/files/60/10/08/03/3F8FC8103152D4C8AC094EA8/OC%20003-2024-VPC%20Novo%20calendario%20da%20carteira%20do%20Indice%20de%20Sustentabilidade%20Empresarial%20da%20B3.pdf",
+    "sha256": "789be58301bab7b70e05aded6f4a0ff5c20cfde1d397881020a62127eb0c6ffe",
+    "obtido_em": "2026-09-10T19:50:32.942283+00:00",
+    "status": "obtido",
+    "paginas": 1
+  },
+  {
+    "arquivo": "historico_ise.html",
+    "url": "https://iseb3.com.br/carteira-iseb3",
+    "sha256": "96db80f13be1908f54f09d658e942624bc29cb8b6e850eec26ff39891cdc9510",
+    "obtido_em": "2026-09-10T19:50:34.882631+00:00",
+    "status": "obtido"
+  },
+  {
+    "arquivo": "metodologia_ise_2021.pdf",
+    "url": "https://www.b3.com.br/data/files/DB/B2/66/3C/6B6AA71096B63AA7AC094EA8/ISE-Metodologia-pt-br%20vf.pdf",
+    "sha256": "f9a4c94f73dc41eae1c0f9597af5f530cbb1ab16289e531d129e14571a1f710f",
+    "obtido_em": "2026-09-10T19:50:36.792214+00:00",
+    "status": "obtido",
+    "paginas": 7
+  },
+  {
+    "arquivo": "metodologia_ibrx100.pdf",
+    "url": "https://www.b3.com.br/data/files/CA/41/5A/43/96D947102255C247AC094EA8/IBXX-Metodologia-pt-br__Modelo_Novo_.pdf",
+    "sha256": "ce6a5c00b9e62fe4ca045a3ba654f834dce823de86f97453a51eb715f79ed799",
+    "obtido_em": "2026-09-10T19:50:37.150704+00:00",
+    "status": "obtido",
+    "paginas": 5
+  }
+]

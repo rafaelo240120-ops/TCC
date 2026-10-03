@@ -1,0 +1,5 @@
+{
+  "obtido_em": "2026-09-12T14:37:38.200963+00:00",
+  "procedimento": "Adição da coluna CPLE5 a partir de preços corrigidos da API; demais colunas preservadas numericamente. Base nominal cruzada com COTAHIST B3.",
+  "sha256_preco_final": "e3209db3fbf21bb2f67044e2beb512b38c0368fe7871f4f55014b88ee765b688"
+}

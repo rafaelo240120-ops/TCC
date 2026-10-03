@@ -1,0 +1,4022 @@
+
+PAGINA 1
+Indicadores e Informativos
+BDI Boletim Diário de Informações
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 1
+1
+Taxas
+Taxa SELIC
+Taxa Valor
+SEL (% a.a.) 13,65
+Taxas de Câmbio Referenciais
+Taxa Valor
+DOL-D2: 2 dias (R$/US$) 5,3545
+Taxa DI/CETIP Over
+Taxa Valor
+DI1-RE: DI Over (% a.a.) 13,65
+Depósitos Interfinanceiros
+Taxa Valor
+LIBOR 1 mês (% a.a.) 4,3920
+1 dia (R$/US$) 5,3524
+% a.a. (base: 252 dias Úteis) 13,6500
+Índice de Taxa de Operações Compromissadas - ITC
+Taxa Valor
+ITC-12 251.448,66
+Base 02/01/2012 = 100.000 pontos
+Dólar – Cupom Limpo (R$/US$)
+Taxa Valor
+DOL-CL 5,3570
+Índice de Taxa Média de Depósitos Interfinanceiros de Um Dia - IDI
+Taxa Valor
+IDI2003 830.223,73
+IDI-09 337.108,59
+
+PAGINA 2
+*Base 02/01/2003 = 100.000 pontos
+**Base 02/01/2009 = 100.000 pontos
+Taxa de Câmbio* US$/€1,00
+Taxa Valor
+EUR 1.0683
+Índices de Inflação
+Taxa Data Valor
+IGP-M¹ ² 29/12/2022 1,161.006
+IPCA pro rata 02/01/2023 6,449.280
+IGP-M² pro rata 02/01/2023 1,161.006
+Expectativa IGP-M³ (%) 02/01/2023 0.450
+Expectativa do IPCA³ (%) 02/01/2023 0.430
+IPCA² pro rata 03/01/2023 6,450.530
+1 Número-índice: agosto de 1994 = 100
+2 Para ajuste dos futuros
+3 Negociações Clearing de Ativos
+*** Variação Negativa
+Série Histórica de Taxa Referencial - TR Prefixada (%)
+Data Inicial Data Final Valor
+19/12/2022 a 18/01/2023 = 0.2443
+18/12/2022 a 17/01/2023 = 0.2069
+20/12/2022 a 19/01/2023 = 0.2415
+21/12/2022 a 20/01/2023 = 0.2410
+22/12/2022 a 21/01/2023 = 0.2138
+23/12/2022 a 22/01/2023 = 0.1761
+26/12/2022 a 25/01/2023 = 0.2418
+24/12/2022 a 23/01/2023 = 0.1773
+25/12/2022 a 24/01/2023 = 0.2145
+27/12/2022 a 26/01/2023 = 0.2406
+28/12/2022 a 27/01/2023 = 0.2394
+29/12/2022 a 28/01/2023 = 0.2123
+Índices de Liquidação
+Taxa Valor
+Índice Brasil-50 17,958
+Ibovespa 106,236
+Índice de Commodities Brasil – ICB
+Componentes do ICB
+BOI GORDO -
+CAFÉ ARÁBICA -
+ETANOL HIDRATADO -
+MILHO -
+TOTAL
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 12
+
+PAGINA 3
+Taxa de Juros de Referência (% a.a.)
+Taxa Valor
+TJ3 - 3 meses 13.69
+TJ3 - 6 meses 13.74
+Taxas de Câmbio – Comercial (R$/US$ 1,00)
+Taxa Valor
+Venda 5.3436
+Compra 5.3430
+Médio 5.3433
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 13
+
+PAGINA 4
+Variações
+IRF-M
+ (%) no mês (%) no ano (%) últimos 12 meses
+SET/22 0.43 5.94 6.92
+OUT/22 0.00 0.00 0.00
+NOV/22 0.08 8.03 12.39
+DEZ/22 0.31 7.57 9.18
+JAN/23 0.00 0.00 0.00
+IBOVESPA a Vista
+ (%) no mês (%) no ano (%) últimos 12 meses
+SET/22 1.23 5.76 -4.98
+OUT/22 0.00 0.00 0.00
+NOV/22 0.77 11.55 10.78
+DEZ/22 -0.50 6.77 7.14
+JAN/23 -3.06 -3.06 0.00
+Variação Cambial
+ (%) no mês (%) no ano (%) últimos 12 meses
+SET/22 0.17 -7.04 0.28
+OUT/22 0.00 0.00 0.00
+NOV/22 -2.04 -7.71 -9.16
+DEZ/22 -1.83 -6.87 -7.76
+JAN/23 2.41 2.41 0.00
+Ouro
+ (%) no mês (%) no ano (%) últimos 12 meses
+SET/22 -1.23 -14.70 -5.54
+OUT/22 0.00 0.00 0.00
+NOV/22 0.00 -17.88 -15.79
+DEZ/22 1.82 -10.83 -6.68
+JAN/23 0.33 0.33 0.00
+Índice Brasil-50 a Vista
+ (%) no mês (%) no ano (%) últimos 12 meses
+SET/22 1.06 5.92 -4.90
+OUT/22 0.00 0.00 0.00
+NOV/22 0.76 11.76 11.59
+DEZ/22 -0.58 7.85 8.74
+JAN/23 -2.84 -2.84 0.00
+Taxa DI/Cetip
+ (%) no mês (%) no ano (%) últimos 12 meses
+SET/22 0.00 49.18 165.05
+OUT/22 0.00 0.00 0.00
+NOV/22 0.00 49.18 78.43
+DEZ/22 0.00 49.18 78.43
+JAN/23 0.00 0.00 0.00
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 14
+
+PAGINA 5
+TR
+ (%) no mês (%) no ano (%) últimos 12 meses
+SET/22 0.18 1.11 1.14
+OUT/22 0.15 1.26 1.29
+NOV/22 0.15 1.41 1.44
+DEZ/22 0.21 1.62 1.65
+JAN/23 0.00 0.00 1.62
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 15
+
+PAGINA 6
+Informações Agropecuárias
+Milho
+Indicador de Preço Disponível do Milho Esalq/B3 – Campinas – Estado de São Paulo
+Data A vista R$/60kg A prazo R$/60kg Prazo médio de pagamento (dias) Média das últimas três cotações R$/60kg Taxa referencial DI/Cetip
+29/12 86.07 87.15 24.46 86.37 1.5236
+28/12 86.42 87.49 24.14 86.27 1.5236
+27/12 86.61 87.63 23.08 86.07 1.5236
+26/12 85.79 86.84 23.97 85.72 1.5236
+02/01 86.09 87.10 22.90 86.19 1.5236
+Boi Gordo
+Indicador de Preço Disponível do Boi Gordo Esalq/B3 – Estado de São Paulo
+Data A vista R$/@ Média das últimas cinco cotações R$/@ Preço máximo a vista R$/@ Preço mínimo a vista R$/@
+29/12 286.85 289.92 304.89 271.12
+28/12 288.45 291.97 303.89 268.51
+27/12 286.60 291.94 304.89 266.87
+26/12 297.70 292.68 306.09 272.33
+02/01 286.85 289.29 304.89 271.12
+Etanol Hidratado
+Indicador de Preço Disponível do Etanol Hidratado Esalq/B3 – Paulínia – Estado de São Paulo
+Data A vista R$/m³ Média das últimas cinco cotações Taxa referencial DI/Cetip
+29/12 2,969.00 2,971.50 1.5236
+28/12 2,968.00 2,971.50 1.5236
+27/12 2,973.00 2,971.50 1.5236
+26/12 2,975.00 2,962.50 1.5236
+02/01 2,961.50 2,969.50 1.5236
+Soja Financeiro
+Indicador de Preço Disponível da Soja Esalq/B3 – Paranaguá – Estado do Paraná
+Data A vista US$/saca Média das últimas três cotações Taxa referencial DI/Cetip
+29/12 34.93 34.71 1.5236
+28/12 34.93 34.80 1.5236
+27/12 34.27 34.84 1.5236
+26/12 35.19 34.93 1.5236
+02/01 34.25 34.70 1.5236
+Participação dos Investidores
+Investidores no Volume Total da B3
+Dados acumulados do início do mês até o dia 28/12/2022
+Tipos de Investidores Compras (R$) Mil Participação (%) Vendas (R$) Mil Participação (%)
+Institucionais 138,767,979 12.14 158,723,886 13.88
+Instituições Financeiras 21,491,007 1.88 18,320,640 1.60
+Investidor Estrangeiro 332,677,720 29.10 319,035,087 27.90
+Investidores Individuais 72,662,182 6.36 72,459,649 6.34
+Outros 6,060,093 0.53 3,119,718 0.27
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 16
+
+PAGINA 7
+Participação dos Investidores Mensal
+Investidores no Volume Total Mensal da B3
+Dados acumulados total (Compras + Vendas) por tipo de Mercado do mês anterior (Novembro)
+Tipos de Investidores
+Vista Termo Opções Exercícios de Opções Total Geral
+R$ (%)* R$ (%)* R$ (%)* R$ (%)* R$ (%)*
+Institucionais 311,064,690,456 23.80 3,577,587,360 68.16 10,380,104,095 26.74 19,648,897,971 31.28 344,671,279,882 24.38
+Instituições Financeiras 53,258,559,863 4.07 181,030,143 3.45 421,943,028 1.09 782,535,118 1.25 54,644,068,152 3.86
+Investidor Estrangeiro 759,286,125,622 58.09 46,180,260 0.88 21,156,358,923 54.49 39,323,058,059 62.59 819,811,722,864 57.98
+Investidores Individuais 177,242,063,952 13.56 1,357,083,681 25.85 6,611,253,449 17.03 2,989,285,249 4.76 188,199,686,331 13.31
+Outros 6,217,955,004 0.48 87,062,148 1.66 253,820,103 0.65 81,532,951 0.13 6,640,370,206 0.47
+Informamos que esta tabela é atualizada no segundo dia útil de cada mês.
+(%)* = Porcentagem de participação por investidor.
+Distribuição dos Locais de Formação de Lotes Café Tipo 4/5
+Local
+Quantidade por lote
+Ágio Base Deságio Total Participação (%)
+MG - GUAXUPE - 30028 - COOP. REG. DE C 85 0 78 163 18.00
+MG - GUAXUPE - 9261 - EXPORTADORA DE 0 0 199 199 22.00
+MG - MACHADO - 30038 - EISA EMPRESA IN 0 0 106 106 12.00
+MG - MACHADO - 9258 - DINAMO INTER AG 30 0 14 44 5.00
+MG - PATROCINIO - 30034 - EXPOCACCER COOP 0 0 48 48 5.00
+MG - PATROCINIO - 8141 - ARM. GERAIS LES 0 0 3 3 0.00
+MG - PATROCINIO - 9267 - EXPOCACCER 0 0 10 10 1.00
+MG - POCOS DE CALDAS - 30039 - BOURBON SPECIAL 0 0 6 6 1.00
+MG - S SEBASTIAO PARAISO - 8096 - NOVA AMERICA 13 0 0 13 1.00
+MG - S SEBASTIAO PARAISO - 9259 - PENEIRA ALTA 33 0 16 49 5.00
+MG - VARGINHA - 30030 - LIV LOGISTICA A 0 0 7 7 1.00
+MG - VARGINHA - 30035 - USINA COCATREL- 0 0 40 40 4.00
+MG - VARGINHA - 8406 - ARM. GERAIS LES 13 7 29 49 5.00
+MG - VARGINHA - 9275 - COOPERATIVA AGR 0 0 6 6 1.00
+SP - ESPIRITO STO PINHAL - 8140 - MANTIQUEIRA ARM 4 5 0 9 1.00
+SP - FRANCA - 30037 - NKG STOCKLER LT 0 0 121 121 13.00
+SP - FRANCA - 8191 - DINAMO INTER-AG 0 2 3 5 1.00
+SP - LEME - 9251 - LEME 1 0 21 22 2.00
+TOTAL 179 14 707 900 98.00
+Lotes Válidos Para a Liquidação de Contratos
+Classificados até 02/01/2023
+Vencimento Ágio Base Deságio Total Total (%) (%)*
+H23 161 7 478 646 71.78 0.00
+H23 0 0 42 42 4.67 0.50
+H23 0 0 15 15 1.67 1.50
+H23 0 0 36 36 4.00 2.00
+H23 0 0 1 1 0.11 3.00
+H23 3 0 2 5 0.56 4.00
+H23 10 0 0 10 1.11 4.50
+H23 0 7 3 10 1.11 5.50
+H23 0 0 10 10 1.11 6.00
+H23 2 0 0 2 0.22 6.50
+H23 2 0 0 2 0.22 8.00
+H23 1 0 0 1 0.11 8.50
+H23 0 0 112 112 12.44 9.00
+ 179 14 699 892 99.11 59.00
+(%)* = Porcentagem de deságio por tempo de certificação no dia 02/01/2023
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 17
+
+PAGINA 8
+Estatísticas de Safras dos Lotes de Cafés Certificados - Aprovados
+Lotes aprovados
+Safra Total Ágio Base Deságio Total Participação (%)
+2022/2023 1,063 161 7 445 613 57.666
+2021/2022 1,403 13 0 132 145 10.334
+2020/2021 3,409 5 7 130 142 4.165
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 18
+
+PAGINA 9
+Evolução dos Índices
+IBOVESPA
+Comportamento no Dia
+IBOVESPA Pontos
+Abertura 109,733
+Mínimo 105,980
+Máximo 109,733
+Fechamento 106,376
+Média Aritimética 106,453
+Média Ponderada 106,430
+IBRX50
+Comportamento no Dia
+IBRX50 Pontos
+Abertura 18,504
+Mínimo 17,908
+Máximo 18,504
+Fechamento 17,978
+Média Aritimética 17,987
+Média Ponderada 17,986
+IBRX100
+Comportamento no Dia
+IBrX100 Pontos
+Abertura 46,546
+Mínimo 45,031
+Máximo 46,546
+Fechamento 45,204
+Média Aritimética 45,234
+Média Ponderada 45,224
+Comportamento das Ações
+IBOVESPA Ações
+Altas 8
+Baixas 81
+Estáveis -
+Sem Negociações -
+Total 89
+Mínimo no ano 106376 - 02 JAN
+Máximo no ano 106376 - 02 JAN
+Comportamento das Ações
+IBRX50 Ações
+Altas 5
+Baixas 45
+Estáveis -
+Sem Negociações -
+Total 50
+Mínimo no ano 17978 - 02 JAN
+Máximo no ano 17978 - 02 JAN
+Comportamento das Ações
+IBrX100 Ações
+Altas 8
+Baixas 92
+Estáveis -
+Sem Negociações -
+Total 100
+Mínimo no ano 45204 - 02 JAN
+Máximo no ano 45204 - 02 JAN
+Evolução dos Fechamentos
+IBOVESPA (%)
+Do dia -3.06%
+Ontem 0.00%
+Na semana -3.06%
+Em uma semana -2.17%
+No mês -3.06%
+Em um mês -4.96%
+No ano -3.06%
+Em um ano 1.48%
+Evolução dos Fechamentos
+IBRX50 (%)
+Do dia -2.84%
+Ontem 0.00%
+Na semana -2.84%
+Em uma semana -2.11%
+No mês -2.84%
+Em um mês -4.76%
+No ano -2.84%
+Em um ano 2.71%
+Evolução dos Fechamentos
+IBrX100 (%)
+Do dia -2.88%
+Ontem 0.00%
+Na semana -2.88%
+Em uma semana -2.07%
+No mês -2.88%
+Em um mês -4.85%
+No ano -2.88%
+Em um ano 1.02%
+IFIX
+Comportamento no Dia
+IFIX Pontos
+Abertura 2,867
+Mínimo 2,849
+Máximo 2,870
+Fechamento 2,861
+Média Aritimética 2,857
+Média Ponderada 2,857
+IBRASIL
+Comportamento no Dia
+IBRASIL Pontos
+Abertura 4,341
+Mínimo 4,197
+Máximo 4,341
+Fechamento 4,214
+Média Aritimética 4,217
+Média Ponderada 4,216
+ICO2
+Comportamento no Dia
+ICO2 Pontos
+Abertura 1,946
+Mínimo 1,867
+Máximo 1,946
+Fechamento 1,877
+Média Aritimética 1,877
+Média Ponderada 1,877
+Comportamento das Ações
+IFIX Ações
+Altas 50
+Baixas 61
+Estáveis -
+Sem Negociações -
+Total 111
+Mínimo no ano 2861 - 02 JAN
+Máximo no ano 2861 - 02 JAN
+Comportamento das Ações
+IBRASIL Ações
+Altas 14
+Baixas 174
+Estáveis 2
+Sem Negociações -
+Total 190
+Mínimo no ano 4214 - 02 JAN
+Máximo no ano 4214 - 02 JAN
+Comportamento das Ações
+ICO2 Ações
+Altas 4
+Baixas 76
+Estáveis -
+Sem Negociações -
+Total 80
+Mínimo no ano 1877 - 02 JAN
+Máximo no ano 1877 - 02 JAN
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 19
+
+PAGINA 10
+Evolução dos Fechamentos
+IFIX (%)
+Do dia -0.21%
+Ontem 0.00%
+Na semana -0.21%
+Em uma semana 1.21%
+No mês -0.21%
+Em um mês -1.13%
+No ano -0.21%
+Em um ano 2.01%
+Evolução dos Fechamentos
+IBRASIL (%)
+Do dia -2.92%
+Ontem 0.00%
+Na semana -2.92%
+Em uma semana -2.12%
+No mês -2.92%
+Em um mês -4.90%
+No ano -2.92%
+Em um ano -0.03%
+Evolução dos Fechamentos
+ICO2 (%)
+Do dia -3.51%
+Ontem 0.00%
+Na semana -3.51%
+Em uma semana -2.66%
+No mês -3.51%
+Em um mês -6.26%
+No ano -3.51%
+Em um ano -7.89%
+ISE
+Comportamento no Dia
+ISE Pontos
+Abertura 3,157
+Mínimo 3,031
+Máximo 3,157
+Fechamento 3,048
+Média Aritimética 3,048
+Média Ponderada 3,049
+IEE
+Comportamento no Dia
+IEE Pontos
+Abertura 78,411
+Mínimo 75,989
+Máximo 78,411
+Fechamento 76,304
+Média Aritimética 76,460
+Média Ponderada 76,457
+INDX
+Comportamento no Dia
+INDX Pontos
+Abertura 20,032
+Mínimo 19,541
+Máximo 20,033
+Fechamento 19,722
+Média Aritimética 19,659
+Média Ponderada 19,669
+Comportamento das Ações
+ISE Ações
+Altas 4
+Baixas 66
+Estáveis -
+Sem Negociações -
+Total 70
+Mínimo no ano 3048 - 02 JAN
+Máximo no ano 3048 - 02 JAN
+Comportamento das Ações
+IEE Ações
+Altas -
+Baixas 18
+Estáveis -
+Sem Negociações -
+Total 18
+Mínimo no ano 76304 - 02 JAN
+Máximo no ano 76304 - 02 JAN
+Comportamento das Ações
+INDX Ações
+Altas 6
+Baixas 33
+Estáveis -
+Sem Negociações -
+Total 39
+Mínimo no ano 19722 - 02 JAN
+Máximo no ano 19722 - 02 JAN
+Evolução dos Fechamentos
+ISE (%)
+Do dia -3.46%
+Ontem 0.00%
+Na semana -3.47%
+Em uma semana -2.21%
+No mês -3.47%
+Em um mês -6.58%
+No ano -3.47%
+Em um ano -16.95%
+Evolução dos Fechamentos
+IEE (%)
+Do dia -3.01%
+Ontem 0.00%
+Na semana -3.02%
+Em uma semana -1.99%
+No mês -3.02%
+Em um mês -4.16%
+No ano -3.02%
+Em um ano 0.00%
+Evolução dos Fechamentos
+INDX (%)
+Do dia -1.54%
+Ontem 0.00%
+Na semana -1.55%
+Em uma semana 0.94%
+No mês -1.55%
+Em um mês -5.12%
+No ano -1.55%
+Em um ano -18.91%
+IMOBILIARIO
+Comportamento no Dia
+IMOBILIARIO Pontos
+Abertura 659
+Mínimo 628
+Máximo 659
+Fechamento 638
+Média Aritimética 637
+Média Ponderada 637
+IMATBASICOS
+Comportamento no Dia
+IMAT BASICOS Pontos
+Abertura 5,810
+Mínimo 5,750
+Máximo 5,835
+Fechamento 5,824
+Média Aritimética 5,800
+Média Ponderada 5,800
+ICONSUMO
+Comportamento no Dia
+ICONSUMO Pontos
+Abertura 2,934
+Mínimo 2,793
+Máximo 2,934
+Fechamento 2,810
+Média Aritimética 2,811
+Média Ponderada 2,811
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 110
+
+PAGINA 11
+Comportamento das Ações
+IMOBILIARIO Ações
+Altas 1
+Baixas 17
+Estáveis -
+Sem Negociações -
+Total 18
+Mínimo no ano 638 - 02 JAN
+Máximo no ano 638 - 02 JAN
+Comportamento das Ações
+IMAT BASICOS Ações
+Altas 7
+Baixas 10
+Estáveis -
+Sem Negociações -
+Total 17
+Mínimo no ano 5824 - 02 JAN
+Máximo no ano 5824 - 02 JAN
+Comportamento das Ações
+ICONSUMO Ações
+Altas 4
+Baixas 69
+Estáveis 1
+Sem Negociações -
+Total 74
+Mínimo no ano 2810 - 02 JAN
+Máximo no ano 2810 - 02 JAN
+Evolução dos Fechamentos
+IMOBILIARIO (%)
+Do dia -3.12%
+Ontem 0.00%
+Na semana -3.12%
+Em uma semana -3.03%
+No mês -3.12%
+Em um mês -7.37%
+No ano -3.12%
+Em um ano -11.80%
+Evolução dos Fechamentos
+IMAT BASICOS (%)
+Do dia 0.22%
+Ontem 0.00%
+Na semana 0.22%
+Em uma semana 3.53%
+No mês 0.22%
+Em um mês -1.70%
+No ano 0.22%
+Em um ano -5.31%
+Evolução dos Fechamentos
+ICONSUMO (%)
+Do dia -4.25%
+Ontem 0.00%
+Na semana -4.26%
+Em uma semana -4.15%
+No mês -4.26%
+Em um mês -8.96%
+No ano -4.26%
+Em um ano -28.54%
+IFINANCEIRO
+Comportamento no Dia
+IFINANCEIRO Pontos
+Abertura 10,252
+Mínimo 9,835
+Máximo 10,253
+Fechamento 9,901
+Média Aritimética 9,895
+Média Ponderada 9,890
+UTILITIES
+Comportamento no Dia
+UTILITIES Pontos
+Abertura 9,199
+Mínimo 8,837
+Máximo 9,199
+Fechamento 8,887
+Média Aritimética 8,903
+Média Ponderada 8,899
+IVBX2
+Comportamento no Dia
+IVBX2 Pontos
+Abertura 12,300
+Mínimo 11,837
+Máximo 12,300
+Fechamento 11,880
+Média Aritimética 11,893
+Média Ponderada 11,891
+Comportamento das Ações
+IFINANCEIRO Ações
+Altas -
+Baixas 19
+Estáveis 1
+Sem Negociações -
+Total 20
+Mínimo no ano 9901 - 02 JAN
+Máximo no ano 9901 - 02 JAN
+Comportamento das Ações
+UTILITIES Ações
+Altas -
+Baixas 24
+Estáveis -
+Sem Negociações -
+Total 24
+Mínimo no ano 8887 - 02 JAN
+Máximo no ano 8887 - 02 JAN
+Comportamento das Ações
+IVBX2 Ações
+Altas 6
+Baixas 44
+Estáveis -
+Sem Negociações -
+Total 50
+Mínimo no ano 11880 - 02 JAN
+Máximo no ano 11880 - 02 JAN
+Evolução dos Fechamentos
+IFINANCEIRO (%)
+Do dia -3.42%
+Ontem 0.00%
+Na semana -3.43%
+Em uma semana -3.03%
+No mês -3.43%
+Em um mês -3.73%
+No ano -3.43%
+Em um ano 7.56%
+Evolução dos Fechamentos
+UTILITIES (%)
+Do dia -3.39%
+Ontem 0.00%
+Na semana -3.40%
+Em uma semana -2.46%
+No mês -3.40%
+Em um mês -5.56%
+No ano -3.40%
+Em um ano 8.08%
+Evolução dos Fechamentos
+IVBX2 (%)
+Do dia -3.41%
+Ontem 0.00%
+Na semana -3.42%
+Em uma semana -1.74%
+No mês -3.42%
+Em um mês -5.84%
+No ano -3.42%
+Em um ano -15.88%
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 111
+
+PAGINA 12
+IGC TRADE
+Comportamento no Dia
+IGC TRADE Pontos
+Abertura 4,898
+Mínimo 4,732
+Máximo 4,898
+Fechamento 4,753
+Média Aritimética 4,755
+Média Ponderada 4,754
+ITAG
+Comportamento no Dia
+ITAG Pontos
+Abertura 24,170
+Mínimo 23,360
+Máximo 24,170
+Fechamento 23,457
+Média Aritimética 23,476
+Média Ponderada 23,469
+IGC
+Comportamento no Dia
+IGC Pontos
+Abertura 17,364
+Mínimo 16,776
+Máximo 17,364
+Fechamento 16,838
+Média Aritimética 16,855
+Média Ponderada 16,852
+Comportamento das Ações
+IGC TRADE Ações
+Altas 13
+Baixas 167
+Estáveis 2
+Sem Negociações -
+Total 182
+Mínimo no ano 4753 - 02 JAN
+Máximo no ano 4753 - 02 JAN
+Comportamento das Ações
+ITAG Ações
+Altas 30
+Baixas 204
+Estáveis 8
+Sem Negociações -
+Total 242
+Mínimo no ano 23457 - 02 JAN
+Máximo no ano 23457 - 02 JAN
+Comportamento das Ações
+IGC Ações
+Altas 28
+Baixas 218
+Estáveis 8
+Sem Negociações -
+Total 254
+Mínimo no ano 16838 - 02 JAN
+Máximo no ano 16838 - 02 JAN
+Evolução dos Fechamentos
+IGC TRADE (%)
+Do dia -2.96%
+Ontem 0.00%
+Na semana -2.97%
+Em uma semana -2.17%
+No mês -2.97%
+Em um mês -4.80%
+No ano -2.97%
+Em um ano 0.46%
+Evolução dos Fechamentos
+ITAG (%)
+Do dia -2.95%
+Ontem 0.00%
+Na semana -2.95%
+Em uma semana -2.07%
+No mês -2.95%
+Em um mês -4.68%
+No ano -2.95%
+Em um ano 0.41%
+Evolução dos Fechamentos
+IGC (%)
+Do dia -3.02%
+Ontem 0.00%
+Na semana -3.03%
+Em uma semana -2.21%
+No mês -3.03%
+Em um mês -4.64%
+No ano -3.03%
+Em um ano -0.72%
+IGNM
+Comportamento no Dia
+IGNM Pontos
+Abertura 3,517
+Mínimo 3,400
+Máximo 3,517
+Fechamento 3,409
+Média Aritimética 3,414
+Média Ponderada 3,414
+MIDLARGE CAP
+Comportamento no Dia
+MIDLARGE CAP Pontos
+Abertura 2,182
+Mínimo 2,113
+Máximo 2,182
+Fechamento 2,120
+Média Aritimética 2,122
+Média Ponderada 2,122
+SMALL CAP
+Comportamento no Dia
+SMALL CAP Pontos
+Abertura 2,009
+Mínimo 1,921
+Máximo 2,009
+Fechamento 1,939
+Média Aritimética 1,936
+Média Ponderada 1,937
+Comportamento das Ações
+IGNM Ações
+Altas 21
+Baixas 164
+Estáveis 5
+Sem Negociações -
+Total 190
+Mínimo no ano 3409 - 02 JAN
+Máximo no ano 3409 - 02 JAN
+Comportamento das Ações
+MIDLARGE CAP Ações
+Altas 5
+Baixas 57
+Estáveis -
+Sem Negociações -
+Total 62
+Mínimo no ano 2120 - 02 JAN
+Máximo no ano 2120 - 02 JAN
+Comportamento das Ações
+SMALL CAP Ações
+Altas 9
+Baixas 118
+Estáveis 2
+Sem Negociações -
+Total 129
+Mínimo no ano 1939 - 02 JAN
+Máximo no ano 1939 - 02 JAN
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 112
+
+PAGINA 13
+Evolução dos Fechamentos
+IGNM (%)
+Do dia -3.06%
+Ontem 0.00%
+Na semana -3.06%
+Em uma semana -2.05%
+No mês -3.06%
+Em um mês -4.16%
+No ano -3.06%
+Em um ano -5.30%
+Evolução dos Fechamentos
+MIDLARGE CAP (%)
+Do dia -2.84%
+Ontem 0.00%
+Na semana -2.84%
+Em uma semana -1.97%
+No mês -2.84%
+Em um mês -4.73%
+No ano -2.84%
+Em um ano 2.89%
+Evolução dos Fechamentos
+SMALL CAP (%)
+Do dia -3.48%
+Ontem 0.00%
+Na semana -3.48%
+Em uma semana -3.21%
+No mês -3.48%
+Em um mês -6.22%
+No ano -3.48%
+Em um ano -18.02%
+IFIL
+Comportamento no Dia
+IFIL Pontos
+Abertura 1,270
+Mínimo 1,262
+Máximo 1,271
+Fechamento 1,268
+Média Aritimética 1,266
+Média Ponderada 1,266
+BDRX
+Comportamento no Dia
+BDRX Pontos
+Abertura 10,955
+Mínimo 10,949
+Máximo 11,244
+Fechamento 11,244
+Média Aritimética 11,107
+Média Ponderada -
+I DIVIDENDOS
+Comportamento no Dia
+I DIVIDENDOS Pontos
+Abertura 7,153
+Mínimo 6,942
+Máximo 7,153
+Fechamento 6,982
+Média Aritimética 6,981
+Média Ponderada 6,981
+Comportamento das Ações
+IFIL Ações
+Altas 34
+Baixas 34
+Estáveis -
+Sem Negociações -
+Total 68
+Mínimo no ano 1268 - 02 JAN
+Máximo no ano 1268 - 02 JAN
+Comportamento das Ações
+BDRX Ações
+Altas -
+Baixas -
+Estáveis -
+Sem Negociações -
+Total 134
+Mínimo no ano 11244 - 02 JAN
+Máximo no ano 11244 - 02 JAN
+Comportamento das Ações
+I DIVIDENDOS Ações
+Altas 5
+Baixas 45
+Estáveis -
+Sem Negociações -
+Total 50
+Mínimo no ano 6982 - 02 JAN
+Máximo no ano 6982 - 02 JAN
+Evolução dos Fechamentos
+IFIL (%)
+Do dia -0.16%
+Ontem 0.00%
+Na semana -0.17%
+Em uma semana 1.20%
+No mês -0.17%
+Em um mês -1.16%
+No ano -0.17%
+Em um ano 1.79%
+Evolução dos Fechamentos
+BDRX (%)
+Do dia 1.61%
+Ontem 0.00%
+Na semana 1.61%
+Em uma semana 3.91%
+No mês 1.61%
+Em um mês -3.15%
+No ano 1.61%
+Em um ano -26.89%
+Evolução dos Fechamentos
+I DIVIDENDOS (%)
+Do dia -2.38%
+Ontem 0.00%
+Na semana -2.39%
+Em uma semana -1.27%
+No mês -2.39%
+Em um mês -3.61%
+No ano -2.39%
+Em um ano 9.96%
+AGFS
+Comportamento no Dia
+IAGRO-FFS B3 Pontos
+Abertura 1,548
+Mínimo 1,484
+Máximo 1,548
+Fechamento 1,499
+Média Aritimética 1,495
+Média Ponderada 1,496
+IGPTW B3
+Comportamento no Dia
+IGPTW B3 Pontos
+Abertura 1,147
+Mínimo 1,099
+Máximo 1,147
+Fechamento 1,113
+Média Aritimética 1,110
+Média Ponderada 1,112
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 113
+
+PAGINA 14
+Comportamento das Ações
+IAGRO-FFS B3 Ações
+Altas 3
+Baixas 29
+Estáveis -
+Sem Negociações -
+Total 32
+Mínimo no ano 1499 - 02 JAN
+Máximo no ano 1499 - 02 JAN
+Comportamento das Ações
+IGPTW B3 Ações
+Altas 4
+Baixas 59
+Estáveis 2
+Sem Negociações -
+Total 65
+Mínimo no ano 1113 - 02 JAN
+Máximo no ano 1113 - 02 JAN
+Evolução dos Fechamentos
+IAGRO-FFS B3 (%)
+Do dia -3.19%
+Ontem 0.00%
+Na semana -3.20%
+Em uma semana 0.54%
+No mês -3.20%
+Em um mês -4.69%
+No ano -3.20%
+Em um ano -15.61%
+Evolução dos Fechamentos
+IGPTW B3 (%)
+Do dia -2.99%
+Ontem 0.00%
+Na semana -2.99%
+Em uma semana -2.65%
+No mês -2.99%
+Em um mês -6.97%
+No ano -2.99%
+Em um ano -15.29%
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 114
+
+PAGINA 15
+Composição das Carteiras de Índices
+Para Janeiro a Abril de 2023
+(1) Quantidade teórica válida para o período de vigência da carteira, sujeita a alterações somente no caso de distribuição de proventos (dividendo,
+bonificação e subscrição) pelas empresas.
+(2) Participação relativa das ações da carteira, divulgada para a abertura dos negócios do dia 29/12/2022 sujeita a alterações em função das evoluções dos
+preços desses papéis.
+IBOVESPA
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 4,386,652,506 3.2745
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.1571
+AMER3 AMERICANAS ON      NM 611,169,249 0.3032
+ARZZ3 AREZZO CO ON      NM 60,758,326 0.2444
+ASAI3 ASSAI ON  EJ  NM 935,793,199 0.9366
+AZUL4 AZUL PN      N2 327,646,296 0.1854
+B3SA3 B3 ON  ED  NM 5,901,731,302 3.9915
+BBAS3 BRASIL ON      NM 1,420,731,069 2.5367
+BBDC3 BRADESCO ON      N1 1,508,883,586 1.0449
+BBDC4 BRADESCO PN      N1 5,156,077,326 4.0159
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.1640
+BEEF3 MINERVA ON      NM 260,340,982 0.1734
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 1.5082
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.1065
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 0.3835
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 0.4582
+BRKM5 BRASKEM PNA     N1 265,212,486 0.3239
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.3534
+CASH3 MELIUZ ON      NM 657,970,941 0.0399
+CCRO3 CCR SA ON      NM 998,462,635 0.5554
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.2950
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 0.8259
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 0.2329
+COGN3 COGNA ON ON      NM 1,820,405,422 0.1984
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 0.3204
+CPLE6 COPEL PNB     N2 1,563,365,506 0.6357
+CRFB3 CARREFOUR BR ON      NM 528,743,156 0.4017
+CSAN3 COSAN ON      NM 1,171,063,698 1.0307
+CSNA3 SID NACIONAL ON  EJ 589,695,175 0.4411
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.0637
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.1842
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.0958
+ECOR3 ECORODOVIAS ON      NM 310,103,685 0.0709
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 0.4970
+ELET3 ELETROBRAS ON      N1 1,871,213,500 4.0519
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.6123
+EMBR3 EMBRAER ON      NM 734,632,205 0.5404
+ENBR3 ENERGIAS BR ON      NM 246,028,184 0.2629
+ENEV3 ENEVA ON      NM 1,576,898,490 0.9671
+ENGI11 ENERGISA UNT     N2 248,477,689 0.5647
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 1.5287
+EZTC3 EZTEC ON      NM 94,318,339 0.0651
+FLRY3 FLEURY ON  EJ  NM 351,919,239 0.2795
+GGBR4 GERDAU PN      N1 1,093,112,629 1.6505
+GOAU4 GERDAU MET PN      N1 667,194,478 0.4448
+GOLL4 GOL PN      N2 190,059,275 0.0717
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.1637
+HYPE3 HYPERA ON  EJ  NM 400,842,480 0.9314
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 0.2031
+ITSA4 ITAUSA PN      N1 5,233,076,295 2.2894
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 6.1674
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 115
+
+PAGINA 16
+Código Ação Tipo Quantidade teórica Participação (%)
+JBSS3 JBS ON      NM 1,134,986,483 1.2831
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 0.7206
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 1.0165
+LWSA3 LOCAWEB ON      NM 419,466,860 0.1513
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.4048
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.1416
+MRVE3 MRV ON      NM 305,668,749 0.1194
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.3019
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.4989
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.1340
+PETR3 PETROBRAS ON      N2 3,484,913,747 5.0236
+PETR4 PETROBRAS PN      N2 4,566,441,248 5.7517
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.1080
+PRIO3 PETRORIO ON      NM 839,159,130 1.6053
+QUAL3 QUALICORP ON      NM 277,226,847 0.0836
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 1.4585
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.1630
+RAIZ4 RAIZEN PN      N2 1,200,488,532 0.2308
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 1.7483
+RENT3 LOCALIZA ON  EJS NM 773,535,098 2.1156
+RRRP3 3R PETROLEUM ON      NM 196,144,421 0.3806
+SANB11 SANTANDER BR UNT 355,642,848 0.5154
+SBSP3 SABESP ON      NM 340,002,999 0.9991
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 0.2321
+SMTO3 SAO MARTINHO ON      NM 143,294,210 0.1953
+SOMA3 GRUPO SOMA ON      NM 490,736,222 0.2558
+SUZB3 SUZANO S.A. ON      NM 726,823,001 1.8025
+TAEE11 TAESA UNT     N2 218,568,234 0.3895
+TIMS3 TIM ON  EJ  NM 808,436,195 0.5153
+TOTS3 TOTVS ON      NM 520,749,110 0.7346
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 0.7052
+USIM5 USIMINAS PNA     N1 515,014,562 0.1895
+VALE3 VALE ON      NM 3,394,804,584 15.5121
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 0.8909
+VIIA3 VIA ON      NM 1,576,975,642 0.1945
+VIVT3 TELEF BRASIL ON 423,091,712 0.8131
+WEGE3 WEG ON      NM 1,318,583,017 2.6105
+YDUQ3 YDUQS PART ON      NM 296,015,511 0.1547
+Quantidade teórica total: 98.185.721.440
+Valor do Redutor: 17.725.713,4772277
+Participação total: 100.00%
+IGCX
+Código Ação Tipo Quantidade teórica Participação (%)
+AALR3 ALLIAR ON      NM 84,030,910 0.0503
+ABCB4 ABC BRASIL PN      N2 101,343,192 0.0543
+AERI3 AERIS ON      NM 454,141,592 0.0142
+AESB3 AES BRASIL ON      NM 630,418,784 0.1688
+AGRO3 BRASILAGRO ON      NM 118,425,092 0.0983
+AGXY3 AGROGALAXY ON      NM 129,402,060 0.0353
+ALLD3 ALLIED ON  EJ  NM 49,230,870 0.0081
+ALPA3 ALPARGATAS ON      N1 13,716,765 0.0045
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.0847
+ALPK3 ESTAPAR ON      NM 176,568,244 0.0076
+ALSO3 ALIANSCSONAE ON      NM 244,941,854 0.1155
+ALUP11 ALUPAR UNT     N2 210,075,505 0.1644
+AMAR3 LOJAS MARISA ON      NM 312,377,324 0.0108
+AMBP3 AMBIPAR ON      NM 87,707,518 0.0508
+AMER3 AMERICANAS ON      NM 1,222,338,498 0.3270
+ANIM3 ANIMA ON      NM 513,561,038 0.0549
+APER3 ALPER S.A. ON      NM 30,761,148 0.0230
+ARML3 ARMAC ON  EDJ NM 344,428,442 0.1122
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 116
+
+PAGINA 17
+Código Ação Tipo Quantidade teórica Participação (%)
+ARZZ3 AREZZO CO ON      NM 121,516,652 0.2636
+ASAI3 ASSAI ON  EJ  NM 1,871,586,398 1.0103
+AURE3 AUREN ON      NM 603,932,636 0.2466
+AVLL3 ALPHAVILLE ON      NM 8,912,806 0.0017
+AZUL4 AZUL PN      N2 491,469,444 0.1500
+B3SA3 B3 ON  ED  NM 11,803,462,604 4.3054
+BBAS3 BRASIL ON      NM 2,841,462,138 2.7361
+BBDC3 BRADESCO ON      N1 1,508,883,586 0.5635
+BBDC4 BRADESCO PN      N1 5,156,077,326 2.1658
+BBSE3 BBSEGURIDADE ON      NM 1,343,365,072 1.2555
+BEEF3 MINERVA ON      NM 520,681,964 0.1871
+BLAU3 BLAU ON  EJ  NM 59,674,384 0.0435
+BMEB3 MERC BRASIL ON      N1 65,155,744 0.0180
+BMEB4 MERC BRASIL PN      N1 27,466,466 0.0076
+BMGB4 BANCO BMG PN  EJ  N1 101,366,402 0.0061
+BMOB3 BEMOBI TECH ON      NM 167,442,436 0.0664
+BOAS3 BOA VISTA ON  EJ  NM 1,060,930,188 0.2135
+BPAC11 BTGP BANCO UNT     N2 1,838,205,636 1.2201
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.0574
+BRAP3 BRADESPAR ON  EJ  N1 30,318,904 0.0214
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 0.2068
+BRBI11 BR PARTNERS UNT     N2 85,830,696 0.0285
+BRFS3 BRF SA ON  ATZ NM 2,153,025,220 0.4942
+BRIT3 BRISANET ON      NM 189,684,134 0.0143
+BRKM3 BRASKEM ON      N1 12,907,077 0.0090
+BRKM5 BRASKEM PNA     N1 265,212,486 0.1747
+BRML3 BR MALLS PAR ON      NM 1,656,547,768 0.3812
+BRPR3 BR PROPERT ON      NM 350,878,174 0.0635
+BRSR3 BANRISUL ON      N1 3,839,426 0.0011
+BRSR6 BANRISUL PNB     N1 202,535,840 0.0544
+CAML3 CAMIL ON      NM 200,936,994 0.0461
+CASH3 MELIUZ ON      NM 1,315,941,882 0.0430
+CBAV3 CBA ON      NM 382,700,000 0.1225
+CCRO3 CCR SA ON      NM 1,996,925,270 0.5990
+CEAB3 CEA MODAS ON      NM 210,711,870 0.0133
+CEDO4 CEDRO PN      N1 3,855,850 0.0004
+CIEL3 CIELO ON  EJ  NM 2,190,802,516 0.3182
+CLSA3 CLEARSALE ON      NM 105,546,096 0.0164
+CLSC3 CELESC ON      N2 9,446,185 0.0131
+CLSC4 CELESC PN      N2 34,215,190 0.0519
+CMIG3 CEMIG ON  EJ  N1 360,768,393 0.1615
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 0.4454
+CMIN3 CSNMINERACAO ON  EJ  N2 1,665,825,894 0.1884
+COGN3 COGNA ON ON      NM 3,640,810,844 0.2140
+CPFE3 CPFL ENERGIA ON      NM 375,465,076 0.3456
+CPLE6 COPEL PNB     N2 2,345,048,259 0.5143
+CRFB3 CARREFOUR BR ON      NM 1,057,486,312 0.4333
+CSAN3 COSAN ON      NM 2,342,127,396 1.1117
+CSED3 CRUZEIRO EDU ON      NM 155,510,400 0.0165
+CSMG3 COPASA ON      NM 376,938,412 0.1639
+CSUD3 CSU DIGITAL ON      NM 37,004,186 0.0125
+CURY3 CURY S/A ON      NM 240,582,650 0.0844
+CVCB3 CVC BRASIL ON      NM 551,935,352 0.0687
+CXSE3 CAIXA SEGURI ON      NM 1,035,000,000 0.2396
+CYRE3 CYRELA REALT ON      NM 548,284,602 0.1986
+DASA3 DASA ON  EJ  NM 143,689,178 0.0547
+DESK3 DESKTOP ON      NM 84,346,152 0.0187
+DEXP3 DEXXOS PAR ON      N1 88,241,730 0.0168
+DEXP4 DEXXOS PAR PN      N1 5,406,424 0.0009
+DIRR3 DIRECIONAL ON      NM 164,395,390 0.0712
+DMVF3 D1000VFARMA ON      NM 38,072,410 0.0043
+DOTZ3 DOTZ SA ON      NM 80,271,134 0.0028
+DXCO3 DEXCO ON  EB  NM 549,726,848 0.1033
+ECOR3 ECORODOVIAS ON      NM 620,207,370 0.0765
+EGIE3 ENGIE BRASIL ON  EJ  NM 510,416,922 0.5360
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 117
+
+PAGINA 18
+Código Ação Tipo Quantidade teórica Participação (%)
+ELET3 ELETROBRAS ON      N1 2,021,119,463 2.3603
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.3302
+ELMD3 ELETROMIDIA ON      NM 105,338,422 0.0298
+EMBR3 EMBRAER ON      NM 1,469,264,410 0.5829
+ENAT3 ENAUTA PART ON      NM 154,672,290 0.0578
+ENBR3 ENERGIAS BR ON      NM 492,056,368 0.2836
+ENEV3 ENEVA ON      NM 3,153,796,980 1.0432
+ENGI11 ENERGISA UNT     N2 372,716,533 0.4568
+ENJU3 ENJOEI ON      NM 303,198,022 0.0081
+EQTL3 EQUATORIAL ON      NM 2,201,026,970 1.6489
+ESPA3 ESPACOLASER ON      NM 477,876,248 0.0176
+EUCA3 EUCATEX ON      N1 13,087,718 0.0043
+EUCA4 EUCATEX PN      N1 56,184,521 0.0131
+EVEN3 EVEN ON      NM 397,788,660 0.0505
+EZTC3 EZTEC ON      NM 188,636,678 0.0702
+FESA4 FERBASA PN  EDJ N1 40,495,100 0.0600
+FHER3 FER HERINGER ON      NM 31,253,924 0.0149
+FIQE3 UNIFIQUE ON      NM 181,939,526 0.0196
+FLRY3 FLEURY ON  EJ  NM 703,838,478 0.3015
+FRAS3 FRAS-LE ON  EJ  N1 89,324,085 0.0238
+GFSA3 GAFISA ON      NM 120,194,176 0.0329
+GGBR3 GERDAU ON      N1 14,031,044 0.0095
+GGBR4 GERDAU PN      N1 1,093,112,629 0.8901
+GGPS3 GPS ON      NM 762,251,356 0.2517
+GMAT3 GRUPO MATEUS ON      NM 927,904,326 0.1625
+GOAU3 GERDAU MET ON      N1 90,953,948 0.0304
+GOAU4 GERDAU MET PN      N1 667,194,478 0.2399
+GOLL4 GOL PN      N2 285,088,912 0.0580
+GRND3 GRENDENE ON      NM 535,455,264 0.0895
+GUAR3 GUARARAPES ON      NM 163,869,320 0.0296
+HAPV3 HAPVIDA ON      NM 8,911,915,524 1.2552
+HBOR3 HELBOR ON      NM 131,190,956 0.0074
+HBRE3 HBR REALTY ON      NM 51,594,492 0.0064
+HBSA3 HIDROVIAS ON      NM 1,520,219,132 0.0952
+HYPE3 HYPERA ON  EJ  NM 801,684,960 1.0047
+IFCM3 INFRACOMM ON      NM 580,655,652 0.0597
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 0.1095
+INTB3 INTELBRAS ON  EJ  NM 229,061,026 0.1933
+ITSA3 ITAUSA ON      N1 1,222,019,387 0.3015
+ITSA4 ITAUSA PN      N1 5,233,076,295 1.2347
+ITUB3 ITAUUNIBANCO ON      N1 384,272,066 0.2330
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 3.3262
+JALL3 JALLESMACHAD ON      NM 199,785,994 0.0423
+JBSS3 JBS ON      NM 2,269,972,966 1.3840
+JHSF3 JHSF PART ON      NM 598,038,660 0.0832
+JSLG3 JSL ON  EJ  NM 126,369,410 0.0193
+KLBN11 KLABIN S/A UNT EJ  N2 1,052,849,634 0.5829
+KRSA3 KORA SAUDE ON      NM 312,373,080 0.0067
+LAND3 TERRASANTAPA ON      NM 61,224,154 0.0488
+LAVV3 LAVVI ON      NM 147,700,258 0.0195
+LEVE3 METAL LEVE ON      NM 76,985,036 0.0641
+LIGT3 LIGHT S/A ON      NM 744,125,048 0.0955
+LJQQ3 QUERO-QUERO ON      NM 358,194,858 0.0417
+LOGG3 LOG COM PROP ON      NM 119,059,034 0.0532
+LOGN3 LOG-IN ON      NM 51,356,070 0.0499
+LPSB3 LOPES BRASIL ON      NM 208,841,168 0.0105
+LREN3 LOJAS RENNER ON  EJ  NM 1,931,057,614 1.0965
+LVTC3 WDC NETWORKS ON      NM 43,090,642 0.0070
+LWSA3 LOCAWEB ON      NM 838,933,720 0.1632
+MATD3 MATER DEI ON      NM 162,010,912 0.0323
+MBLY3 MOBLY ON      NM 88,888,890 0.0073
+MDIA3 M.DIASBRANCO ON      NM 138,583,884 0.1376
+MDNE3 MOURA DUBEUX ON      NM 107,110,990 0.0172
+MEAL3 IMC S/A ON      NM 526,192,664 0.0408
+MEGA3 OMEGAENERGIA ON      NM 561,000,648 0.1493
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 118
+
+PAGINA 19
+Código Ação Tipo Quantidade teórica Participação (%)
+MELK3 MELNICK ON      NM 136,430,530 0.0124
+MGLU3 MAGAZ LUIZA ON      NM 5,748,377,146 0.4367
+MILS3 MILLS ON      NM 359,144,720 0.1138
+MLAS3 MULTILASER ON      NM 900,796,376 0.1006
+MODL3 MODALMAIS ON      NM 582,626,462 0.0357
+MOVI3 MOVIDA ON  EJ  NM 263,750,652 0.0558
+MRFG3 MARFRIG ON  ED  NM 633,449,168 0.1528
+MRVE3 MRV ON      NM 611,337,498 0.1288
+MTRE3 MITRE REALTY ON      NM 104,927,902 0.0105
+MULT3 MULTIPLAN ON  EJ  N2 402,217,992 0.2442
+MYPK3 IOCHP-MAXION ON      NM 262,533,798 0.0856
+NEOE3 NEOENERGIA ON      NM 392,505,776 0.1681
+NGRD3 NEOGRID ON      NM 204,615,678 0.0084
+NINJ3 GETNINJAS ON      NM 82,657,722 0.0063
+NTCO3 GRUPO NATURA ON      NM 1,671,922,022 0.5382
+ODPV3 ODONTOPREV ON      NM 491,236,418 0.1229
+OFSA3 OUROFINO S/A ON      NM 46,802,866 0.0315
+ONCO3 ONCOCLINICAS ON      NM 298,328,798 0.0498
+OPCT3 OCEANPACT ON      NM 246,435,652 0.0195
+ORVR3 ORIZON ON      NM 69,005,198 0.0648
+OSXB3 OSX BRASIL ON      NM 3,184,332 0.0005
+PARD3 IHPARDINI ON  EJ  NM 83,221,320 0.0485
+PCAR3 P.ACUCAR-CBD ON      NM 315,779,254 0.1446
+PDTC3 PADTEC ON      NM 70,125,012 0.0059
+PETR3 PETROBRAS ON      N2 5,552,640,856 4.3169
+PETR4 PETROBRAS PN      N2 6,849,661,872 4.6529
+PETZ3 PETZ ON  EJ  NM 671,449,138 0.1165
+PFRM3 PROFARMA ON  EJ  NM 174,999,556 0.0178
+PGMN3 PAGUE MENOS ON      NM 307,287,772 0.0373
+PINE4 PINE PN      N2 93,758,976 0.0042
+PLPL3 PLANOEPLANO ON      NM 109,390,782 0.0120
+PNVL3 DIMED ON  EJ  NM 142,590,344 0.0400
+POMO3 MARCOPOLO ON  EJ  N2 250,360,692 0.0166
+POMO4 MARCOPOLO PN  EJ  N2 832,402,594 0.0653
+PORT3 WILSON SONS ON      NM 381,354,800 0.1143
+POSI3 POSITIVO TEC ON      NM 147,146,056 0.0383
+PRIO3 PETRORIO ON      NM 1,678,318,260 1.7315
+PRNR3 PRINER ON      NM 74,964,030 0.0139
+PSSA3 PORTO SEGURO ON      NM 359,519,534 0.2307
+PTBL3 PORTOBELLO ON      NM 109,032,254 0.0248
+QUAL3 QUALICORP ON      NM 554,453,694 0.0902
+RADL3 RAIADROGASIL ON      NM 2,392,138,772 1.5732
+RAIL3 RUMO S.A. ON      NM 2,431,285,226 1.2545
+RAIZ4 RAIZEN PN      N2 1,800,732,798 0.1867
+RANI3 IRANI ON      NM 199,987,730 0.0446
+RAPT3 RANDON PART ON  EJ  N1 21,308,966 0.0047
+RAPT4 RANDON PART PN  EJ  N1 177,742,165 0.0404
+RDNI3 RNI ON      NM 28,096,938 0.0053
+RDOR3 REDE D OR ON  EJ  NM 2,299,388,680 1.8858
+RECV3 PETRORECSA ON      NM 552,873,146 0.5078
+RENT3 LOCALIZA ON  EJS NM 1,547,070,196 2.2820
+ROMI3 ROMI ON  EJ  NM 81,985,108 0.0346
+RRRP3 3R PETROLEUM ON      NM 392,288,842 0.4106
+SAPR11 SANEPAR UNT     N2 301,622,226 0.1444
+SBFG3 GRUPO SBF ON      NM 191,133,012 0.0677
+SBSP3 SABESP ON      NM 680,005,998 1.0777
+SCAR3 SAO CARLOS ON      NM 45,260,456 0.0227
+SEER3 SER EDUCA ON      NM 104,944,414 0.0130
+SEQL3 SEQUOIA LOG ON      NM 245,717,548 0.0207
+SGPS3 SPRINGS ON      NM 47,084,574 0.0017
+SHOW3 TIME FOR FUN ON      NM 66,517,704 0.0044
+SIMH3 SIMPAR ON  EJ  NM 453,780,162 0.0850
+SLCE3 SLC AGRICOLA ON  EJ  NM 192,544,040 0.2504
+SMFT3 SMART FIT ON      NM 517,609,532 0.1950
+SMTO3 SAO MARTINHO ON      NM 286,588,420 0.2107
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 119
+
+PAGINA 20
+Código Ação Tipo Quantidade teórica Participação (%)
+SOJA3 BOA SAFRA ON      NM 92,919,294 0.0267
+SOMA3 GRUPO SOMA ON      NM 981,472,444 0.2759
+SQIA3 SINQIA ON      NM 143,582,066 0.0598
+STBP3 SANTOS BRP ON  EJ  NM 1,717,371,598 0.3718
+SUZB3 SUZANO S.A. ON      NM 1,453,646,002 1.9442
+SYNE3 SYN PROP TEC ON      NM 117,864,468 0.0135
+TAEE11 TAESA UNT     N2 327,852,351 0.3151
+TASA3 TAURUS ARMAS ON      N2 11,693,211 0.0042
+TASA4 TAURUS ARMAS PN      N2 102,130,000 0.0378
+TCSA3 TECNISA ON      NM 95,702,436 0.0070
+TECN3 TECHNOS ON      NM 82,136,814 0.0048
+TEND3 TENDA ON      NM 191,345,030 0.0223
+TFCO4 TRACK FIELD PN  EJ  N2 80,494,951 0.0234
+TGMA3 TEGMA ON      NM 64,002,960 0.0343
+TIMS3 TIM ON  EJ  NM 1,616,872,390 0.5558
+TOTS3 TOTVS ON      NM 1,041,498,220 0.7924
+TPIS3 TRIUNFO PART ON      NM 148,298,626 0.0037
+TRAD3 TC ON      NM 168,299,058 0.0103
+TRIS3 TRISUL ON      NM 142,698,992 0.0136
+TRPL3 TRAN PAULIST ON  EJ  N1 27,080,900 0.0217
+TRPL4 TRAN PAULIST PN  EJ  N1 395,794,140 0.2524
+TTEN3 3TENTOS ON      NM 224,687,172 0.0580
+TUPY3 TUPY ON      NM 135,094,988 0.1017
+UCAS3 UNICASA ON      NM 57,016,876 0.0040
+UGPA3 ULTRAPAR ON      NM 2,175,775,362 0.7607
+USIM3 USIMINAS ON      N1 161,021,703 0.0330
+USIM5 USIMINAS PNA     N1 515,014,562 0.1022
+VALE3 VALE ON      NM 7,994,966,121 19.7023
+VAMO3 VAMOS ON  EJ  NM 629,449,940 0.2205
+VBBR3 VIBRA ON  EJ  NM 2,228,885,952 0.9609
+VIIA3 VIA ON      NM 3,153,951,284 0.2098
+VITT3 VITTIA ON      NM 101,104,720 0.0364
+VIVA3 VIVARA S.A. ON      NM 198,433,048 0.1234
+VLID3 VALID ON      NM 158,509,958 0.0403
+VULC3 VULCABRAS ON      NM 147,532,782 0.0510
+VVEO3 VIVEO ON  EJ  NM 226,962,594 0.1015
+WEGE3 WEG ON      NM 2,963,186,048 3.1639
+WEST3 WESTWING ON      NM 217,483,526 0.0071
+WIZS3 WIZ S.A. ON      NM 150,550,456 0.0292
+YDUQ3 YDUQS PART ON      NM 592,031,022 0.1669
+ZAMP3 ZAMP S.A. ON      NM 541,164,358 0.0817
+Quantidade teórica total: 196.069.641.785
+Valor do Redutor: 207.702.537,034315
+Participação total: 100.00%
+IBRX50
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 4,386,652,506 3.5210
+AMER3 AMERICANAS ON      NM 611,169,249 0.3260
+ASAI3 ASSAI ON  EJ  NM 935,793,199 1.0072
+AZUL4 AZUL PN      N2 327,646,296 0.1994
+B3SA3 B3 ON  ED  NM 5,901,731,302 4.2920
+BBAS3 BRASIL ON      NM 1,420,731,069 2.7276
+BBDC4 BRADESCO PN      N1 5,156,077,326 4.3182
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.2516
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 1.6218
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 0.4927
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.3800
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.3173
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 0.8880
+CSAN3 COSAN ON      NM 1,171,063,698 1.1083
+CSNA3 SID NACIONAL ON  EJ 589,695,175 0.4743
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 120
+
+PAGINA 21
+Código Ação Tipo Quantidade teórica Participação (%)
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.0684
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.1980
+ELET3 ELETROBRAS ON      N1 2,021,119,463 4.7060
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.6584
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 1.6438
+GGBR4 GERDAU PN      N1 1,093,112,629 1.7747
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.2513
+HYPE3 HYPERA ON  EJ  NM 400,842,480 1.0015
+ITSA4 ITAUSA PN      N1 5,233,076,295 2.4618
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 6.6317
+JBSS3 JBS ON      NM 1,134,986,483 1.3797
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 0.7748
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 1.0931
+LWSA3 LOCAWEB ON      NM 419,466,860 0.1627
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.4353
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.1523
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.3246
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.5365
+PETR3 PETROBRAS ON      N2 3,701,760,571 5.7380
+PETR4 PETROBRAS PN      N2 4,566,441,248 6.1846
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.1161
+PRIO3 PETRORIO ON      NM 839,159,130 1.7261
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 1.5683
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.2506
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 1.8799
+RENT3 LOCALIZA ON  EJS NM 773,535,098 2.2749
+RRRP3 3R PETROLEUM ON      NM 196,144,421 0.4093
+SBSP3 SABESP ON      NM 340,002,999 1.0743
+SUZB3 SUZANO S.A. ON      NM 726,823,001 1.9382
+TOTS3 TOTVS ON      NM 520,749,110 0.7899
+USIM5 USIMINAS PNA     N1 515,014,562 0.2038
+VALE3 VALE ON      NM 4,547,296,398 22.3424
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 0.9579
+VIIA3 VIA ON      NM 1,576,975,642 0.2092
+WEGE3 WEG ON      NM 1,481,593,024 3.1541
+Quantidade teórica total: 79.085.718.841
+Valor do Redutor: 97.757.734,6456862
+Participação total: 100.00%
+IVBX-2
+Código Ação Tipo Quantidade teórica Participação (%)
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.4428
+AMER3 AMERICANAS ON      NM 611,169,249 0.8541
+ASAI3 ASSAI ON  EJ  NM 935,793,199 2.6387
+AZUL4 AZUL PN      N2 327,646,296 0.5224
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 3.2792
+BEEF3 MINERVA ON      NM 260,340,982 0.4886
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 1.0804
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 1.2909
+BRKM5 BRASKEM PNA     N1 265,212,486 0.9126
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.9956
+CCRO3 CCR SA ON      NM 998,462,635 1.5646
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.8312
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 2.3266
+COGN3 COGNA ON ON      NM 1,820,405,422 0.5589
+CPLE6 COPEL PNB     N2 1,563,365,506 1.7909
+CSAN3 COSAN ON      NM 1,171,063,698 2.9035
+CSNA3 SID NACIONAL ON  EJ 589,695,175 1.2426
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.1794
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.5189
+EMBR3 EMBRAER ON      NM 734,632,205 1.5225
+ENEV3 ENEVA ON      NM 1,576,898,490 2.7245
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 121
+
+PAGINA 22
+Código Ação Tipo Quantidade teórica Participação (%)
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 4.3065
+GGBR4 GERDAU PN      N1 1,093,112,629 4.6496
+GOAU4 GERDAU MET PN      N1 667,194,478 1.2532
+GOLL4 GOL PN      N2 190,059,275 0.2020
+HAPV3 HAPVIDA ON      NM 4,455,957,762 3.2783
+HYPE3 HYPERA ON  EJ  NM 400,842,480 2.6239
+ITSA4 ITAUSA PN      N1 5,233,076,295 6.4496
+JBSS3 JBS ON      NM 1,134,986,483 3.6146
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 2.0300
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 2.8638
+LWSA3 LOCAWEB ON      NM 419,466,860 0.4264
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.3990
+MRVE3 MRV ON      NM 305,668,749 0.3364
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.8504
+NTCO3 GRUPO NATURA ON      NM 835,961,011 1.4056
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.3043
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 4.1088
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 3.2764
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 4.9252
+RENT3 LOCALIZA ON  EJS NM 773,535,098 5.9599
+RRRP3 3R PETROLEUM ON      NM 196,144,421 1.0723
+SBSP3 SABESP ON      NM 340,002,999 2.8146
+SUZB3 SUZANO S.A. ON      NM 726,823,001 5.0779
+TIMS3 TIM ON  EJ  NM 808,436,195 1.4518
+TOTS3 TOTVS ON      NM 520,749,110 2.0696
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 1.9867
+USIM5 USIMINAS PNA     N1 515,014,562 0.5340
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 2.5097
+VIIA3 VIA ON      NM 1,576,975,642 0.5481
+Quantidade teórica total: 46.618.827.799
+Valor do Redutor: 56.132.811,3664568
+Participação total: 100.00%
+IBXX
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 4,386,652,506 3.0137
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.1446
+AMER3 AMERICANAS ON      NM 611,169,249 0.2790
+ARZZ3 AREZZO CO ON      NM 60,758,326 0.2249
+ASAI3 ASSAI ON  EJ  NM 935,793,199 0.8620
+AURE3 AUREN ON      NM 301,966,318 0.2104
+AZUL4 AZUL PN      N2 327,646,296 0.1706
+B3SA3 B3 ON  ED  NM 5,901,731,302 3.6736
+BBAS3 BRASIL ON      NM 1,420,731,069 2.3346
+BBDC3 BRADESCO ON      N1 1,508,883,586 0.9616
+BBDC4 BRADESCO PN      N1 5,156,077,326 3.6960
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.0713
+BEEF3 MINERVA ON      NM 260,340,982 0.1596
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 1.3881
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.0980
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 0.3529
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 0.4217
+BRKM5 BRASKEM PNA     N1 265,212,486 0.2981
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.3252
+CASH3 MELIUZ ON      NM 657,970,941 0.0367
+CBAV3 CBA ON      NM 191,350,000 0.1045
+CCRO3 CCR SA ON      NM 998,462,635 0.5111
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.2715
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 0.7601
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 0.2143
+COGN3 COGNA ON ON      NM 1,820,405,422 0.1826
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 0.2949
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 122
+
+PAGINA 23
+Código Ação Tipo Quantidade teórica Participação (%)
+CPLE6 COPEL PNB     N2 1,563,365,506 0.5851
+CRFB3 CARREFOUR BR ON      NM 528,743,156 0.3697
+CSAN3 COSAN ON      NM 1,171,063,698 0.9486
+CSNA3 SID NACIONAL ON  EJ 589,695,175 0.4059
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.0586
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.1695
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.0881
+ECOR3 ECORODOVIAS ON      NM 310,103,685 0.0652
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 0.4574
+ELET3 ELETROBRAS ON      N1 2,021,119,463 4.0279
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.5635
+EMBR3 EMBRAER ON      NM 734,632,205 0.4974
+ENAT3 ENAUTA PART ON      NM 77,336,145 0.0493
+ENBR3 ENERGIAS BR ON      NM 246,028,184 0.2420
+ENEV3 ENEVA ON      NM 1,576,898,490 0.8901
+ENGI11 ENERGISA UNT     N2 248,477,689 0.5197
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 1.4069
+EZTC3 EZTEC ON      NM 94,318,339 0.0599
+FLRY3 FLEURY ON  EJ  NM 351,919,239 0.2572
+GGBR4 GERDAU PN      N1 1,093,112,629 1.5190
+GMAT3 GRUPO MATEUS ON      NM 463,952,163 0.1387
+GOAU4 GERDAU MET PN      N1 667,194,478 0.4094
+GOLL4 GOL PN      N2 190,059,275 0.0660
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.0710
+HYPE3 HYPERA ON  EJ  NM 400,842,480 0.8572
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 0.1869
+ITSA4 ITAUSA PN      N1 5,233,076,295 2.1071
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 5.6762
+JBSS3 JBS ON      NM 1,134,986,483 1.1809
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 0.6632
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 0.9356
+LWSA3 LOCAWEB ON      NM 419,466,860 0.1393
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.1174
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.3726
+MOVI3 MOVIDA ON  EJ  NM 131,875,326 0.0476
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.1303
+MRVE3 MRV ON      NM 305,668,749 0.1099
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.2778
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.4592
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.1234
+PETR3 PETROBRAS ON      N2 3,701,760,571 4.9112
+PETR4 PETROBRAS PN      N2 4,566,441,248 5.2935
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.0994
+PRIO3 PETRORIO ON      NM 839,159,130 1.4774
+PSSA3 PORTO SEGURO ON      NM 179,759,767 0.1969
+QUAL3 QUALICORP ON      NM 277,226,847 0.0769
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 1.3423
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.0704
+RAIZ4 RAIZEN PN      N2 1,200,488,532 0.2124
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 1.6091
+RECV3 PETRORECSA ON      NM 276,436,573 0.4333
+RENT3 LOCALIZA ON  EJS NM 773,535,098 1.9471
+RRRP3 3R PETROLEUM ON      NM 196,144,421 0.3503
+SANB11 SANTANDER BR UNT 355,642,848 0.4743
+SBSP3 SABESP ON      NM 340,002,999 0.9195
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 0.2136
+SMTO3 SAO MARTINHO ON      NM 143,294,210 0.1798
+SOMA3 GRUPO SOMA ON      NM 490,736,222 0.2354
+STBP3 SANTOS BRP ON  EJ  NM 858,685,799 0.3173
+SUZB3 SUZANO S.A. ON      NM 726,823,001 1.6589
+TAEE11 TAESA UNT     N2 218,568,234 0.3585
+TIMS3 TIM ON  EJ  NM 808,436,195 0.4743
+TOTS3 TOTVS ON      NM 520,749,110 0.6761
+TRPL4 TRAN PAULIST PN  EJ  N1 395,794,140 0.4307
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 0.6490
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 123
+
+PAGINA 24
+Código Ação Tipo Quantidade teórica Participação (%)
+USIM5 USIMINAS PNA     N1 515,014,562 0.1744
+VALE3 VALE ON      NM 4,547,296,398 19.1233
+VAMO3 VAMOS ON  EJ  NM 314,724,970 0.1882
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 0.8199
+VIIA3 VIA ON      NM 1,576,975,642 0.1790
+VIVT3 TELEF BRASIL ON 423,091,712 0.7483
+WEGE3 WEG ON      NM 1,481,593,024 2.6996
+YDUQ3 YDUQS PART ON      NM 296,015,511 0.1424
+Quantidade teórica total: 103.129.149.191
+Valor do Redutor: 45.404.999,7112036
+Participação total: 100.00%
+IEE
+Código Ação Tipo Quantidade teórica Participação (%)
+AESB3 AES BRASIL ON      NM 18,800 5.4359
+ALUP11 ALUPAR UNT     N2 6,600 5.5789
+AURE3 AUREN ON      NM 12,400 5.4672
+CMIG4 CEMIG PN  EJ  N1 16,900 5.6352
+COCE5 COELCE PNA 4,200 5.6647
+CPFE3 CPFL ENERGIA ON      NM 5,600 5.5650
+CPLE6 COPEL PNB     N2 24,000 5.6823
+EGIE3 ENGIE BRASIL ON  EJ  NM 4,800 5.4424
+ELET3 ELETROBRAS ON      N1 4,400 5.5473
+ENBR3 ENERGIAS BR ON      NM 8,900 5.5384
+ENEV3 ENEVA ON      NM 16,000 5.7134
+ENGI11 ENERGISA UNT     N2 4,200 5.5579
+EQTL3 EQUATORIAL ON      NM 6,900 5.5805
+LIGT3 LIGHT S/A ON      NM 39,100 5.4187
+MEGA3 OMEGAENERGIA ON      NM 19,700 5.6608
+NEOE3 NEOENERGIA ON      NM 11,900 5.5032
+TAEE11 TAESA UNT     N2 5,300 5.5001
+TRPL4 TRAN PAULIST PN  EJ  N1 8,000 5.5075
+Quantidade teórica total: 217.700
+Valor do Redutor: 42,46173713
+Participação total: 100.00%
+ISE
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 983,783,715 1.9186
+AERI3 AERIS ON      NM 462,542,605 0.0702
+AESB3 AES BRASIL ON      NM 642,357,611 0.8334
+ALSO3 ALIANSCSONAE ON      NM 249,563,201 0.5701
+AMBP3 AMBIPAR ON      NM 89,342,052 0.2507
+AMER3 AMERICANAS ON      NM 1,245,565,968 1.6144
+ARZZ3 AREZZO CO ON      NM 123,817,015 1.3013
+ASAI3 ASSAI ON  EJ  NM 737,766,592 1.9293
+AZUL4 AZUL PN      N2 667,746,013 0.9874
+B3SA3 B3 ON  ED  NM 1,179,991,673 2.0850
+BBAS3 BRASIL ON      NM 472,882,597 2.2058
+BBDC4 BRADESCO PN      N1 1,148,936,510 2.3379
+BEEF3 MINERVA ON      NM 530,550,060 0.9235
+BPAC11 BTGP BANCO UNT     N2 698,663,276 2.2465
+BPAN4 BANCO PAN PN  EJ  N1 696,071,736 0.5674
+BRFS3 BRF SA ON  ATZ NM 2,151,239,205 2.3924
+BRKM5 BRASKEM PNA     N1 540,482,177 1.7248
+CBAV3 CBA ON      NM 389,932,663 0.6049
+CCRO3 CCR SA ON      NM 1,553,638,632 2.2578
+CIEL3 CIELO ON  EJ  NM 2,232,341,296 1.5711
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 124
+
+PAGINA 25
+Código Ação Tipo Quantidade teórica Participação (%)
+CMIG4 CEMIG PN  EJ  N1 1,489,655,881 2.2289
+COGN3 COGNA ON ON      NM 3,709,774,148 1.0563
+CPFE3 CPFL ENERGIA ON      NM 382,587,853 1.7060
+CPLE6 COPEL PNB     N2 2,170,860,585 2.3063
+CSAN3 COSAN ON      NM 916,274,428 2.1069
+DASA3 DASA ON  EJ  NM 146,402,260 0.2699
+DXCO3 DEXCO ON  EB  NM 560,165,682 0.5101
+ECOR3 ECORODOVIAS ON      NM 631,877,714 0.3776
+EGIE3 ENGIE BRASIL ON  EJ  NM 447,054,657 2.2745
+ELET3 ELETROBRAS ON      N1 383,427,077 2.1691
+ENBR3 ENERGIAS BR ON      NM 501,387,286 1.4000
+ENEV3 ENEVA ON      NM 1,346,546,077 2.1576
+FLRY3 FLEURY ON  EJ  NM 717,216,196 1.4883
+GFSA3 GAFISA ON      NM 122,444,685 0.1628
+GRND3 GRENDENE ON      NM 545,625,173 0.4419
+GUAR3 GUARARAPES ON      NM 166,925,378 0.1461
+HYPE3 HYPERA ON  EJ  NM 303,318,924 1.8414
+ITSA4 ITAUSA PN      N1 1,932,413,050 2.2087
+ITUB4 ITAUUNIBANCO PN      N1 662,782,197 2.2241
+KLBN11 KLABIN S/A UNT EJ  N2 893,462,137 2.3964
+LIGT3 LIGHT S/A ON      NM 758,235,798 0.4715
+LREN3 LOJAS RENNER ON  EJ  NM 863,061,775 2.3740
+MDIA3 M.DIASBRANCO ON      NM 141,209,051 0.6795
+MGLU3 MAGAZ LUIZA ON      NM 5,857,395,378 2.1556
+MOVI3 MOVIDA ON  EJ  NM 268,712,736 0.2757
+MRFG3 MARFRIG ON  ED  NM 645,484,874 0.7542
+MRVE3 MRV ON      NM 622,947,823 0.6358
+MYPK3 IOCHP-MAXION ON      NM 267,513,090 0.4229
+NEOE3 NEOENERGIA ON      NM 399,949,815 0.8299
+NTCO3 GRUPO NATURA ON      NM 1,490,642,530 2.3244
+PCAR3 P.ACUCAR-CBD ON      NM 321,750,482 0.7139
+RADL3 RAIADROGASIL ON      NM 652,687,370 2.0794
+RAIL3 RUMO S.A. ON      NM 841,256,586 2.1027
+RAIZ4 RAIZEN PN      N2 2,446,427,618 1.2289
+RANI3 IRANI ON      NM 203,766,148 0.2203
+RDOR3 REDE D OR ON  EJ  NM 479,004,874 1.9030
+SANB11 SANTANDER BR UNT 589,273,056 2.2311
+SAPR11 SANEPAR UNT     N2 409,767,416 0.9503
+SIMH3 SIMPAR ON  EJ  NM 462,323,889 0.4197
+SLCE3 SLC AGRICOLA ON  EJ  NM 196,199,191 1.2361
+STBP3 SANTOS BRP ON  EJ  NM 1,681,388,861 1.7637
+SUZB3 SUZANO S.A. ON      NM 349,606,195 2.2652
+TIMS3 TIM ON  EJ  NM 1,363,746,292 2.2713
+TRPL4 TRAN PAULIST PN  EJ  N1 720,468,815 2.2256
+USIM5 USIMINAS PNA     N1 1,049,566,184 1.0093
+VAMO3 VAMOS ON  EJ  NM 641,362,330 1.0888
+VBBR3 VIBRA ON  EJ  NM 962,082,231 2.0093
+VIIA3 VIA ON      NM 3,213,789,180 1.0359
+VIVT3 TELEF BRASIL ON 475,728,570 2.3887
+WEGE3 WEG ON      NM 399,091,802 2.0642
+Quantidade teórica total: 63.601.855.945
+Valor do Redutor: 235.757.549,992247
+Participação total: 100.00%
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 125
+
+PAGINA 26
+ITAG
+Código Ação Tipo Quantidade teórica Participação (%)
+AALR3 ALLIAR ON      NM 42,015,455 0.0451
+ABCB4 ABC BRASIL PN      N2 67,562,128 0.0649
+AERI3 AERIS ON      NM 227,070,796 0.0127
+AESB3 AES BRASIL ON      NM 315,209,392 0.1515
+AGRO3 BRASILAGRO ON      NM 59,212,546 0.0882
+AGXY3 AGROGALAXY ON      NM 64,701,030 0.0317
+ALLD3 ALLIED ON  EJ  NM 24,615,435 0.0073
+ALPK3 ESTAPAR ON      NM 88,284,122 0.0068
+ALSO3 ALIANSCSONAE ON      NM 122,470,927 0.1036
+ALUP11 ALUPAR UNT     N2 140,050,337 0.1968
+AMAR3 LOJAS MARISA ON      NM 156,188,662 0.0097
+AMBP3 AMBIPAR ON      NM 43,853,759 0.0456
+AMER3 AMERICANAS ON      NM 611,169,249 0.2935
+ANIM3 ANIMA ON      NM 256,780,519 0.0493
+APER3 ALPER S.A. ON      NM 15,380,574 0.0206
+ARML3 ARMAC ON  EDJ NM 172,214,221 0.1007
+ARZZ3 AREZZO CO ON      NM 60,758,326 0.2366
+ASAI3 ASSAI ON  EJ  NM 935,793,199 0.9068
+AURE3 AUREN ON      NM 301,966,318 0.2213
+AVLL3 ALPHAVILLE ON      NM 4,456,403 0.0015
+AZUL4 AZUL PN      N2 327,646,296 0.1795
+B3SA3 B3 ON  ED  NM 5,901,731,302 3.8641
+BAHI3 BAHEMA ON      MA 6,887,305 0.0044
+BBAS3 BRASIL ON      NM 1,420,731,069 2.4557
+BBDC3 BRADESCO ON      N1 1,508,883,586 1.0115
+BBDC4 BRADESCO PN      N1 5,156,077,326 3.8877
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.1269
+BEEF3 MINERVA ON      NM 260,340,982 0.1679
+BGIP4 BANESE PN 1,063,110 0.0009
+BIOM3 BIOMM ON      MA 37,950,277 0.0128
+BLAU3 BLAU ON  EJ  NM 29,837,192 0.0390
+BMGB4 BANCO BMG PN  EJ  N1 101,366,402 0.0110
+BMOB3 BEMOBI TECH ON      NM 83,721,218 0.0596
+BOAS3 BOA VISTA ON  EJ  NM 530,465,094 0.1916
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 1.4601
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.1031
+BRAP3 BRADESPAR ON  EJ  N1 30,318,904 0.0385
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 0.3712
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 0.4436
+BRIT3 BRISANET ON      NM 94,842,067 0.0128
+BRKM3 BRASKEM ON      N1 12,907,077 0.0162
+BRKM5 BRASKEM PNA     N1 265,212,486 0.3136
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.3421
+BRPR3 BR PROPERT ON      NM 175,439,087 0.0570
+BRSR3 BANRISUL ON      N1 3,839,426 0.0020
+BRSR6 BANRISUL PNB     N1 202,535,840 0.0977
+CAML3 CAMIL ON      NM 100,468,497 0.0414
+CASH3 MELIUZ ON      NM 657,970,941 0.0386
+CBAV3 CBA ON      NM 191,350,000 0.1099
+CCRO3 CCR SA ON      NM 998,462,635 0.5376
+CEAB3 CEA MODAS ON      NM 105,355,935 0.0120
+CEDO4 CEDRO PN      N1 3,855,850 0.0007
+CGRA3 GRAZZIOTIN ON  EJ 2,529,991 0.0035
+CGRA4 GRAZZIOTIN PN  EJ 8,502,873 0.0112
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.2856
+CLSA3 CLEARSALE ON      NM 52,773,048 0.0147
+CLSC3 CELESC ON      N2 6,297,457 0.0157
+CLSC4 CELESC PN      N2 22,810,127 0.0622
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 0.2255
+COGN3 COGNA ON ON      NM 1,820,405,422 0.1920
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 0.3102
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 126
+
+PAGINA 27
+Código Ação Tipo Quantidade teórica Participação (%)
+CRFB3 CARREFOUR BR ON      NM 528,743,156 0.3889
+CSAN3 COSAN ON      NM 1,171,063,698 0.9978
+CSED3 CRUZEIRO EDU ON      NM 77,755,200 0.0148
+CSMG3 COPASA ON      NM 188,469,206 0.1471
+CSUD3 CSU DIGITAL ON      NM 18,502,093 0.0112
+CTNM4 COTEMINAS PN 14,130,635 0.0012
+CURY3 CURY S/A ON      NM 120,291,325 0.0757
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.0616
+CXSE3 CAIXA SEGURI ON      NM 517,500,000 0.2150
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.1783
+DASA3 DASA ON  EJ  NM 71,844,589 0.0490
+DESK3 DESKTOP ON      NM 42,173,076 0.0167
+DIRR3 DIRECIONAL ON      NM 82,197,695 0.0639
+DMVF3 D1000VFARMA ON      NM 19,036,205 0.0038
+DOTZ3 DOTZ SA ON      NM 40,135,567 0.0025
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.0927
+ECOR3 ECORODOVIAS ON      NM 310,103,685 0.0686
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 0.4811
+ELMD3 ELETROMIDIA ON      NM 52,669,211 0.0268
+EMBR3 EMBRAER ON      NM 734,632,205 0.5232
+ENAT3 ENAUTA PART ON      NM 77,336,145 0.0519
+ENBR3 ENERGIAS BR ON      NM 246,028,184 0.2545
+ENEV3 ENEVA ON      NM 1,576,898,490 0.9362
+ENGI11 ENERGISA UNT     N2 248,477,689 0.5467
+ENJU3 ENJOEI ON      NM 151,599,011 0.0073
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 1.4799
+ESPA3 ESPACOLASER ON      NM 238,938,124 0.0158
+EVEN3 EVEN ON      NM 198,894,330 0.0453
+EZTC3 EZTEC ON      NM 94,318,339 0.0630
+FHER3 FER HERINGER ON      NM 15,626,962 0.0134
+FIQE3 UNIFIQUE ON      NM 90,969,763 0.0176
+FLRY3 FLEURY ON  EJ  NM 351,919,239 0.2706
+GEPA4 GER PARANAP PN 3,300,250 0.0044
+GFSA3 GAFISA ON      NM 60,097,088 0.0296
+GGBR3 GERDAU ON      N1 14,031,044 0.0171
+GGBR4 GERDAU PN      N1 1,093,112,629 1.5978
+GGPS3 GPS ON      NM 381,125,678 0.2259
+GMAT3 GRUPO MATEUS ON      NM 463,952,163 0.1459
+GOAU3 GERDAU MET ON      N1 90,953,948 0.0546
+GOAU4 GERDAU MET PN      N1 667,194,478 0.4306
+GOLL4 GOL PN      N2 190,059,275 0.0694
+GRND3 GRENDENE ON      NM 267,727,632 0.0803
+GSHP3 GENERALSHOPP ON 1,428,328 0.0016
+GUAR3 GUARARAPES ON      NM 81,934,660 0.0265
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.1266
+HBOR3 HELBOR ON      NM 65,595,478 0.0066
+HBRE3 HBR REALTY ON      NM 25,797,246 0.0057
+HBSA3 HIDROVIAS ON      NM 760,109,566 0.0854
+HYPE3 HYPERA ON  EJ  NM 400,842,480 0.9017
+IFCM3 INFRACOMM ON      NM 290,327,826 0.0536
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 0.1966
+INTB3 INTELBRAS ON  EJ  NM 114,530,513 0.1735
+ITSA4 ITAUSA PN      N1 5,233,076,295 2.2164
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 5.9706
+JALL3 JALLESMACHAD ON      NM 99,892,997 0.0379
+JBSS3 JBS ON      NM 1,134,986,483 1.2421
+JHSF3 JHSF PART ON      NM 299,019,330 0.0747
+JSLG3 JSL ON  EJ  NM 63,184,705 0.0173
+KEPL3 KEPLER WEBER ON 89,295,802 0.0894
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 0.6976
+KRSA3 KORA SAUDE ON      NM 156,186,540 0.0060
+LAND3 TERRASANTAPA ON      NM 30,612,077 0.0438
+LAVV3 LAVVI ON      NM 73,850,129 0.0175
+LEVE3 METAL LEVE ON      NM 38,492,518 0.0575
+LIGT3 LIGHT S/A ON      NM 372,062,524 0.0857
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 127
+
+PAGINA 28
+Código Ação Tipo Quantidade teórica Participação (%)
+LJQQ3 QUERO-QUERO ON      NM 179,097,429 0.0374
+LOGG3 LOG COM PROP ON      NM 59,529,517 0.0477
+LOGN3 LOG-IN ON      NM 25,678,035 0.0448
+LPSB3 LOPES BRASIL ON      NM 104,420,584 0.0094
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 0.9841
+LVTC3 WDC NETWORKS ON      NM 21,545,321 0.0063
+LWSA3 LOCAWEB ON      NM 419,466,860 0.1465
+MATD3 MATER DEI ON      NM 81,005,456 0.0290
+MBLY3 MOBLY ON      NM 44,444,445 0.0066
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.1235
+MDNE3 MOURA DUBEUX ON      NM 53,555,495 0.0154
+MEAL3 IMC S/A ON      NM 263,096,332 0.0366
+MEGA3 OMEGAENERGIA ON      NM 280,500,324 0.1340
+MELK3 MELNICK ON      NM 68,215,265 0.0111
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.3919
+MILS3 MILLS ON      NM 179,572,360 0.1021
+MLAS3 MULTILASER ON      NM 450,398,188 0.0903
+MODL3 MODALMAIS ON      NM 291,313,231 0.0320
+MOVI3 MOVIDA ON  EJ  NM 131,875,326 0.0501
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.1371
+MRVE3 MRV ON      NM 305,668,749 0.1156
+MTRE3 MITRE REALTY ON      NM 52,463,951 0.0094
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.2922
+MYPK3 IOCHP-MAXION ON      NM 131,266,899 0.0768
+NEOE3 NEOENERGIA ON      NM 196,252,888 0.1509
+NGRD3 NEOGRID ON      NM 102,307,839 0.0075
+NINJ3 GETNINJAS ON      NM 41,328,861 0.0056
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.4830
+ODPV3 ODONTOPREV ON      NM 245,618,209 0.1103
+OFSA3 OUROFINO S/A ON      NM 23,401,433 0.0283
+ONCO3 ONCOCLINICAS ON      NM 149,164,399 0.0447
+OPCT3 OCEANPACT ON      NM 123,217,826 0.0175
+ORVR3 ORIZON ON      NM 34,502,599 0.0581
+OSXB3 OSX BRASIL ON      NM 1,592,166 0.0005
+PARD3 IHPARDINI ON  EJ  NM 41,610,660 0.0435
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.1298
+PDTC3 PADTEC ON      NM 35,062,506 0.0053
+PETR3 PETROBRAS ON      N2 3,701,760,571 5.1659
+PETR4 PETROBRAS PN      N2 4,566,441,248 5.5681
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.1045
+PFRM3 PROFARMA ON  EJ  NM 87,499,778 0.0159
+PGMN3 PAGUE MENOS ON      NM 153,643,886 0.0334
+PINE4 PINE PN      N2 62,505,984 0.0051
+PLPL3 PLANOEPLANO ON      NM 54,695,391 0.0108
+PNVL3 DIMED ON  EJ  NM 71,295,172 0.0359
+POMO3 MARCOPOLO ON  EJ  N2 166,907,128 0.0199
+POMO4 MARCOPOLO PN  EJ  N2 554,935,063 0.0781
+PORT3 WILSON SONS ON      NM 190,677,400 0.1025
+POSI3 POSITIVO TEC ON      NM 73,573,028 0.0343
+PRIO3 PETRORIO ON      NM 839,159,130 1.5540
+PRNR3 PRINER ON      NM 37,482,015 0.0124
+PSSA3 PORTO SEGURO ON      NM 179,759,767 0.2071
+PTBL3 PORTOBELLO ON      NM 54,516,127 0.0223
+PTNT4 PETTENATI PN 31,555,716 0.0098
+QUAL3 QUALICORP ON      NM 277,226,847 0.0809
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 1.4120
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.1259
+RAIZ4 RAIZEN PN      N2 1,200,488,532 0.2234
+RANI3 IRANI ON      NM 99,993,865 0.0400
+RAPT4 RANDON PART PN  EJ  N1 177,742,165 0.0726
+RDNI3 RNI ON      NM 14,048,469 0.0048
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 1.6925
+RECV3 PETRORECSA ON      NM 276,436,573 0.4558
+RENT3 LOCALIZA ON  EJS NM 773,535,098 2.0481
+ROMI3 ROMI ON  EJ  NM 40,992,554 0.0311
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 128
+
+PAGINA 29
+Código Ação Tipo Quantidade teórica Participação (%)
+RRRP3 3R PETROLEUM ON      NM 196,144,421 0.3685
+SANB11 SANTANDER BR UNT 355,642,848 0.4989
+SAPR11 SANEPAR UNT     N2 201,081,484 0.1728
+SBFG3 GRUPO SBF ON      NM 95,566,506 0.0607
+SBSP3 SABESP ON      NM 340,002,999 0.9672
+SCAR3 SAO CARLOS ON      NM 22,630,228 0.0204
+SEER3 SER EDUCA ON      NM 52,472,207 0.0116
+SEQL3 SEQUOIA LOG ON      NM 122,858,774 0.0185
+SGPS3 SPRINGS ON      NM 23,542,287 0.0015
+SHOW3 TIME FOR FUN ON      NM 33,258,852 0.0039
+SIMH3 SIMPAR ON  EJ  NM 226,890,081 0.0763
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 0.2247
+SMFT3 SMART FIT ON      NM 258,804,766 0.1750
+SMTO3 SAO MARTINHO ON      NM 143,294,210 0.1891
+SOJA3 BOA SAFRA ON      NM 46,459,647 0.0240
+SOMA3 GRUPO SOMA ON      NM 490,736,222 0.2476
+SQIA3 SINQIA ON      NM 71,791,033 0.0537
+STBP3 SANTOS BRP ON  EJ  NM 858,685,799 0.3337
+SUZB3 SUZANO S.A. ON      NM 726,823,001 1.7450
+SYNE3 SYN PROP TEC ON      NM 58,932,234 0.0121
+TAEE11 TAESA UNT     N2 218,568,234 0.3771
+TASA3 TAURUS ARMAS ON      N2 7,795,474 0.0051
+TASA4 TAURUS ARMAS PN      N2 68,086,667 0.0452
+TCSA3 TECNISA ON      NM 47,851,218 0.0063
+TECN3 TECHNOS ON      NM 41,068,407 0.0043
+TEND3 TENDA ON      NM 95,672,515 0.0200
+TFCO4 TRACK FIELD PN  EJ  N2 53,663,301 0.0280
+TGMA3 TEGMA ON      NM 32,001,480 0.0308
+TIMS3 TIM ON  EJ  NM 808,436,195 0.4989
+TOTS3 TOTVS ON      NM 520,749,110 0.7112
+TPIS3 TRIUNFO PART ON      NM 74,149,313 0.0033
+TRAD3 TC ON      NM 84,149,529 0.0092
+TRIS3 TRISUL ON      NM 71,349,496 0.0122
+TTEN3 3TENTOS ON      NM 112,343,586 0.0521
+TUPY3 TUPY ON      NM 67,547,494 0.0912
+UCAS3 UNICASA ON      NM 28,508,438 0.0036
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 0.6827
+VALE3 VALE ON      NM 4,458,319,982 19.7216
+VAMO3 VAMOS ON  EJ  NM 314,724,970 0.1979
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 0.8624
+VIIA3 VIA ON      NM 1,576,975,642 0.1883
+VITT3 VITTIA ON      NM 50,552,360 0.0327
+VIVA3 VIVARA S.A. ON      NM 99,216,524 0.1107
+VLID3 VALID ON      NM 79,254,979 0.0362
+VULC3 VULCABRAS ON      NM 73,766,391 0.0458
+VVEO3 VIVEO ON  EJ  NM 113,481,297 0.0911
+WEGE3 WEG ON      NM 1,481,593,024 2.8396
+WEST3 WESTWING ON      NM 108,741,763 0.0064
+WIZS3 WIZ S.A. ON      NM 75,275,228 0.0262
+YDUQ3 YDUQS PART ON      NM 296,015,511 0.1498
+ZAMP3 ZAMP S.A. ON      NM 270,582,179 0.0733
+Quantidade teórica total: 107.980.741.580
+Valor do Redutor: 83.127.802,4953108
+Participação total: 100.00%
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 129
+
+PAGINA 30
+INDX
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 4,386,652,506 19.0121
+AERI3 AERIS ON      NM 227,070,796 0.0765
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.9127
+BEEF3 MINERVA ON      NM 260,340,982 1.0071
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 2.6606
+BRKM5 BRASKEM PNA     N1 265,212,486 1.8809
+CAML3 CAMIL ON      NM 100,468,497 0.2483
+CSNA3 SID NACIONAL ON  EJ 589,695,175 2.5610
+CURY3 CURY S/A ON      NM 120,291,325 0.4545
+CYRE3 CYRELA REALT ON      NM 274,142,301 1.0695
+DIRR3 DIRECIONAL ON      NM 82,197,695 0.3837
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.5562
+EMBR3 EMBRAER ON      NM 734,632,205 3.1379
+EZTC3 EZTEC ON      NM 94,318,339 0.3780
+GGBR4 GERDAU PN      N1 1,093,112,629 9.5829
+GOAU4 GERDAU MET PN      N1 667,194,478 2.5829
+GRND3 GRENDENE ON      NM 267,727,632 0.4818
+INTB3 INTELBRAS ON  EJ  NM 114,530,513 1.0409
+JBSS3 JBS ON      NM 1,134,986,483 7.4498
+JHSF3 JHSF PART ON      NM 299,019,330 0.4480
+KEPL3 KEPLER WEBER ON 89,295,802 0.5365
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 4.1839
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.7410
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.8224
+MRVE3 MRV ON      NM 305,668,749 0.6934
+MYPK3 IOCHP-MAXION ON      NM 131,266,899 0.4611
+NTCO3 GRUPO NATURA ON      NM 835,961,011 2.8970
+POMO4 MARCOPOLO PN  EJ  N2 554,935,063 0.4687
+POSI3 POSITIVO TEC ON      NM 73,573,028 0.2062
+RAPT4 RANDON PART PN  EJ  N1 177,742,165 0.4355
+SMTO3 SAO MARTINHO ON      NM 143,294,210 1.1343
+SUZB3 SUZANO S.A. ON      NM 726,823,001 10.4656
+TASA4 TAURUS ARMAS PN      N2 68,086,667 0.2713
+TEND3 TENDA ON      NM 95,672,515 0.1205
+TUPY3 TUPY ON      NM 67,547,494 0.5475
+UNIP6 UNIPAR PNB 49,195,098 1.2923
+USIM5 USIMINAS PNA     N1 515,014,562 1.1006
+VIVA3 VIVARA S.A. ON      NM 99,216,524 0.6642
+WEGE3 WEG ON      NM 1,481,593,024 17.0307
+Quantidade teórica total: 18.768.537.494
+Valor do Redutor: 16.723.362,6241406
+Participação total: 100.00%
+SMLL
+Código Ação Tipo Quantidade teórica Participação (%)
+AALR3 ALLIAR ON      NM 42,015,455 0.3259
+ABCB4 ABC BRASIL PN      N2 67,562,128 0.4688
+AERI3 AERIS ON      NM 227,070,796 0.0921
+AESB3 AES BRASIL ON      NM 315,209,392 1.0934
+AGRO3 BRASILAGRO ON      NM 59,212,546 0.6370
+ALPA4 ALPARGATAS PN      N1 202,765,994 1.0980
+ALSO3 ALIANSCSONAE ON      NM 122,470,927 0.7481
+ALUP11 ALUPAR UNT     N2 140,050,337 1.4203
+AMAR3 LOJAS MARISA ON      NM 156,188,662 0.0701
+AMBP3 AMBIPAR ON      NM 43,853,759 0.3291
+AMER3 AMERICANAS ON      NM 611,169,249 2.1179
+ANIM3 ANIMA ON      NM 256,780,519 0.3559
+ARML3 ARMAC ON  EDJ NM 172,214,221 0.7266
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 130
+
+PAGINA 31
+Código Ação Tipo Quantidade teórica Participação (%)
+ARZZ3 AREZZO CO ON      NM 60,758,326 1.7073
+AZUL4 AZUL PN      N2 327,646,296 1.2954
+BEEF3 MINERVA ON      NM 260,340,982 1.2116
+BLAU3 BLAU ON  EJ  NM 29,837,192 0.2820
+BMOB3 BEMOBI TECH ON      NM 83,721,218 0.4302
+BOAS3 BOA VISTA ON  EJ  NM 530,465,094 1.3830
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.7445
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 2.6790
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 3.2010
+BRML3 BR MALLS PAR ON      NM 828,273,884 2.4688
+BRPR3 BR PROPERT ON      NM 175,439,087 0.4114
+BRSR6 BANRISUL PNB     N1 202,535,840 0.7055
+CAML3 CAMIL ON      NM 100,468,497 0.2987
+CASH3 MELIUZ ON      NM 657,970,941 0.2788
+CBAV3 CBA ON      NM 191,350,000 0.7936
+CEAB3 CEA MODAS ON      NM 105,355,935 0.0866
+CLSA3 CLEARSALE ON      NM 52,773,048 0.1066
+COGN3 COGNA ON ON      NM 1,820,405,422 1.3859
+CSMG3 COPASA ON      NM 188,469,206 1.0619
+CURY3 CURY S/A ON      NM 120,291,325 0.5468
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.4449
+CYRE3 CYRELA REALT ON      NM 274,142,301 1.2867
+DASA3 DASA ON  EJ  NM 71,844,589 0.3542
+DIRR3 DIRECIONAL ON      NM 82,197,695 0.4616
+DMMO3 DOMMO ON 221,646,553 0.1528
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.6692
+ECOR3 ECORODOVIAS ON      NM 310,103,685 0.4955
+EMBR3 EMBRAER ON      NM 734,632,205 3.7752
+ENAT3 ENAUTA PART ON      NM 77,336,145 0.3749
+ENBR3 ENERGIAS BR ON      NM 246,028,184 1.8368
+ENJU3 ENJOEI ON      NM 151,599,011 0.0528
+ESPA3 ESPACOLASER ON      NM 238,938,124 0.1141
+EVEN3 EVEN ON      NM 198,894,330 0.3271
+EZTC3 EZTEC ON      NM 94,318,339 0.4548
+FESA4 FERBASA PN  EDJ N1 40,495,100 0.7775
+FHER3 FER HERINGER ON      NM 15,626,962 0.0969
+FLRY3 FLEURY ON  EJ  NM 351,919,239 1.9525
+GFSA3 GAFISA ON      NM 60,097,088 0.2136
+GGPS3 GPS ON      NM 381,125,678 1.6301
+GMAT3 GRUPO MATEUS ON      NM 463,952,163 1.0529
+GOAU4 GERDAU MET PN      N1 667,194,478 3.1076
+GOLL4 GOL PN      N2 190,059,275 0.5009
+GRND3 GRENDENE ON      NM 267,727,632 0.5797
+GUAR3 GUARARAPES ON      NM 81,934,660 0.1918
+HBSA3 HIDROVIAS ON      NM 760,109,566 0.6169
+IFCM3 INFRACOMM ON      NM 290,327,826 0.3868
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 1.4189
+INTB3 INTELBRAS ON  EJ  NM 114,530,513 1.2524
+JALL3 JALLESMACHAD ON      NM 99,892,997 0.2740
+JHSF3 JHSF PART ON      NM 299,019,330 0.5390
+KEPL3 KEPLER WEBER ON 89,295,802 0.6455
+LAVV3 LAVVI ON      NM 73,850,129 0.1265
+LEVE3 METAL LEVE ON      NM 38,492,518 0.4155
+LIGT3 LIGHT S/A ON      NM 372,062,524 0.6186
+LJQQ3 QUERO-QUERO ON      NM 179,097,429 0.2701
+LOGG3 LOG COM PROP ON      NM 59,529,517 0.3446
+LOGN3 LOG-IN ON      NM 25,678,035 0.3236
+LWSA3 LOCAWEB ON      NM 419,466,860 1.0574
+MATD3 MATER DEI ON      NM 81,005,456 0.2097
+MBLY3 MOBLY ON      NM 44,444,445 0.0478
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.8915
+MEAL3 IMC S/A ON      NM 263,096,332 0.2645
+MEGA3 OMEGAENERGIA ON      NM 280,500,324 0.9670
+MILS3 MILLS ON      NM 179,572,360 0.7370
+MLAS3 MULTILASER ON      NM 450,398,188 0.6518
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 131
+
+PAGINA 32
+Código Ação Tipo Quantidade teórica Participação (%)
+MODL3 MODALMAIS ON      NM 291,313,231 0.2312
+MOVI3 MOVIDA ON  EJ  NM 131,875,326 0.3618
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.9895
+MRVE3 MRV ON      NM 305,668,749 0.8342
+MYPK3 IOCHP-MAXION ON      NM 131,266,899 0.5548
+ODPV3 ODONTOPREV ON      NM 245,618,209 0.7964
+ONCO3 ONCOCLINICAS ON      NM 149,164,399 0.3230
+ORVR3 ORIZON ON      NM 34,502,599 0.4196
+PARD3 IHPARDINI ON  EJ  NM 41,610,660 0.3145
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.9367
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.7547
+PGMN3 PAGUE MENOS ON      NM 153,643,886 0.2416
+PNVL3 DIMED ON  EJ  NM 71,295,172 0.2596
+POMO4 MARCOPOLO PN  EJ  N2 554,935,063 0.5639
+POSI3 POSITIVO TEC ON      NM 73,573,028 0.2480
+PTBL3 PORTOBELLO ON      NM 54,516,127 0.1611
+QUAL3 QUALICORP ON      NM 277,226,847 0.5844
+RANI3 IRANI ON      NM 99,993,865 0.2890
+RAPT4 RANDON PART PN  EJ  N1 177,742,165 0.5240
+RCSL3 RECRUSUL ON  ES 24,756,257 0.0151
+RECV3 PETRORECSA ON      NM 276,436,573 3.2889
+ROMI3 ROMI ON  EJ  NM 40,992,554 0.2244
+RRRP3 3R PETROLEUM ON      NM 196,144,421 2.6590
+SAPR11 SANEPAR UNT     N2 201,081,484 1.2468
+SBFG3 GRUPO SBF ON      NM 95,566,506 0.4386
+SEER3 SER EDUCA ON      NM 52,472,207 0.0842
+SEQL3 SEQUOIA LOG ON      NM 122,858,774 0.1341
+SIMH3 SIMPAR ON  EJ  NM 226,890,081 0.5508
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 1.6218
+SMFT3 SMART FIT ON      NM 258,804,766 1.2630
+SMTO3 SAO MARTINHO ON      NM 143,294,210 1.3647
+SOMA3 GRUPO SOMA ON      NM 490,736,222 1.7869
+SQIA3 SINQIA ON      NM 71,791,033 0.3874
+STBP3 SANTOS BRP ON  EJ  NM 858,685,799 2.4083
+SYNE3 SYN PROP TEC ON      NM 58,932,234 0.0878
+TASA4 TAURUS ARMAS PN      N2 68,086,667 0.3264
+TEND3 TENDA ON      NM 95,672,515 0.1449
+TRAD3 TC ON      NM 84,149,529 0.0670
+TRIS3 TRISUL ON      NM 71,349,496 0.0881
+TTEN3 3TENTOS ON      NM 112,343,586 0.3760
+TUPY3 TUPY ON      NM 67,547,494 0.6587
+UNIP6 UNIPAR PNB 49,195,098 1.5548
+USIM3 USIMINAS ON      N1 161,021,703 0.4284
+USIM5 USIMINAS PNA     N1 515,014,562 1.3242
+VIIA3 VIA ON      NM 1,576,975,642 1.3591
+VIVA3 VIVARA S.A. ON      NM 99,216,524 0.7991
+VLID3 VALID ON      NM 79,254,979 0.2615
+VULC3 VULCABRAS ON      NM 73,766,391 0.3306
+WIZS3 WIZ S.A. ON      NM 75,275,228 0.1894
+YDUQ3 YDUQS PART ON      NM 296,015,511 1.0811
+ZAMP3 ZAMP S.A. ON      NM 270,582,179 0.5295
+Quantidade teórica total: 30.513.095.949
+Valor do Redutor: 138.603.558,78388
+Participação total: 100.00%
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 132
+
+PAGINA 33
+MLCX
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 4,386,652,506 3.2349
+ASAI3 ASSAI ON  EJ  NM 935,793,199 0.9253
+AURE3 AUREN ON      NM 301,966,318 0.2259
+B3SA3 B3 ON  ED  NM 5,901,731,302 3.9433
+BBAS3 BRASIL ON      NM 1,420,731,069 2.5060
+BBDC3 BRADESCO ON      N1 1,508,883,586 1.0322
+BBDC4 BRADESCO PN      N1 5,156,077,326 3.9673
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.1499
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 1.4900
+BRKM5 BRASKEM PNA     N1 265,212,486 0.3200
+CCRO3 CCR SA ON      NM 998,462,635 0.5486
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.2915
+CMIG3 CEMIG ON  EJ  N1 360,768,393 0.2959
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 0.8159
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 0.2301
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 0.3165
+CPLE6 COPEL PNB     N2 1,563,365,506 0.6280
+CRFB3 CARREFOUR BR ON      NM 528,743,156 0.3969
+CSAN3 COSAN ON      NM 1,171,063,698 1.0182
+CSNA3 SID NACIONAL ON  EJ 589,695,175 0.4357
+CXSE3 CAIXA SEGURI ON      NM 517,500,000 0.2194
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 0.4909
+ELET3 ELETROBRAS ON      N1 2,021,119,463 4.3236
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.6049
+ENEV3 ENEVA ON      NM 1,576,898,490 0.9554
+ENGI11 ENERGISA UNT     N2 248,477,689 0.5579
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 1.5102
+GGBR4 GERDAU PN      N1 1,093,112,629 1.6305
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.1496
+HYPE3 HYPERA ON  EJ  NM 400,842,480 0.9202
+ITSA4 ITAUSA PN      N1 5,233,076,295 2.2618
+ITUB3 ITAUUNIBANCO ON      N1 384,272,066 0.4269
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 6.0929
+JBSS3 JBS ON      NM 1,134,986,483 1.2676
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 0.7119
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 1.0043
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.3999
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.2982
+NEOE3 NEOENERGIA ON      NM 196,252,888 0.1539
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.4929
+PETR3 PETROBRAS ON      N2 3,701,760,571 5.2717
+PETR4 PETROBRAS PN      N2 4,566,441,248 5.6821
+PRIO3 PETRORIO ON      NM 839,159,130 1.5859
+PSSA3 PORTO SEGURO ON      NM 179,759,767 0.2113
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 1.4409
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.1490
+RAIZ4 RAIZEN PN      N2 1,200,488,532 0.2280
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 1.7272
+RENT3 LOCALIZA ON  EJS NM 773,535,098 2.0900
+SANB11 SANTANDER BR UNT 355,642,848 0.5091
+SBSP3 SABESP ON      NM 340,002,999 0.9870
+SUZB3 SUZANO S.A. ON      NM 726,823,001 1.7807
+TAEE11 TAESA UNT     N2 218,568,234 0.3848
+TIMS3 TIM ON  EJ  NM 808,436,195 0.5091
+TOTS3 TOTVS ON      NM 520,749,110 0.7257
+TRPL4 TRAN PAULIST PN  EJ  N1 395,794,140 0.4623
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 0.6967
+VALE3 VALE ON      NM 4,547,296,398 20.5271
+VAMO3 VAMOS ON  EJ  NM 314,724,970 0.2020
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 0.8801
+VIVT3 TELEF BRASIL ON 423,091,712 0.8033
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 133
+
+PAGINA 34
+Código Ação Tipo Quantidade teórica Participação (%)
+WEGE3 WEG ON      NM 1,481,593,024 2.8978
+Quantidade teórica total: 87.320.645.074
+Valor do Redutor: 901.987.081,298294
+Participação total: 100.00%
+ICON
+Código Ação Tipo Quantidade teórica Participação (%)
+AALR3 ALLIAR ON      NM 42,015,455 0.2152
+ABEV3 AMBEV S/A ON  EJ 4,386,652,506 15.1052
+AGRO3 BRASILAGRO ON      NM 59,212,546 0.4207
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.7251
+AMAR3 LOJAS MARISA ON      NM 156,188,662 0.0463
+AMER3 AMERICANAS ON      NM 611,169,249 1.3986
+ANIM3 ANIMA ON      NM 256,780,519 0.2350
+ARZZ3 AREZZO CO ON      NM 60,758,326 1.1275
+ASAI3 ASSAI ON  EJ  NM 935,793,199 4.3209
+BEEF3 MINERVA ON      NM 260,340,982 0.8001
+BLAU3 BLAU ON  EJ  NM 29,837,192 0.1862
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 2.1138
+CAML3 CAMIL ON      NM 100,468,497 0.1972
+CEAB3 CEA MODAS ON      NM 105,355,935 0.0572
+COGN3 COGNA ON ON      NM 1,820,405,422 0.9152
+CRFB3 CARREFOUR BR ON      NM 528,743,156 1.8533
+CURY3 CURY S/A ON      NM 120,291,325 0.3611
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.2938
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.8497
+DASA3 DASA ON  EJ  NM 71,844,589 0.2339
+DIRR3 DIRECIONAL ON      NM 82,197,695 0.3048
+ESPA3 ESPACOLASER ON      NM 238,938,124 0.0753
+EVEN3 EVEN ON      NM 198,894,330 0.2160
+EZTC3 EZTEC ON      NM 94,318,339 0.3004
+FLRY3 FLEURY ON  EJ  NM 351,919,239 1.2894
+GFSA3 GAFISA ON      NM 60,097,088 0.1410
+GMAT3 GRUPO MATEUS ON      NM 463,952,163 0.6953
+GRND3 GRENDENE ON      NM 267,727,632 0.3828
+GUAR3 GUARARAPES ON      NM 81,934,660 0.1266
+HAPV3 HAPVIDA ON      NM 4,455,957,762 5.3682
+HYPE3 HYPERA ON  EJ  NM 400,842,480 4.2967
+JALL3 JALLESMACHAD ON      NM 99,892,997 0.1809
+JBSS3 JBS ON      NM 1,134,986,483 5.9189
+JHSF3 JHSF PART ON      NM 299,019,330 0.3559
+LAVV3 LAVVI ON      NM 73,850,129 0.0835
+LEVE3 METAL LEVE ON      NM 38,492,518 0.2744
+LJQQ3 QUERO-QUERO ON      NM 179,097,429 0.1783
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 4.6894
+MATD3 MATER DEI ON      NM 81,005,456 0.1385
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.5887
+MEAL3 IMC S/A ON      NM 263,096,332 0.1747
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 1.8676
+MOVI3 MOVIDA ON  EJ  NM 131,875,326 0.2389
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.6534
+MRVE3 MRV ON      NM 305,668,749 0.5509
+MYPK3 IOCHP-MAXION ON      NM 131,266,899 0.3664
+NTCO3 GRUPO NATURA ON      NM 835,961,011 2.3016
+ODPV3 ODONTOPREV ON      NM 245,618,209 0.5259
+ONCO3 ONCOCLINICAS ON      NM 149,164,399 0.2133
+PARD3 IHPARDINI ON  EJ  NM 41,610,660 0.2077
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.6185
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.4984
+PGMN3 PAGUE MENOS ON      NM 153,643,886 0.1595
+PNVL3 DIMED ON  EJ  NM 71,295,172 0.1714
+QUAL3 QUALICORP ON      NM 277,226,847 0.3859
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 134
+
+PAGINA 35
+Código Ação Tipo Quantidade teórica Participação (%)
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 6.7282
+RAIZ4 RAIZEN PN      N2 1,200,488,532 1.0647
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 8.0651
+RENT3 LOCALIZA ON  EJS NM 773,535,098 9.7593
+SBFG3 GRUPO SBF ON      NM 95,566,506 0.2896
+SEER3 SER EDUCA ON      NM 52,472,207 0.0556
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 1.0710
+SMFT3 SMART FIT ON      NM 258,804,766 0.8341
+SMTO3 SAO MARTINHO ON      NM 143,294,210 0.9012
+SOMA3 GRUPO SOMA ON      NM 490,736,222 1.1800
+TEND3 TENDA ON      NM 95,672,515 0.0957
+TRIS3 TRISUL ON      NM 71,349,496 0.0582
+TTEN3 3TENTOS ON      NM 112,343,586 0.2483
+VAMO3 VAMOS ON  EJ  NM 314,724,970 0.9434
+VIIA3 VIA ON      NM 1,576,975,642 0.8975
+VIVA3 VIVARA S.A. ON      NM 99,216,524 0.5277
+VULC3 VULCABRAS ON      NM 73,766,391 0.2183
+YDUQ3 YDUQS PART ON      NM 296,015,511 0.7139
+ZAMP3 ZAMP S.A. ON      NM 270,582,179 0.3497
+Quantidade teórica total: 35.671.725.688
+Valor do Redutor: 143.669.798,167872
+Participação total: 100.00%
+IMOB
+Código Ação Tipo Quantidade teórica Participação (%)
+ALSO3 ALIANSCSONAE ON      NM 122,470,927 5.9315
+BRML3 BR MALLS PAR ON      NM 828,273,884 19.5742
+BRPR3 BR PROPERT ON      NM 175,439,087 3.2619
+CURY3 CURY S/A ON      NM 120,291,325 4.3361
+CYRE3 CYRELA REALT ON      NM 274,142,301 10.2019
+DIRR3 DIRECIONAL ON      NM 82,197,695 3.6604
+EVEN3 EVEN ON      NM 198,894,330 2.5937
+EZTC3 EZTEC ON      NM 94,318,339 3.6066
+GFSA3 GAFISA ON      NM 60,097,088 1.6940
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 11.2501
+JHSF3 JHSF PART ON      NM 299,019,330 4.2740
+LAVV3 LAVVI ON      NM 73,850,129 1.0030
+LOGG3 LOG COM PROP ON      NM 59,529,517 2.7323
+MRVE3 MRV ON      NM 305,668,749 6.6145
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 16.7204
+SYNE3 SYN PROP TEC ON      NM 58,932,234 0.6963
+TEND3 TENDA ON      NM 95,672,515 1.1495
+TRIS3 TRISUL ON      NM 71,349,496 0.6988
+Quantidade teórica total: 3.401.869.105
+Valor do Redutor: 53.261.183,4867988
+Participação total: 100.00%
+IFNC
+Código Ação Tipo Quantidade teórica Participação (%)
+ABCB4 ABC BRASIL PN      N2 67,562,128 0.3024
+B3SA3 B3 ON  ED  NM 5,901,731,302 17.9828
+BBAS3 BRASIL ON      NM 1,420,731,069 11.4283
+BBDC3 BRADESCO ON      N1 1,335,641,388 4.1670
+BBDC4 BRADESCO PN      N1 4,564,083,234 16.0152
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 5.2443
+BOAS3 BOA VISTA ON  EJ  NM 530,465,094 0.8919
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 6.7950
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.4801
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 135
+
+PAGINA 36
+Código Ação Tipo Quantidade teórica Participação (%)
+BRSR6 BANRISUL PNB     N1 202,535,840 0.4550
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 1.3294
+CLSA3 CLEARSALE ON      NM 52,773,048 0.0688
+CXSE3 CAIXA SEGURI ON      NM 517,500,000 1.0008
+ITSA4 ITAUSA PN      N1 5,233,076,295 10.3146
+ITUB3 ITAUUNIBANCO ON      N1 258,049,805 1.3074
+ITUB4 ITAUUNIBANCO PN      N1 3,224,339,347 18.6589
+MODL3 MODALMAIS ON      NM 291,313,231 0.1491
+PSSA3 PORTO SEGURO ON      NM 179,759,767 0.9638
+SANB11 SANTANDER BR UNT 355,642,848 2.3220
+WIZS3 WIZ S.A. ON      NM 75,275,228 0.1222
+Quantidade teórica total: 27.544.583.545
+Valor do Redutor: 42.107.589,2110221
+Participação total: 100.00%
+ICO2
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 4,764,392,126 4.5178
+AMER3 AMERICANAS ON      NM 1,281,517,555 0.8076
+ARZZ3 AREZZO CO ON      NM 140,931,678 0.7201
+ASAI3 ASSAI ON  EJ  NM 1,255,700,672 1.5966
+AURE3 AUREN ON      NM 729,254,880 0.7015
+AZUL4 AZUL PN      N2 144,918,868 0.1041
+B3SA3 B3 ON  ED  NM 6,394,375,474 5.4936
+BBAS3 BRASIL ON      NM 1,607,892,707 3.6468
+BBDC3 BRADESCO ON      N1 1,991,219,043 1.7516
+BBDC4 BRADESCO PN      N1 5,587,751,703 5.5284
+BEEF3 MINERVA ON      NM 666,157,852 0.5638
+BPAC11 BTGP BANCO UNT     N2 1,497,769,288 2.3416
+BPAN4 BANCO PAN PN  EJ  N1 1,379,758,759 0.5469
+BRFS3 BRF SA ON  ATZ NM 1,744,205,143 0.9431
+BRKM5 BRASKEM PNA     N1 232,728,248 0.3611
+BRML3 BR MALLS PAR ON      NM 532,975,646 0.2888
+CBAV3 CBA ON      NM 153,413,233 0.1157
+CCRO3 CCR SA ON      NM 1,535,144,278 1.0847
+CIEL3 CIELO ON  EJ  NM 663,314,467 0.2269
+CMIG4 CEMIG PN  EJ  N1 1,880,874,935 1.3683
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 0.2959
+COGN3 COGNA ON ON      NM 4,843,690,490 0.6706
+CPFE3 CPFL ENERGIA ON      NM 323,473,638 0.7013
+CPLE6 COPEL PNB     N2 1,933,106,900 0.9985
+CSAN3 COSAN ON      NM 1,382,239,967 1.5454
+CSNA3 SID NACIONAL ON  EJ 442,344,323 0.4203
+DXCO3 DEXCO ON  EB  NM 510,966,059 0.2262
+ECOR3 ECORODOVIAS ON      NM 1,721,391,371 0.5002
+EGIE3 ENGIE BRASIL ON  EJ  NM 137,573,377 0.3403
+ELET3 ELETROBRAS ON      N1 2,021,119,463 5.5594
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.7778
+EMBR3 EMBRAER ON      NM 1,172,493,799 1.0957
+ENBR3 ENERGIAS BR ON      NM 246,028,184 0.3340
+ENEV3 ENEVA ON      NM 255,843,001 0.1993
+ENGI11 ENERGISA UNT     N2 344,646,616 0.9950
+EZTC3 EZTEC ON      NM 593,111,309 0.5201
+FLRY3 FLEURY ON  EJ  NM 738,109,312 0.7447
+GGBR4 GERDAU PN      N1 1,093,112,629 2.0966
+GOLL4 GOL PN      N2 80,246,573 0.0384
+HYPE3 HYPERA ON  EJ  NM 256,838,436 0.7581
+IGTI11 IGUATEMI S.A UNT     N1 210,628,754 0.2544
+ITSA4 ITAUSA PN      N1 786,321,419 0.4370
+ITUB4 ITAUUNIBANCO PN      N1 5,061,509,002 8.2587
+JBSS3 JBS ON      NM 1,336,487,403 1.9193
+KLBN11 KLABIN S/A UNT EJ  N2 696,787,889 0.9087
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 136
+
+PAGINA 37
+Código Ação Tipo Quantidade teórica Participação (%)
+LREN3 LOJAS RENNER ON  EJ  NM 1,266,822,936 1.6943
+MDIA3 M.DIASBRANCO ON      NM 36,608,172 0.0856
+MGLU3 MAGAZ LUIZA ON      NM 5,237,088,806 0.9371
+MOVI3 MOVIDA ON  EJ  NM 114,121,168 0.0569
+MRFG3 MARFRIG ON  ED  NM 1,025,451,885 0.5826
+MRVE3 MRV ON      NM 215,583,802 0.1070
+MULT3 MULTIPLAN ON  EJ  N2 538,673,201 0.7704
+NTCO3 GRUPO NATURA ON      NM 1,418,176,260 1.0752
+PCAR3 P.ACUCAR-CBD ON      NM 103,714,754 0.1118
+PETR3 PETROBRAS ON      N2 1,308,789,165 2.3966
+PETR4 PETROBRAS PN      N2 1,614,504,427 2.5832
+PSSA3 PORTO SEGURO ON      NM 454,197,850 0.6866
+RADL3 RAIADROGASIL ON      NM 1,460,127,205 2.2618
+RAIL3 RUMO S.A. ON      NM 1,126,124,402 1.3686
+RAIZ4 RAIZEN PN      N2 2,634,134,121 0.6433
+RDOR3 REDE D OR ON  EJ  NM 840,738,260 1.6241
+RENT3 LOCALIZA ON  EJS NM 816,982,980 2.8384
+SANB11 SANTANDER BR UNT 583,962,512 1.0750
+SLCE3 SLC AGRICOLA ON  EJ  NM 50,240,278 0.1539
+SMTO3 SAO MARTINHO ON      NM 56,815,179 0.0983
+SOMA3 GRUPO SOMA ON      NM 151,938,620 0.1006
+STBP3 SANTOS BRP ON  EJ  NM 1,428,092,738 0.7283
+SUZB3 SUZANO S.A. ON      NM 583,091,778 1.8369
+TAEE11 TAESA UNT     N2 288,074,858 0.6522
+TIMS3 TIM ON  EJ  NM 1,312,370,862 1.0627
+TOTS3 TOTVS ON      NM 756,831,703 1.3563
+TRPL4 TRAN PAULIST PN  EJ  N1 395,794,140 0.5945
+UGPA3 ULTRAPAR ON      NM 1,521,369,026 1.2528
+USIM5 USIMINAS PNA     N1 515,014,562 0.2408
+VAMO3 VAMOS ON  EJ  NM 99,698,263 0.0822
+VBBR3 VIBRA ON  EJ  NM 1,527,821,407 1.5515
+VIIA3 VIA ON      NM 4,171,435,770 0.6538
+VIVT3 TELEF BRASIL ON 281,440,781 0.6871
+WEGE3 WEG ON      NM 1,634,773,487 4.1113
+YDUQ3 YDUQS PART ON      NM 948,386,786 0.6298
+Quantidade teórica total: 98.277.436.023
+Valor do Redutor: 786.836.317,483884
+Participação total: 100.00%
+IGCT
+Código Ação Tipo Quantidade teórica Participação (%)
+AALR3 ALLIAR ON      NM 42,015,455 0.0423
+ABCB4 ABC BRASIL PN      N2 67,562,128 0.0609
+AERI3 AERIS ON      NM 227,070,796 0.0119
+AESB3 AES BRASIL ON      NM 315,209,392 0.1421
+AGRO3 BRASILAGRO ON      NM 59,212,546 0.0827
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.1427
+ALSO3 ALIANSCSONAE ON      NM 122,470,927 0.0972
+ALUP11 ALUPAR UNT     N2 140,050,337 0.1845
+AMAR3 LOJAS MARISA ON      NM 156,188,662 0.0091
+AMBP3 AMBIPAR ON      NM 43,853,759 0.0427
+AMER3 AMERICANAS ON      NM 611,169,249 0.2752
+ANIM3 ANIMA ON      NM 256,780,519 0.0462
+ARML3 ARMAC ON  EDJ NM 172,214,221 0.0944
+ARZZ3 AREZZO CO ON      NM 60,758,326 0.2219
+ASAI3 ASSAI ON  EJ  NM 935,793,199 0.8503
+AURE3 AUREN ON      NM 301,966,318 0.2076
+AZUL4 AZUL PN      N2 327,646,296 0.1683
+B3SA3 B3 ON  ED  NM 5,901,731,302 3.6237
+BBAS3 BRASIL ON      NM 1,420,731,069 2.3029
+BBDC3 BRADESCO ON      N1 1,508,883,586 0.9486
+BBDC4 BRADESCO PN      N1 5,156,077,326 3.6458
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 137
+
+PAGINA 38
+Código Ação Tipo Quantidade teórica Participação (%)
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.0568
+BEEF3 MINERVA ON      NM 260,340,982 0.1574
+BLAU3 BLAU ON  EJ  NM 29,837,192 0.0366
+BMOB3 BEMOBI TECH ON      NM 83,721,218 0.0559
+BOAS3 BOA VISTA ON  EJ  NM 530,465,094 0.1797
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 1.3693
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.0967
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 0.3481
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 0.4160
+BRKM5 BRASKEM PNA     N1 265,212,486 0.2941
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.3208
+BRPR3 BR PROPERT ON      NM 175,439,087 0.0534
+BRSR6 BANRISUL PNB     N1 202,535,840 0.0916
+CAML3 CAMIL ON      NM 100,468,497 0.0388
+CASH3 MELIUZ ON      NM 657,970,941 0.0362
+CBAV3 CBA ON      NM 191,350,000 0.1031
+CCRO3 CCR SA ON      NM 998,462,635 0.5042
+CEAB3 CEA MODAS ON      NM 105,355,935 0.0112
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.2679
+CLSA3 CLEARSALE ON      NM 52,773,048 0.0138
+CMIG3 CEMIG ON  EJ  N1 360,768,393 0.2719
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 0.7498
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 0.2114
+COGN3 COGNA ON ON      NM 1,820,405,422 0.1801
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 0.2909
+CPLE6 COPEL PNB     N2 1,563,365,506 0.5771
+CRFB3 CARREFOUR BR ON      NM 528,743,156 0.3647
+CSAN3 COSAN ON      NM 1,171,063,698 0.9357
+CSMG3 COPASA ON      NM 188,469,206 0.1380
+CURY3 CURY S/A ON      NM 120,291,325 0.0710
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.0578
+CXSE3 CAIXA SEGURI ON      NM 517,500,000 0.2016
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.1672
+DASA3 DASA ON  EJ  NM 71,844,589 0.0460
+DIRR3 DIRECIONAL ON      NM 82,197,695 0.0600
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.0869
+ECOR3 ECORODOVIAS ON      NM 310,103,685 0.0644
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 0.4512
+ELET3 ELETROBRAS ON      N1 2,021,119,463 3.9733
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.5559
+EMBR3 EMBRAER ON      NM 734,632,205 0.4906
+ENAT3 ENAUTA PART ON      NM 77,336,145 0.0487
+ENBR3 ENERGIAS BR ON      NM 246,028,184 0.2387
+ENEV3 ENEVA ON      NM 1,576,898,490 0.8780
+ENGI11 ENERGISA UNT     N2 248,477,689 0.5127
+ENJU3 ENJOEI ON      NM 151,599,011 0.0068
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 1.3878
+ESPA3 ESPACOLASER ON      NM 238,938,124 0.0148
+EVEN3 EVEN ON      NM 198,894,330 0.0425
+EZTC3 EZTEC ON      NM 94,318,339 0.0591
+FESA4 FERBASA PN  EDJ N1 40,495,100 0.1010
+FHER3 FER HERINGER ON      NM 15,626,962 0.0125
+FLRY3 FLEURY ON  EJ  NM 351,919,239 0.2537
+GFSA3 GAFISA ON      NM 60,097,088 0.0277
+GGBR4 GERDAU PN      N1 1,093,112,629 1.4984
+GGPS3 GPS ON      NM 381,125,678 0.2118
+GMAT3 GRUPO MATEUS ON      NM 463,952,163 0.1368
+GOAU4 GERDAU MET PN      N1 667,194,478 0.4038
+GOLL4 GOL PN      N2 190,059,275 0.0651
+GRND3 GRENDENE ON      NM 267,727,632 0.0753
+GUAR3 GUARARAPES ON      NM 81,934,660 0.0249
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.0565
+HBSA3 HIDROVIAS ON      NM 760,109,566 0.0801
+HYPE3 HYPERA ON  EJ  NM 400,842,480 0.8456
+IFCM3 INFRACOMM ON      NM 290,327,826 0.0502
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 138
+
+PAGINA 39
+Código Ação Tipo Quantidade teórica Participação (%)
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 0.1844
+INTB3 INTELBRAS ON  EJ  NM 114,530,513 0.1627
+ITSA4 ITAUSA PN      N1 5,233,076,295 2.0785
+ITUB3 ITAUUNIBANCO ON      N1 384,272,066 0.3923
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 5.5992
+JALL3 JALLESMACHAD ON      NM 99,892,997 0.0356
+JBSS3 JBS ON      NM 1,134,986,483 1.1648
+JHSF3 JHSF PART ON      NM 299,019,330 0.0700
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 0.6542
+LAVV3 LAVVI ON      NM 73,850,129 0.0164
+LEVE3 METAL LEVE ON      NM 38,492,518 0.0540
+LIGT3 LIGHT S/A ON      NM 372,062,524 0.0804
+LJQQ3 QUERO-QUERO ON      NM 179,097,429 0.0351
+LOGG3 LOG COM PROP ON      NM 59,529,517 0.0447
+LOGN3 LOG-IN ON      NM 25,678,035 0.0420
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 0.9229
+LWSA3 LOCAWEB ON      NM 419,466,860 0.1374
+MATD3 MATER DEI ON      NM 81,005,456 0.0272
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.1158
+MEAL3 IMC S/A ON      NM 263,096,332 0.0343
+MEGA3 OMEGAENERGIA ON      NM 280,500,324 0.1256
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.3675
+MILS3 MILLS ON      NM 179,572,360 0.0957
+MLAS3 MULTILASER ON      NM 450,398,188 0.0847
+MODL3 MODALMAIS ON      NM 291,313,231 0.0300
+MOVI3 MOVIDA ON  EJ  NM 131,875,326 0.0470
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.1286
+MRVE3 MRV ON      NM 305,668,749 0.1084
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.2740
+MYPK3 IOCHP-MAXION ON      NM 131,266,899 0.0721
+NEOE3 NEOENERGIA ON      NM 196,252,888 0.1415
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.4529
+ODPV3 ODONTOPREV ON      NM 245,618,209 0.1035
+ONCO3 ONCOCLINICAS ON      NM 149,164,399 0.0419
+ORVR3 ORIZON ON      NM 34,502,599 0.0545
+PARD3 IHPARDINI ON  EJ  NM 41,610,660 0.0408
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.1217
+PETR3 PETROBRAS ON      N2 3,701,760,571 4.8446
+PETR4 PETROBRAS PN      N2 4,566,441,248 5.2217
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.0980
+PGMN3 PAGUE MENOS ON      NM 153,643,886 0.0314
+PNVL3 DIMED ON  EJ  NM 71,295,172 0.0337
+POMO4 MARCOPOLO PN  EJ  N2 554,935,063 0.0732
+POSI3 POSITIVO TEC ON      NM 73,573,028 0.0322
+PRIO3 PETRORIO ON      NM 839,159,130 1.4573
+PSSA3 PORTO SEGURO ON      NM 179,759,767 0.1942
+PTBL3 PORTOBELLO ON      NM 54,516,127 0.0209
+QUAL3 QUALICORP ON      NM 277,226,847 0.0759
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 1.3241
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.0559
+RAIZ4 RAIZEN PN      N2 1,200,488,532 0.2095
+RANI3 IRANI ON      NM 99,993,865 0.0375
+RAPT4 RANDON PART PN  EJ  N1 177,742,165 0.0681
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 1.5872
+RECV3 PETRORECSA ON      NM 276,436,573 0.4274
+RENT3 LOCALIZA ON  EJS NM 773,535,098 1.9207
+ROMI3 ROMI ON  EJ  NM 40,992,554 0.0291
+RRRP3 3R PETROLEUM ON      NM 196,144,421 0.3455
+SAPR11 SANEPAR UNT     N2 201,081,484 0.1620
+SBFG3 GRUPO SBF ON      NM 95,566,506 0.0570
+SBSP3 SABESP ON      NM 340,002,999 0.9070
+SEER3 SER EDUCA ON      NM 52,472,207 0.0109
+SEQL3 SEQUOIA LOG ON      NM 122,858,774 0.0174
+SIMH3 SIMPAR ON  EJ  NM 226,890,081 0.0715
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 0.2107
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 139
+
+PAGINA 40
+Código Ação Tipo Quantidade teórica Participação (%)
+SMFT3 SMART FIT ON      NM 258,804,766 0.1641
+SMTO3 SAO MARTINHO ON      NM 143,294,210 0.1773
+SOMA3 GRUPO SOMA ON      NM 490,736,222 0.2322
+SQIA3 SINQIA ON      NM 71,791,033 0.0503
+STBP3 SANTOS BRP ON  EJ  NM 858,685,799 0.3130
+SUZB3 SUZANO S.A. ON      NM 726,823,001 1.6364
+SYNE3 SYN PROP TEC ON      NM 58,932,234 0.0114
+TAEE11 TAESA UNT     N2 218,568,234 0.3536
+TASA4 TAURUS ARMAS PN      N2 68,086,667 0.0424
+TEND3 TENDA ON      NM 95,672,515 0.0188
+TIMS3 TIM ON  EJ  NM 808,436,195 0.4678
+TOTS3 TOTVS ON      NM 520,749,110 0.6669
+TRAD3 TC ON      NM 84,149,529 0.0087
+TRIS3 TRISUL ON      NM 71,349,496 0.0114
+TRPL4 TRAN PAULIST PN  EJ  N1 395,794,140 0.4248
+TTEN3 3TENTOS ON      NM 112,343,586 0.0488
+TUPY3 TUPY ON      NM 67,547,494 0.0856
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 0.6402
+USIM3 USIMINAS ON      N1 161,021,703 0.0556
+USIM5 USIMINAS PNA     N1 515,014,562 0.1721
+VALE3 VALE ON      NM 4,547,296,398 18.8638
+VAMO3 VAMOS ON  EJ  NM 314,724,970 0.1856
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 0.8088
+VIIA3 VIA ON      NM 1,576,975,642 0.1766
+VIVA3 VIVARA S.A. ON      NM 99,216,524 0.1038
+VLID3 VALID ON      NM 79,254,979 0.0339
+VULC3 VULCABRAS ON      NM 73,766,391 0.0429
+WEGE3 WEG ON      NM 1,481,593,024 2.6630
+WIZS3 WIZ S.A. ON      NM 75,275,228 0.0246
+YDUQ3 YDUQS PART ON      NM 296,015,511 0.1405
+ZAMP3 ZAMP S.A. ON      NM 270,582,179 0.0688
+Quantidade teórica total: 111.649.320.627
+Valor do Redutor: 437.404.883,881877
+Participação total: 100.00%
+UTIL
+Código Ação Tipo Quantidade teórica Participação (%)
+AESB3 AES BRASIL ON      NM 315,209,392 1.3693
+ALUP11 ALUPAR UNT     N2 140,050,337 1.7786
+AMBP3 AMBIPAR ON      NM 43,853,759 0.4121
+AURE3 AUREN ON      NM 301,966,318 2.0003
+CMIG3 CEMIG ON  EJ  N1 360,768,393 2.6202
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 7.2247
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 2.8029
+CPLE6 COPEL PNB     N2 1,563,365,506 5.5613
+CSMG3 COPASA ON      NM 188,469,206 1.3298
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 4.3475
+ELET3 ELETROBRAS ON      N1 917,005,445 17.3701
+ELET6 ELETROBRAS PNB     N1 125,009,725 2.4303
+ENBR3 ENERGIAS BR ON      NM 246,028,184 2.3002
+ENEV3 ENEVA ON      NM 1,576,898,490 8.4603
+ENGI11 ENERGISA UNT     N2 248,477,689 4.9402
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 13.3728
+LIGT3 LIGHT S/A ON      NM 372,062,524 0.7747
+MEGA3 OMEGAENERGIA ON      NM 280,500,324 1.2110
+NEOE3 NEOENERGIA ON      NM 196,252,888 1.3636
+ORVR3 ORIZON ON      NM 34,502,599 0.5255
+SAPR11 SANEPAR UNT     N2 201,081,484 1.5614
+SBSP3 SABESP ON      NM 340,002,999 8.7401
+TAEE11 TAESA UNT     N2 218,568,234 3.4078
+TRPL4 TRAN PAULIST PN  EJ  N1 395,794,140 4.0939
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 140
+
+PAGINA 41
+Quantidade teórica total: 11.051.421.094
+Valor do Redutor: 24.170.629,1545546
+Participação total: 100.00%
+IMAT
+Código Ação Tipo Quantidade teórica Participação (%)
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 4.5504
+BRKM5 BRASKEM PNA     N1 265,212,486 3.8436
+CBAV3 CBA ON      NM 191,350,000 1.3480
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 2.7637
+CSNA3 SID NACIONAL ON  EJ 589,695,175 5.2334
+DXCO3 DEXCO ON  EB  NM 274,863,424 1.1366
+FESA4 FERBASA PN  EDJ N1 40,495,100 1.3207
+FHER3 FER HERINGER ON      NM 15,626,962 0.1646
+GGBR4 GERDAU PN      N1 1,093,112,629 19.5824
+GOAU4 GERDAU MET PN      N1 667,194,478 5.2782
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 8.5497
+RANI3 IRANI ON      NM 99,993,865 0.4909
+SUZB3 SUZANO S.A. ON      NM 688,195,018 20.2496
+UNIP6 UNIPAR PNB 49,195,098 2.6409
+USIM3 USIMINAS ON      N1 161,021,703 0.7277
+USIM5 USIMINAS PNA     N1 515,014,562 2.2492
+VALE3 VALE ON      NM 366,512,651 19.8697
+Quantidade teórica total: 7.080.950.151
+Valor do Redutor: 28.211.139,9319613
+Participação total: 100.00%
+IDIV
+Código Ação Tipo Quantidade teórica Participação (%)
+ABCB4 ABC BRASIL PN      N2 99,787,664 0.3826
+AGRO3 BRASILAGRO ON      NM 87,455,529 0.5198
+AURE3 AUREN ON      NM 445,997,105 1.3034
+B3SA3 B3 ON  ED  NM 951,639,142 2.4838
+BBAS3 BRASIL ON      NM 593,178,265 4.0873
+BBSE3 BBSEGURIDADE ON      NM 694,741,588 4.6465
+BEEF3 MINERVA ON      NM 384,517,469 0.9887
+BRAP4 BRADESPAR PN  EJ  N1 370,745,648 2.1861
+BRSR6 BANRISUL PNB     N1 299,140,642 0.5756
+CMIG3 CEMIG ON  EJ  N1 532,846,378 1.7073
+CMIG4 CEMIG PN  EJ  N1 2,129,946,057 4.7076
+CMIN3 CSNMINERACAO ON  EJ  N2 1,640,256,948 1.3277
+CPFE3 CPFL ENERGIA ON      NM 277,276,515 1.8264
+CPLE6 COPEL PNB     N2 2,309,053,855 3.6237
+CSMG3 COPASA ON      NM 278,364,557 0.8665
+CSNA3 SID NACIONAL ON  EJ 870,965,818 2.5142
+CURY3 CURY S/A ON      NM 177,667,440 0.4462
+CYRE3 CYRELA REALT ON      NM 404,901,690 1.0499
+DIRR3 DIRECIONAL ON      NM 121,404,050 0.3767
+EGIE3 ENGIE BRASIL ON  EJ  NM 373,147,767 2.8043
+ELET3 ELETROBRAS ON      N1 310,921,423 2.5982
+ELET6 ELETROBRAS PNB     N1 322,796,355 2.7686
+ENAT3 ENAUTA PART ON      NM 114,223,656 0.3059
+ENBR3 ENERGIAS BR ON      NM 363,377,805 1.4988
+GGBR4 GERDAU PN      N1 1,188,485,215 6.9254
+GOAU4 GERDAU MET PN      N1 985,430,454 2.5357
+ITSA4 ITAUSA PN      N1 1,846,291,862 3.1172
+JBSS3 JBS ON      NM 1,006,477,316 4.3911
+JHSF3 JHSF PART ON      NM 441,644,474 0.4398
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 141
+
+PAGINA 42
+Código Ação Tipo Quantidade teórica Participação (%)
+LAVV3 LAVVI ON      NM 109,074,892 0.1032
+MRFG3 MARFRIG ON  ED  NM 467,794,715 0.8074
+MRVE3 MRV ON      NM 451,465,508 0.6807
+MYPK3 IOCHP-MAXION ON      NM 193,878,103 0.4527
+PETR3 PETROBRAS ON      N2 861,840,837 4.7946
+PETR4 PETROBRAS PN      N2 1,002,529,361 4.8731
+PSSA3 PORTO SEGURO ON      NM 265,500,921 1.2194
+RANI3 IRANI ON      NM 147,688,572 0.2358
+RAPT4 RANDON PART PN  EJ  N1 262,520,971 0.4276
+ROMI3 ROMI ON  EJ  NM 60,545,032 0.1831
+SANB11 SANTANDER BR UNT 525,276,070 2.9378
+SYNE3 SYN PROP TEC ON      NM 87,041,514 0.0716
+TAEE11 TAESA UNT     N2 322,820,109 2.2205
+TRPL4 TRAN PAULIST PN  EJ  N1 584,578,578 2.6675
+UNIP6 UNIPAR PNB 72,659,995 1.2687
+USIM3 USIMINAS ON      N1 237,825,244 0.3496
+USIM5 USIMINAS PNA     N1 760,664,320 1.0805
+VALE3 VALE ON      NM 307,415,795 5.4209
+VBBR3 VIBRA ON  EJ  NM 897,036,747 2.7675
+VIVT3 TELEF BRASIL ON 576,497,138 4.2758
+WIZS3 WIZ S.A. ON      NM 111,179,730 0.1546
+Quantidade teórica total: 27.928.516.839
+Valor do Redutor: 70.456.028,0575967
+Participação total: 100.00%
+IBRA
+Código Ação Tipo Quantidade teórica Participação (%)
+AALR3 ALLIAR ON      NM 42,015,455 0.0403
+ABCB4 ABC BRASIL PN      N2 67,562,128 0.0581
+ABEV3 AMBEV S/A ON  EJ 4,386,652,506 2.8343
+AERI3 AERIS ON      NM 227,070,796 0.0114
+AESB3 AES BRASIL ON      NM 315,209,392 0.1354
+AGRO3 BRASILAGRO ON      NM 59,212,546 0.0789
+ALPA4 ALPARGATAS PN      N1 202,765,994 0.1360
+ALSO3 ALIANSCSONAE ON      NM 122,470,927 0.0927
+ALUP11 ALUPAR UNT     N2 140,050,337 0.1759
+AMAR3 LOJAS MARISA ON      NM 156,188,662 0.0086
+AMBP3 AMBIPAR ON      NM 43,853,759 0.0407
+AMER3 AMERICANAS ON      NM 611,169,249 0.2624
+ANIM3 ANIMA ON      NM 256,780,519 0.0441
+ARML3 ARMAC ON  EDJ NM 172,214,221 0.0900
+ARZZ3 AREZZO CO ON      NM 60,758,326 0.2115
+ASAI3 ASSAI ON  EJ  NM 935,793,199 0.8107
+AURE3 AUREN ON      NM 301,966,318 0.1979
+AZUL4 AZUL PN      N2 327,646,296 0.1605
+B3SA3 B3 ON  ED  NM 5,901,731,302 3.4549
+BBAS3 BRASIL ON      NM 1,420,731,069 2.1956
+BBDC3 BRADESCO ON      N1 1,508,883,586 0.9044
+BBDC4 BRADESCO PN      N1 5,156,077,326 3.4760
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.0075
+BEEF3 MINERVA ON      NM 260,340,982 0.1501
+BLAU3 BLAU ON  EJ  NM 29,837,192 0.0349
+BMOB3 BEMOBI TECH ON      NM 83,721,218 0.0533
+BOAS3 BOA VISTA ON  EJ  NM 530,465,094 0.1713
+BPAC11 BTGP BANCO UNT     N2 1,225,470,424 1.3054
+BPAN4 BANCO PAN PN  EJ  N1 341,549,703 0.0922
+BRAP4 BRADESPAR PN  EJ  N1 251,016,648 0.3319
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 0.3966
+BRKM5 BRASKEM PNA     N1 265,212,486 0.2804
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.3059
+BRPR3 BR PROPERT ON      NM 175,439,087 0.0509
+BRSR6 BANRISUL PNB     N1 202,535,840 0.0874
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 142
+
+PAGINA 43
+Código Ação Tipo Quantidade teórica Participação (%)
+CAML3 CAMIL ON      NM 100,468,497 0.0370
+CASH3 MELIUZ ON      NM 657,970,941 0.0345
+CBAV3 CBA ON      NM 191,350,000 0.0983
+CCRO3 CCR SA ON      NM 998,462,635 0.4807
+CEAB3 CEA MODAS ON      NM 105,355,935 0.0107
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.2554
+CLSA3 CLEARSALE ON      NM 52,773,048 0.0132
+CMIG3 CEMIG ON  EJ  N1 360,768,393 0.2592
+CMIG4 CEMIG PN  EJ  N1 1,442,098,974 0.7148
+CMIN3 CSNMINERACAO ON  EJ  N2 1,110,550,596 0.2016
+COGN3 COGNA ON ON      NM 1,820,405,422 0.1717
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 0.2773
+CPLE6 COPEL PNB     N2 1,563,365,506 0.5502
+CRFB3 CARREFOUR BR ON      NM 528,743,156 0.3477
+CSAN3 COSAN ON      NM 1,171,063,698 0.8921
+CSMG3 COPASA ON      NM 188,469,206 0.1315
+CSNA3 SID NACIONAL ON  EJ 589,695,175 0.3818
+CURY3 CURY S/A ON      NM 120,291,325 0.0677
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.0551
+CXSE3 CAIXA SEGURI ON      NM 517,500,000 0.1922
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.1594
+DASA3 DASA ON  EJ  NM 71,844,589 0.0438
+DIRR3 DIRECIONAL ON      NM 82,197,695 0.0572
+DMMO3 DOMMO ON 221,646,553 0.0189
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.0829
+ECOR3 ECORODOVIAS ON      NM 310,103,685 0.0614
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 0.4301
+ELET3 ELETROBRAS ON      N1 2,021,119,463 3.7881
+ELET6 ELETROBRAS PNB     N1 275,526,814 0.5300
+EMBR3 EMBRAER ON      NM 734,632,205 0.4677
+ENAT3 ENAUTA PART ON      NM 77,336,145 0.0464
+ENBR3 ENERGIAS BR ON      NM 246,028,184 0.2276
+ENEV3 ENEVA ON      NM 1,576,898,490 0.8371
+ENGI11 ENERGISA UNT     N2 248,477,689 0.4888
+ENJU3 ENJOEI ON      NM 151,599,011 0.0065
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 1.3232
+ESPA3 ESPACOLASER ON      NM 238,938,124 0.0141
+EVEN3 EVEN ON      NM 198,894,330 0.0405
+EZTC3 EZTEC ON      NM 94,318,339 0.0563
+FESA4 FERBASA PN  EDJ N1 40,495,100 0.0963
+FHER3 FER HERINGER ON      NM 15,626,962 0.0120
+FLRY3 FLEURY ON  EJ  NM 351,919,239 0.2419
+GFSA3 GAFISA ON      NM 60,097,088 0.0264
+GGBR4 GERDAU PN      N1 1,093,112,629 1.4286
+GGPS3 GPS ON      NM 381,125,678 0.2019
+GMAT3 GRUPO MATEUS ON      NM 463,952,163 0.1304
+GOAU4 GERDAU MET PN      N1 667,194,478 0.3850
+GOLL4 GOL PN      N2 190,059,275 0.0620
+GRND3 GRENDENE ON      NM 267,727,632 0.0718
+GUAR3 GUARARAPES ON      NM 81,934,660 0.0237
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.0072
+HBSA3 HIDROVIAS ON      NM 760,109,566 0.0764
+HYPE3 HYPERA ON  EJ  NM 400,842,480 0.8062
+IFCM3 INFRACOMM ON      NM 290,327,826 0.0479
+IGTI11 IGUATEMI S.A UNT     N1 213,576,831 0.1758
+INTB3 INTELBRAS ON  EJ  NM 114,530,513 0.1551
+ITSA4 ITAUSA PN      N1 5,233,076,295 1.9816
+ITUB3 ITAUUNIBANCO ON      N1 384,272,066 0.3740
+ITUB4 ITAUUNIBANCO PN      N1 4,801,489,940 5.3383
+JALL3 JALLESMACHAD ON      NM 99,892,997 0.0339
+JBSS3 JBS ON      NM 1,134,986,483 1.1106
+JHSF3 JHSF PART ON      NM 299,019,330 0.0667
+KEPL3 KEPLER WEBER ON 89,295,802 0.0799
+KLBN11 KLABIN S/A UNT EJ  N2 701,899,756 0.6237
+LAVV3 LAVVI ON      NM 73,850,129 0.0156
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 143
+
+PAGINA 44
+Código Ação Tipo Quantidade teórica Participação (%)
+LEVE3 METAL LEVE ON      NM 38,492,518 0.0514
+LIGT3 LIGHT S/A ON      NM 372,062,524 0.0766
+LJQQ3 QUERO-QUERO ON      NM 179,097,429 0.0334
+LOGG3 LOG COM PROP ON      NM 59,529,517 0.0427
+LOGN3 LOG-IN ON      NM 25,678,035 0.0401
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 0.8799
+LWSA3 LOCAWEB ON      NM 419,466,860 0.1310
+MATD3 MATER DEI ON      NM 81,005,456 0.0259
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.1104
+MEAL3 IMC S/A ON      NM 263,096,332 0.0327
+MEGA3 OMEGAENERGIA ON      NM 280,500,324 0.1198
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.3504
+MILS3 MILLS ON      NM 179,572,360 0.0913
+MLAS3 MULTILASER ON      NM 450,398,188 0.0807
+MODL3 MODALMAIS ON      NM 291,313,231 0.0286
+MOVI3 MOVIDA ON  EJ  NM 131,875,326 0.0448
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.1226
+MRVE3 MRV ON      NM 305,668,749 0.1033
+MULT3 MULTIPLAN ON  EJ  N2 268,145,328 0.2613
+MYPK3 IOCHP-MAXION ON      NM 131,266,899 0.0687
+NEOE3 NEOENERGIA ON      NM 196,252,888 0.1349
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.4318
+ODPV3 ODONTOPREV ON      NM 245,618,209 0.0986
+ONCO3 ONCOCLINICAS ON      NM 149,164,399 0.0400
+ORVR3 ORIZON ON      NM 34,502,599 0.0520
+PARD3 IHPARDINI ON  EJ  NM 41,610,660 0.0389
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.1160
+PETR3 PETROBRAS ON      N2 3,701,760,571 4.6188
+PETR4 PETROBRAS PN      N2 4,566,441,248 4.9784
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.0935
+PGMN3 PAGUE MENOS ON      NM 153,643,886 0.0299
+PNVL3 DIMED ON  EJ  NM 71,295,172 0.0321
+POMO4 MARCOPOLO PN  EJ  N2 554,935,063 0.0698
+POSI3 POSITIVO TEC ON      NM 73,573,028 0.0307
+PRIO3 PETRORIO ON      NM 839,159,130 1.3894
+PSSA3 PORTO SEGURO ON      NM 179,759,767 0.1851
+PTBL3 PORTOBELLO ON      NM 54,516,127 0.0199
+QUAL3 QUALICORP ON      NM 277,226,847 0.0724
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 1.2624
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.0067
+RAIZ4 RAIZEN PN      N2 1,200,488,532 0.1997
+RANI3 IRANI ON      NM 99,993,865 0.0358
+RAPT4 RANDON PART PN  EJ  N1 177,742,165 0.0649
+RCSL3 RECRUSUL ON  ES 24,756,257 0.0018
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 1.5133
+RECV3 PETRORECSA ON      NM 276,436,573 0.4075
+RENT3 LOCALIZA ON  EJS NM 773,535,098 1.8312
+ROMI3 ROMI ON  EJ  NM 40,992,554 0.0278
+RRRP3 3R PETROLEUM ON      NM 196,144,421 0.3294
+SANB11 SANTANDER BR UNT 355,642,848 0.4461
+SAPR11 SANEPAR UNT     N2 201,081,484 0.1545
+SBFG3 GRUPO SBF ON      NM 95,566,506 0.0543
+SBSP3 SABESP ON      NM 340,002,999 0.8648
+SEER3 SER EDUCA ON      NM 52,472,207 0.0104
+SEQL3 SEQUOIA LOG ON      NM 122,858,774 0.0166
+SIMH3 SIMPAR ON  EJ  NM 226,890,081 0.0682
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 0.2009
+SMFT3 SMART FIT ON      NM 258,804,766 0.1565
+SMTO3 SAO MARTINHO ON      NM 143,294,210 0.1691
+SOMA3 GRUPO SOMA ON      NM 490,736,222 0.2214
+SQIA3 SINQIA ON      NM 71,791,033 0.0480
+STBP3 SANTOS BRP ON  EJ  NM 858,685,799 0.2984
+SUZB3 SUZANO S.A. ON      NM 726,823,001 1.5602
+SYNE3 SYN PROP TEC ON      NM 58,932,234 0.0108
+TAEE11 TAESA UNT     N2 218,568,234 0.3372
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 144
+
+PAGINA 45
+Código Ação Tipo Quantidade teórica Participação (%)
+TASA4 TAURUS ARMAS PN      N2 68,086,667 0.0404
+TEND3 TENDA ON      NM 95,672,515 0.0179
+TIMS3 TIM ON  EJ  NM 808,436,195 0.4460
+TOTS3 TOTVS ON      NM 520,749,110 0.6358
+TRAD3 TC ON      NM 84,149,529 0.0083
+TRIS3 TRISUL ON      NM 71,349,496 0.0109
+TRPL4 TRAN PAULIST PN  EJ  N1 395,794,140 0.4050
+TTEN3 3TENTOS ON      NM 112,343,586 0.0465
+TUPY3 TUPY ON      NM 67,547,494 0.0816
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 0.6104
+UNIP6 UNIPAR PNB 49,195,098 0.1926
+USIM3 USIMINAS ON      N1 161,021,703 0.0530
+USIM5 USIMINAS PNA     N1 515,014,562 0.1640
+VALE3 VALE ON      NM 4,547,296,398 17.9848
+VAMO3 VAMOS ON  EJ  NM 314,724,970 0.1770
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 0.7711
+VIIA3 VIA ON      NM 1,576,975,642 0.1684
+VIVA3 VIVARA S.A. ON      NM 99,216,524 0.0990
+VIVT3 TELEF BRASIL ON 423,091,712 0.7038
+VLID3 VALID ON      NM 79,254,979 0.0324
+VULC3 VULCABRAS ON      NM 73,766,391 0.0409
+WEGE3 WEG ON      NM 1,481,593,024 2.5389
+WIZS3 WIZ S.A. ON      NM 75,275,228 0.0234
+YDUQ3 YDUQS PART ON      NM 296,015,511 0.1339
+ZAMP3 ZAMP S.A. ON      NM 270,582,179 0.0656
+Quantidade teórica total: 117.789.296.578
+Valor do Redutor: 517.591.403,575012
+Participação total: 100.00%
+BDRX
+Código Ação Tipo Quantidade teórica Participação (%)
+A1MD34 ADVANCED MIC DRN 128,988,480 0.5401
+A1MT34 APPLIED MATE DRN 84,413,970 0.4231
+A1UA34 ANGLOGOLD AS DRN 16,744,020 0.0419
+A1ZN34 ASTRAZENECA DRN 185,943,360 1.0881
+A2MC34 AMC ENTERT H DRN 31,902,972 0.0113
+AALL34 AMERICAN AIR DRN 6,499,009 0.0430
+AAPL34 APPLE DRN 3,181,624,000 10.7086
+ABBV34 ABBVIE DRN 282,956,960 1.4799
+ADBE34 ADOBE INC DRN 232,450,000 0.8114
+AIRB34 AIRBNB DRN 79,649,360 0.1748
+AMZO34 AMAZON DRN 2,040,330,835 4.4985
+ARMT34 ARCELOR DRN 17,556,196 0.1199
+ATTB34 ATT INC DRN 71,260,000 0.2265
+ATVI34 ACTIVISION DRN 7,826,253 0.3091
+AVGO34 BROADCOM INC DRN 292,520,270 1.2237
+AXPB34 AMERICAN EXP DRN 7,472,300 0.0567
+B1IL34 BILIBILI INC DRN 15,810,085 0.0396
+B1NT34 BIONTECH SE DRN 38,829,664 0.1924
+B1PP34 BP PLC DRN 120,199,960 0.5373
+B1SA34 BANCO SANTAN DRN 9,422,306 0.0384
+B1TI34 BRITISH AMER DRN ED 111,793,300 0.4605
+B2YN34 BEYOND MEAT DRN 12,748,462 0.0041
+BABA34 ALIBABAGR DRN 741,310,080 1.2194
+BCSA34 SANTANDER DRN 167,944,000 0.2596
+BERK34 BERKSHIRE DRN 14,650,000 0.1171
+BIDU34 BAIDU INC DRN 38,589,320 0.1663
+BKNG34 BOOKING DRN 67,881,432 0.4011
+BLAK34 BLACKROCK DRN 99,129,096 0.5542
+BOAC34 BANK AMERICA DRN 320,897,280 1.3749
+BONY34 BNY MELLON DRN 8,082,800 0.1899
+C1CL34 CARNIVAL COR DRN 11,127,070 0.0471
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 145
+
+PAGINA 46
+Código Ação Tipo Quantidade teórica Participação (%)
+C1SU34 CREDIT SUISS DRN 80,043,160 0.0654
+C2OI34 COINBASEGLOB DRN 44,712,375 0.0328
+CATP34 CATERPILLAR DRN 83,265,496 0.6425
+CHCM34 CHARTER COMM DRN 93,403,380 0.2722
+CHVX34 CHEVRON DRN 193,363,854 1.7886
+CMCS34 COMCAST DRN 215,698,200 0.7826
+COCA34 COCA COLA DRN 259,470,795 1.4492
+COLG34 COLGATE DRN 58,464,994 0.3465
+COPH34 COPHILLIPS DRN ED 149,528,520 0.7470
+COWC34 COSTCO DRN 177,536,400 1.0611
+CSCO34 CISCO DRN 205,405,150 1.0064
+CTGP34 CITIGROUP DRN 116,211,180 0.4526
+D1OC34 DOCUSIGN INC DRN 40,214,820 0.0577
+D1VN34 DEVON ENERGY DRN 6,537,000 0.2093
+DISB34 WALT DISNEY DRN 18,240,000 0.0545
+E1DU34 NEW ORIENTAL DRN 25,490,640 0.0321
+ELCI34 ESTEE LAUDER DRN 55,504,872 0.2749
+EQIX34 EQUINIX INC DRN 74,030,496 0.3169
+EXXO34 EXXON MOBIL DRN 329,463,440 2.3309
+FCXO34 FREEPORT DRN 42,879,810 0.2869
+FDMO34 FORD MOTORS DRN 39,496,420 0.2341
+FSLR34 FIRST SOLAR DRN 2,132,112 0.0673
+GEOO34 GE DRN 10,926,680 0.4645
+GMCO34 GENERAL MOT DRN 56,827,880 0.2458
+GOGL34 ALPHABET DRN A 716,760,000 2.7713
+GOGL35 ALPHABET DRN C 730,320,000 2.7986
+GSGI34 GOLDMANSACHS DRN 101,590,380 0.5990
+HOME34 HOME DEPOT DRN 285,372,080 1.6784
+HOND34 HONDA MO DRN 18,114,280 0.2141
+I1SR34 INTUITIVE SU DRN 70,676,920 0.4877
+ITLC34 INTEL DRN 247,620,000 0.5644
+JDCO34 JD COM DRN 80,868,420 0.4029
+JNJB34 JOHNSON DRN 26,140,000 0.1600
+JPMC34 JPMORGAN DRN 293,320,500 2.0209
+KHCB34 KRAFT HEINZ DRN 12,250,000 0.0640
+L1YG34 LLOYDS BANKI DRN 168,196,000 0.1957
+M1NS34 MONSTER BEVE DRN 41,739,488 0.2744
+M1RN34 MODERNA INC DRN 76,836,100 0.3548
+M1TA34 META PLAT DRN 631,489,880 1.4035
+MACY34 MACY S DRN 2,711,120 0.0289
+MCDC34 MCDONALDS DRN 146,484,780 1.0022
+MELI34 MERCADOLIBRE DRN 60,353,868 0.2268
+MMMC34 3M DRN 22,109,716 0.3422
+MOSC34 MOSAIC CO DRN 20,428,860 0.0775
+MRCK34 MERCK DRN 202,831,680 1.4459
+MSBR34 MORGAN STAN DRN 16,900,000 0.1603
+MSCD34 MASTERCARD DRN 295,678,942 1.7140
+MSFT34 MICROSOFT DRN 1,789,073,520 9.3888
+MUTC34 MICRON TECHN DRN 65,453,580 0.2840
+N1DA34 NASDAQ INC DRN 9,825,590 0.1593
+N1EM34 NEWMONT GOLD DRN 7,937,387 0.1971
+NEXT34 NEXTERA ENER DRN 79,486,560 0.8745
+NFLX34 NETFLIX DRN 222,510,250 0.6810
+NIKE34 NIKE DRN 125,968,768 0.7758
+NVDC34 NVIDIA CORP DRN 1,180,800,000 1.8541
+ORCL34 ORACLE DRN 161,775,180 1.1497
+OXYP34 OCCIDENT PTR DRN 54,534,846 0.2921
+P1DD34 PINDUODUO IN DRN 126,438,600 0.5471
+P1LD34 PROLOGIS INC DRN 110,769,432 0.5503
+PAGS34 PAGSEGURO DRN 10,102,670 0.0086
+PEPB34 PEPSICO INC DRN 13,780,000 0.0877
+PFIZ34 PFIZER DRN 224,532,600 1.4913
+PGCO34 PG DRN 331,757,580 1.8604
+PYPL34 PAYPAL HOLD DRN 228,005,600 0.4134
+QCOM34 QUALCOMM DRN 134,520,000 0.6458
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 146
+
+PAGINA 47
+Código Ação Tipo Quantidade teórica Participação (%)
+R1IN34 REALTY INCOM DRN 12,543,078 0.2077
+R1KU34 ROKU INC DRN 24,368,920 0.0254
+R2BL34 ROBLOX CORP DRN 54,947,880 0.0770
+RIGG34 TRANSOCEAN DRN 7,218,884 0.0172
+RIOT34 RIO TINTO DRN 12,496,540 0.4672
+RYTT34 RAYTHEONTECH DRN 88,203,646 0.7577
+S1BS34 SIBANYE STIL DRN 14,151,192 0.0408
+S1PO34 SPOTIFY TECH DRN 7,725,212 0.0788
+S2EA34 SEA LTD DRN 129,052,550 0.1436
+S2HO34 SHOPIFY INC DRN 1,198,413,240 0.1815
+S2QU34 BLOCK INC. DRN 134,354,900 0.1739
+S2TO34 STORECAPITAL DRN 11,307,432 0.0466
+SBUB34 STARBUCKS DRN 11,480,000 0.6006
+SCHW34 SCHWAB DRN 145,267,680 0.7722
+SIMN34 SIMON PROP DRN 13,077,832 0.1970
+SNEC34 SONY GROUP DRN 12,610,820 0.4974
+SSFO34 SALESFOR INC DRN 220,000,000 0.6822
+T1AL34 TAL EDUCATIO DRN 50,138,630 0.0193
+T1TW34 TAKE-TWO INT DRN 6,712,764 0.0878
+T2DH34 TELADOCHEALT DRN 48,578,130 0.0198
+T2TD34 TRADE DESK DRN 445,288,000 0.1047
+TEXA34 TEXAS INC DRN 9,075,700 0.0514
+TLNC34 TELEFONIC DRN 57,752,380 0.1083
+TMCO34 TOYOTAMO DRN 261,039,840 1.1528
+TMOS34 THERMFISCHER DRN 188,253,888 1.1244
+TSLA34 TESLA INC DRN 1,010,480,640 2.0181
+TSMC34 TAIWANSMFAC DRN 414,886,080 2.0250
+TXSA34 TERNIUMSA DRN 2,004,743 0.0324
+U1BE34 UBER TECH IN DRN 79,776,280 0.2596
+U2ST34 UNITY SOFTWR DRN 80,607,840 0.0603
+ULEV34 UNILEVER DRN 25,320,500 0.6724
+UNHH34 UNITEDHEALTH DRN 654,044,370 2.5585
+USSX34 US STEEL DRN 2,342,689 0.0313
+VERZ34 VERIZON DRN 251,989,020 0.8518
+VISA34 VISA INC DRN 21,180,000 0.1134
+WALM34 WAL MART DRN 431,488,000 1.9986
+WFCO34 WELLS FARGO DRN 152,419,640 0.8219
+Z1OM34 ZOOM VIDEO DRN 61,413,025 0.0863
+Quantidade teórica total: 26.323.477.656
+Valor do Redutor: 91.847.421,51827
+Participação total: 100.00%
+IFIX
+Código Ação Tipo Quantidade teórica Participação (%)
+AFHI11 FII AFHI CRI CI 3,019,453 0.2634
+AIEC11 FII AUTONOMY CI 4,824,987 0.3018
+ALZR11 FII ALIANZA CI 7,311,700 0.7454
+ARCT11 FII ARCTIUM CI 3,708,168 0.3003
+ARRI11 FII ATRIO CI 12,228,577 0.1028
+BARI11 FII BARIGUI CI 4,634,191 0.3689
+BBPO11 FII BB PRGII CI 15,919,690 1.2365
+BCFF11 FII BC FFII CI 25,186,378 1.5326
+BCIA11 FII BCIA CI 3,719,038 0.2876
+BCRI11 FII BEES CRI CI 6,257,873 0.5417
+BLMG11 FII BLUE LOG CI  ES 3,810,588 0.2607
+BLMR11 FII BLUE FOF CI 25,541,630 0.1623
+BPFF11 FII ABSOLUTO CI 4,492,326 0.2622
+BRCO11 FII BRESCO CI 14,778,781 1.3256
+BRCR11 FII BC FUND CI 26,638,202 1.4487
+BTAL11 FII BTG AGRO CI  ER 5,982,736 0.5219
+BTCI11 FII BTG CRI CI 11,057,908 0.8214
+BTLG11 FII BTLG CI 21,066,892 1.9424
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 147
+
+PAGINA 48
+Código Ação Tipo Quantidade teórica Participação (%)
+BTRA11 FII BTG TAGR CI  ER 3,364,559 0.2663
+CACR11 CARTESIA FII CI 1,807,434 0.1696
+CARE11 FII DEA CARE CI 35,769,919 0.0926
+CPFF11 FII CAP REIT CI 5,449,778 0.3268
+CPTS11 FII CAPI SEC CI 31,782,814 2.3961
+CVBI11 FII VBI CRI CI 11,010,228 0.8726
+DEVA11 FII DEVANT CI 14,044,908 1.1254
+GALG11 FII GUARDIAN CI 57,485,300 0.4914
+GGRC11 FII GGRCOVEP CI 8,765,434 0.9338
+GTWR11 FII G TOWERS CI 12,000,000 0.8674
+HABT11 FII HABIT II CI 8,126,783 0.6627
+HCTR11 FII HECTARE CI 22,084,202 2.0330
+HFOF11 FII HTOPFOF3 CI 23,012,000 1.4597
+HGBS11 FII HEDGEBS CI 10,000,000 1.7333
+HGCR11 FII CSHG CRI CI 15,418,106 1.4294
+HGFF11 FII CSHG FOF CI 2,863,597 0.1871
+HGLG11 FII CSHG LOG CI 23,456,675 3.4963
+HGRE11 FII HG REAL CI 11,817,767 1.3231
+HGRU11 FII CSHG URB CI 18,406,458 2.0317
+HOFC11 FII HOFFICEI CI 3,779,001 0.0974
+HSAF11 FII HSI CRI CI 2,526,360 0.1812
+HSLG11 FII HSI LOG CI 12,660,067 1.0254
+HSML11 FII HSI MALL CI 15,780,613 1.1759
+IBCR11 FII BREI CI 958,423 0.0752
+IRDM11 FII IRIDIUM CI 36,433,827 3.0900
+JSRE11 FII JS REAL CI 20,767,328 1.3829
+KFOF11 FII KINEAFOF CI 4,533,315 0.3234
+KISU11 FII KILIMA CI 44,196,050 0.3251
+KNCR11 FII KINEA RI CI 57,097,087 5.1120
+KNHY11 FII KINEA HY CI 18,490,843 1.6448
+KNIP11 FII KINEA IP CI 80,078,186 6.6930
+KNRI11 FII KINEA CI 24,157,121 3.0882
+KNSC11 FII KINEA SC CI 13,275,794 1.0419
+LGCP11 FII LGCP INT CI 2,732,860 0.2057
+LVBI11 FII VBI LOG CI 11,775,177 1.1060
+MALL11 FII MALLS BP CI 9,124,659 0.8607
+MCCI11 FII MAUA CI 16,960,024 1.3691
+MCHF11 FII MAUA HF CI 32,307,646 0.2726
+MFII11 FII MERITO I CI 4,146,900 0.3517
+MGFF11 FII MOGNO CI 9,050,620 0.4897
+MORC11 FII MORE CRI CI  ER 1,291,942 0.1128
+MORE11 FII MORE RE CI 2,319,115 0.1438
+MXRF11 FII MAXI REN CI 226,039,663 2.0738
+NCHB11 FII NCH BR CI 1,821,363 0.1487
+NSLU11 FII LOURDES CI 1,293,286 0.1964
+OUJP11 FII OURI JPP CI 3,252,384 0.2916
+PATL11 FII PATR LOG CI 4,991,535 0.3197
+PLCR11 FII PLURAL R CI 2,109,169 0.1627
+PORD11 FII POLO CRI CI 3,728,375 0.3079
+PVBI11 FII VBI PRI CI 10,039,493 0.8591
+QAGR11 FII QUASAR A CI 5,040,000 0.1992
+RBFF11 FII RIOB FF CI 3,749,215 0.1805
+RBHG11 FII RBCRI IV CI 1,727,582 0.1348
+RBRF11 FII RBRALPHA CI 13,680,770 0.8646
+RBRL11 FII RBR LOG CI 6,687,035 0.5158
+RBRP11 FII RBR PROP CI 12,179,186 0.5703
+RBRR11 FII RBRHGRAD CI 13,438,908 1.0394
+RBRY11 FII RBR PCRI CI 5,546,804 0.5011
+RBVA11 FII RIOB VA CI 11,588,199 0.9700
+RCRB11 FII RIOB RC CI 3,690,695 0.4308
+RECR11 FII REC RECE CI 26,441,650 2.1316
+RECT11 FII REC REND CI 8,543,493 0.4228
+RELG11 FII REC LOG CI 1,334,562 0.0895
+RZAK11 FII RIZA AKN CI 4,759,958 0.4229
+RZTR11 FII RIZA TX CI 11,048,018 1.0059
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 148
+
+PAGINA 49
+Código Ação Tipo Quantidade teórica Participação (%)
+SADI11 FII SANT PAP CI 3,180,207 0.2656
+SARE11 FII SANT REN CI 9,234,329 0.5703
+SDIL11 FII SDI LOG CI 6,395,050 0.5542
+SNCI11 FII SUNO CRI CI 4,200,000 0.3797
+SNFF11 FII SUNOFOFI CI 2,830,000 0.2285
+TEPP11 FII TEL PROP CI 4,221,967 0.2578
+TGAR11 FII TG ATIVO CI 13,784,500 1.5279
+TORD11 FII TORDE EI CI 35,051,354 0.2366
+TRXF11 FII TRX REAL CI 10,823,386 1.0332
+URPR11 FII URCA REN CI 11,675,248 1.0710
+VCJR11 FII VECTIS CI 14,723,970 1.2103
+VGHF11 FII VALOR HE CI 72,889,247 0.6232
+VGIP11 FII VALORAIP CI 11,787,247 0.9299
+VGIR11 FII VALREIII CI 103,220,707 0.9337
+VILG11 FII VINCI LG CI 14,997,396 1.3667
+VINO11 FII VINCI OF CI 16,565,259 0.7189
+VISC11 FII VINCI SC CI 18,591,052 1.7990
+VIUR11 FII VINCI IU CI 26,946,220 0.1942
+VRTA11 FII FATOR VE CI 15,592,424 1.2598
+VSLH11 FII VERS CRI CI 29,864,091 0.2493
+VTLT11 FII VOT LOG CI 2,115,000 0.1800
+WHGR11 FII WHG REAL CI 25,089,531 0.1976
+XPCI11 FII XP CRED CI 8,701,552 0.6438
+XPIN11 FII XP INDL CI 7,150,422 0.4847
+XPLG11 FII XP LOG CI 27,101,061 2.4475
+XPML11 FII XP MALLS CI 20,319,930 1.7855
+XPPR11 FII XP PROP CI 7,316,171 0.2147
+XPSF11 FII XP SELEC CI 43,302,140 0.2991
+Quantidade teórica total: 1.891.688.842
+Valor do Redutor: 37.977.713,0839472
+Participação total: 100.00%
+IGNM
+Código Ação Tipo Quantidade teórica Participação (%)
+AALR3 ALLIAR ON      NM 42,015,455 0.0760
+AERI3 AERIS ON      NM 227,070,796 0.0215
+AESB3 AES BRASIL ON      NM 315,209,392 0.2552
+AGRO3 BRASILAGRO ON      NM 59,212,546 0.1487
+AGXY3 AGROGALAXY ON      NM 64,701,030 0.0534
+ALLD3 ALLIED ON  EJ  NM 24,615,435 0.0123
+ALPK3 ESTAPAR ON      NM 88,284,122 0.0115
+ALSO3 ALIANSCSONAE ON      NM 122,470,927 0.1746
+AMAR3 LOJAS MARISA ON      NM 156,188,662 0.0163
+AMBP3 AMBIPAR ON      NM 43,853,759 0.0768
+AMER3 AMERICANAS ON      NM 611,169,249 0.4944
+ANIM3 ANIMA ON      NM 256,780,519 0.0830
+APER3 ALPER S.A. ON      NM 15,380,574 0.0348
+ARML3 ARMAC ON  EDJ NM 172,214,221 0.1696
+ARZZ3 AREZZO CO ON      NM 60,758,326 0.3985
+ASAI3 ASSAI ON  EJ  NM 935,793,199 1.5274
+AURE3 AUREN ON      NM 301,966,318 0.3728
+AVLL3 ALPHAVILLE ON      NM 4,456,403 0.0026
+B3SA3 B3 ON  ED  NM 5,901,731,302 6.5091
+BBAS3 BRASIL ON      NM 1,420,731,069 4.1366
+BBSE3 BBSEGURIDADE ON      NM 671,682,536 1.8982
+BEEF3 MINERVA ON      NM 260,340,982 0.2828
+BLAU3 BLAU ON  EJ  NM 29,837,192 0.0658
+BMOB3 BEMOBI TECH ON      NM 83,721,218 0.1004
+BOAS3 BOA VISTA ON  EJ  NM 530,465,094 0.3228
+BRFS3 BRF SA ON  ATZ NM 1,076,512,610 0.7472
+BRIT3 BRISANET ON      NM 94,842,067 0.0217
+BRML3 BR MALLS PAR ON      NM 828,273,884 0.5763
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 149
+
+PAGINA 50
+Código Ação Tipo Quantidade teórica Participação (%)
+BRPR3 BR PROPERT ON      NM 175,439,087 0.0960
+CAML3 CAMIL ON      NM 100,468,497 0.0697
+CASH3 MELIUZ ON      NM 657,970,941 0.0650
+CBAV3 CBA ON      NM 191,350,000 0.1852
+CCRO3 CCR SA ON      NM 998,462,635 0.9057
+CEAB3 CEA MODAS ON      NM 105,355,935 0.0202
+CIEL3 CIELO ON  EJ  NM 1,095,401,258 0.4812
+CLSA3 CLEARSALE ON      NM 52,773,048 0.0249
+COGN3 COGNA ON ON      NM 1,820,405,422 0.3235
+CPFE3 CPFL ENERGIA ON      NM 187,732,538 0.5225
+CRFB3 CARREFOUR BR ON      NM 528,743,156 0.6551
+CSAN3 COSAN ON      NM 1,171,063,698 1.6807
+CSED3 CRUZEIRO EDU ON      NM 77,755,200 0.0250
+CSMG3 COPASA ON      NM 188,469,206 0.2479
+CSUD3 CSU DIGITAL ON      NM 18,502,093 0.0189
+CURY3 CURY S/A ON      NM 120,291,325 0.1276
+CVCB3 CVC BRASIL ON      NM 275,967,676 0.1038
+CXSE3 CAIXA SEGURI ON      NM 517,500,000 0.3622
+CYRE3 CYRELA REALT ON      NM 274,142,301 0.3003
+DASA3 DASA ON  EJ  NM 71,844,589 0.0826
+DESK3 DESKTOP ON      NM 42,173,076 0.0282
+DIRR3 DIRECIONAL ON      NM 82,197,695 0.1077
+DMVF3 D1000VFARMA ON      NM 19,036,205 0.0065
+DOTZ3 DOTZ SA ON      NM 40,135,567 0.0043
+DXCO3 DEXCO ON  EB  NM 274,863,424 0.1562
+ECOR3 ECORODOVIAS ON      NM 310,103,685 0.1156
+EGIE3 ENGIE BRASIL ON  EJ  NM 255,208,461 0.8104
+ELMD3 ELETROMIDIA ON      NM 52,669,211 0.0451
+EMBR3 EMBRAER ON      NM 734,632,205 0.8813
+ENAT3 ENAUTA PART ON      NM 77,336,145 0.0875
+ENBR3 ENERGIAS BR ON      NM 246,028,184 0.4288
+ENEV3 ENEVA ON      NM 1,576,898,490 1.5771
+ENJU3 ENJOEI ON      NM 151,599,011 0.0123
+EQTL3 EQUATORIAL ON      NM 1,100,513,485 2.4929
+ESPA3 ESPACOLASER ON      NM 238,938,124 0.0266
+EVEN3 EVEN ON      NM 198,894,330 0.0763
+EZTC3 EZTEC ON      NM 94,318,339 0.1061
+FHER3 FER HERINGER ON      NM 15,626,962 0.0226
+FIQE3 UNIFIQUE ON      NM 90,969,763 0.0297
+FLRY3 FLEURY ON  EJ  NM 351,919,239 0.4558
+GFSA3 GAFISA ON      NM 60,097,088 0.0498
+GGPS3 GPS ON      NM 381,125,678 0.3805
+GMAT3 GRUPO MATEUS ON      NM 463,952,163 0.2458
+GRND3 GRENDENE ON      NM 267,727,632 0.1353
+GUAR3 GUARARAPES ON      NM 81,934,660 0.0447
+HAPV3 HAPVIDA ON      NM 4,455,957,762 1.8977
+HBOR3 HELBOR ON      NM 65,595,478 0.0112
+HBRE3 HBR REALTY ON      NM 25,797,246 0.0097
+HBSA3 HIDROVIAS ON      NM 760,109,566 0.1440
+HYPE3 HYPERA ON  EJ  NM 400,842,480 1.5189
+IFCM3 INFRACOMM ON      NM 290,327,826 0.0903
+INTB3 INTELBRAS ON  EJ  NM 114,530,513 0.2923
+JALL3 JALLESMACHAD ON      NM 99,892,997 0.0639
+JBSS3 JBS ON      NM 1,134,986,483 2.0924
+JHSF3 JHSF PART ON      NM 299,019,330 0.1258
+JSLG3 JSL ON  EJ  NM 63,184,705 0.0291
+KRSA3 KORA SAUDE ON      NM 156,186,540 0.0102
+LAND3 TERRASANTAPA ON      NM 30,612,077 0.0737
+LAVV3 LAVVI ON      NM 73,850,129 0.0295
+LEVE3 METAL LEVE ON      NM 38,492,518 0.0970
+LIGT3 LIGHT S/A ON      NM 372,062,524 0.1444
+LJQQ3 QUERO-QUERO ON      NM 179,097,429 0.0630
+LOGG3 LOG COM PROP ON      NM 59,529,517 0.0804
+LOGN3 LOG-IN ON      NM 25,678,035 0.0755
+LPSB3 LOPES BRASIL ON      NM 104,420,584 0.0159
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 150
+
+PAGINA 51
+Código Ação Tipo Quantidade teórica Participação (%)
+LREN3 LOJAS RENNER ON  EJ  NM 965,528,807 1.6577
+LVTC3 WDC NETWORKS ON      NM 21,545,321 0.0106
+LWSA3 LOCAWEB ON      NM 419,466,860 0.2468
+MATD3 MATER DEI ON      NM 81,005,456 0.0489
+MBLY3 MOBLY ON      NM 44,444,445 0.0111
+MDIA3 M.DIASBRANCO ON      NM 69,291,942 0.2081
+MDNE3 MOURA DUBEUX ON      NM 53,555,495 0.0260
+MEAL3 IMC S/A ON      NM 263,096,332 0.0617
+MEGA3 OMEGAENERGIA ON      NM 280,500,324 0.2257
+MELK3 MELNICK ON      NM 68,215,265 0.0188
+MGLU3 MAGAZ LUIZA ON      NM 2,874,188,573 0.6602
+MILS3 MILLS ON      NM 179,572,360 0.1720
+MLAS3 MULTILASER ON      NM 450,398,188 0.1521
+MODL3 MODALMAIS ON      NM 291,313,231 0.0539
+MOVI3 MOVIDA ON  EJ  NM 131,875,326 0.0844
+MRFG3 MARFRIG ON  ED  NM 316,724,584 0.2310
+MRVE3 MRV ON      NM 305,668,749 0.1947
+MTRE3 MITRE REALTY ON      NM 52,463,951 0.0159
+MYPK3 IOCHP-MAXION ON      NM 131,266,899 0.1295
+NEOE3 NEOENERGIA ON      NM 196,252,888 0.2541
+NGRD3 NEOGRID ON      NM 102,307,839 0.0127
+NINJ3 GETNINJAS ON      NM 41,328,861 0.0095
+NTCO3 GRUPO NATURA ON      NM 835,961,011 0.8136
+ODPV3 ODONTOPREV ON      NM 245,618,209 0.1859
+OFSA3 OUROFINO S/A ON      NM 23,401,433 0.0477
+ONCO3 ONCOCLINICAS ON      NM 149,164,399 0.0754
+OPCT3 OCEANPACT ON      NM 123,217,826 0.0295
+ORVR3 ORIZON ON      NM 34,502,599 0.0979
+OSXB3 OSX BRASIL ON      NM 1,592,166 0.0008
+PARD3 IHPARDINI ON  EJ  NM 41,610,660 0.0734
+PCAR3 P.ACUCAR-CBD ON      NM 157,889,627 0.2186
+PDTC3 PADTEC ON      NM 35,062,506 0.0089
+PETZ3 PETZ ON  EJ  NM 335,724,569 0.1761
+PFRM3 PROFARMA ON  EJ  NM 87,499,778 0.0269
+PGMN3 PAGUE MENOS ON      NM 153,643,886 0.0564
+PLPL3 PLANOEPLANO ON      NM 54,695,391 0.0182
+PNVL3 DIMED ON  EJ  NM 71,295,172 0.0606
+PORT3 WILSON SONS ON      NM 190,677,400 0.1728
+POSI3 POSITIVO TEC ON      NM 73,573,028 0.0579
+PRIO3 PETRORIO ON      NM 839,159,130 2.6177
+PRNR3 PRINER ON      NM 37,482,015 0.0210
+PSSA3 PORTO SEGURO ON      NM 179,759,767 0.3488
+PTBL3 PORTOBELLO ON      NM 54,516,127 0.0376
+QUAL3 QUALICORP ON      NM 277,226,847 0.1364
+RADL3 RAIADROGASIL ON      NM 1,196,069,386 2.3784
+RAIL3 RUMO S.A. ON      NM 1,215,642,613 1.8966
+RANI3 IRANI ON      NM 99,993,865 0.0674
+RDNI3 RNI ON      NM 14,048,469 0.0081
+RDOR3 REDE D OR ON  EJ  NM 1,149,694,340 2.8510
+RECV3 PETRORECSA ON      NM 276,436,573 0.7677
+RENT3 LOCALIZA ON  EJS NM 773,535,098 3.4500
+ROMI3 ROMI ON  EJ  NM 40,992,554 0.0524
+RRRP3 3R PETROLEUM ON      NM 196,144,421 0.6207
+SBFG3 GRUPO SBF ON      NM 95,566,506 0.1023
+SBSP3 SABESP ON      NM 340,002,999 1.6293
+SCAR3 SAO CARLOS ON      NM 22,630,228 0.0344
+SEER3 SER EDUCA ON      NM 52,472,207 0.0196
+SEQL3 SEQUOIA LOG ON      NM 122,858,774 0.0313
+SGPS3 SPRINGS ON      NM 23,542,287 0.0026
+SHOW3 TIME FOR FUN ON      NM 33,258,852 0.0066
+SIMH3 SIMPAR ON  EJ  NM 226,890,081 0.1285
+SLCE3 SLC AGRICOLA ON  EJ  NM 96,272,020 0.3786
+SMFT3 SMART FIT ON      NM 258,804,766 0.2948
+SMTO3 SAO MARTINHO ON      NM 143,294,210 0.3185
+SOJA3 BOA SAFRA ON      NM 46,459,647 0.0405
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 151
+
+PAGINA 52
+Código Ação Tipo Quantidade teórica Participação (%)
+SOMA3 GRUPO SOMA ON      NM 490,736,222 0.4171
+SQIA3 SINQIA ON      NM 71,791,033 0.0904
+STBP3 SANTOS BRP ON  EJ  NM 858,685,799 0.5622
+SUZB3 SUZANO S.A. ON      NM 726,823,001 2.9394
+SYNE3 SYN PROP TEC ON      NM 58,932,234 0.0205
+TCSA3 TECNISA ON      NM 47,851,218 0.0106
+TECN3 TECHNOS ON      NM 41,068,407 0.0072
+TEND3 TENDA ON      NM 95,672,515 0.0338
+TGMA3 TEGMA ON      NM 32,001,480 0.0519
+TIMS3 TIM ON  EJ  NM 808,436,195 0.8404
+TOTS3 TOTVS ON      NM 520,749,110 1.1980
+TPIS3 TRIUNFO PART ON      NM 74,149,313 0.0055
+TRAD3 TC ON      NM 84,149,529 0.0156
+TRIS3 TRISUL ON      NM 71,349,496 0.0205
+TTEN3 3TENTOS ON      NM 112,343,586 0.0877
+TUPY3 TUPY ON      NM 67,547,494 0.1537
+UCAS3 UNICASA ON      NM 28,508,438 0.0060
+UGPA3 ULTRAPAR ON      NM 1,087,887,681 1.1500
+VALE3 VALE ON      NM 2,630,631,309 19.6017
+VAMO3 VAMOS ON  EJ  NM 314,724,970 0.3335
+VBBR3 VIBRA ON  EJ  NM 1,114,442,976 1.4528
+VIIA3 VIA ON      NM 1,576,975,642 0.3172
+VITT3 VITTIA ON      NM 50,552,360 0.0550
+VIVA3 VIVARA S.A. ON      NM 99,216,524 0.1865
+VLID3 VALID ON      NM 79,254,979 0.0610
+VULC3 VULCABRAS ON      NM 73,766,391 0.0771
+VVEO3 VIVEO ON  EJ  NM 113,481,297 0.1534
+WEGE3 WEG ON      NM 1,481,593,024 4.7833
+WEST3 WESTWING ON      NM 108,741,763 0.0108
+WIZS3 WIZ S.A. ON      NM 75,275,228 0.0442
+YDUQ3 YDUQS PART ON      NM 296,015,511 0.2523
+ZAMP3 ZAMP S.A. ON      NM 270,582,179 0.1236
+Quantidade teórica total: 70.320.822.095
+Valor do Redutor: 339.100.884,075968
+Participação total: 100.00%
+IGPTW
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 1,282,983,800 1.2764
+AERI3 AERIS ON      NM 18,628,925,300 1.4423
+AGRO3 BRASILAGRO ON      NM 659,431,000 1.3537
+AMAR3 LOJAS MARISA ON      NM 16,059,418,300 1.3754
+AMER3 AMERICANAS ON      NM 4,067,450,900 2.6894
+ARZZ3 AREZZO CO ON      NM 243,292,700 1.3044
+ASAI3 ASSAI ON  EJ  NM 965,229,300 1.2876
+B3SA3 B3 ON  ED  NM 1,438,527,000 1.2967
+BBDC4 BRADESCO PN      N1 1,266,412,300 1.3146
+BMOB3 BEMOBI TECH ON      NM 1,319,329,000 1.2936
+BOAS3 BOA VISTA ON  EJ  NM 2,551,907,600 1.2694
+BPAN4 BANCO PAN PN  EJ  N1 3,081,014,100 1.2814
+BRPR3 BR PROPERT ON      NM 3,004,665,400 1.3443
+CASH3 MELIUZ ON      NM 15,922,158,400 1.2873
+CBAV3 CBA ON      NM 1,663,296,900 1.3163
+CCRO3 CCR SA ON      NM 1,765,774,900 1.3091
+CEAB3 CEA MODAS ON      NM 8,664,616,400 1.3595
+CIEL3 CIELO ON  EJ  NM 7,334,222,600 2.6333
+CLSA3 CLEARSALE ON      NM 6,513,610,200 2.5127
+COGN3 COGNA ON ON      NM 9,043,167,600 1.3136
+CPLE6 COPEL PNB     N2 2,454,403,900 1.3302
+CXSE3 CAIXA SEGURI ON      NM 2,288,565,800 1.3093
+DASA3 DASA ON  EJ  NM 1,349,922,100 1.2699
+ENGI11 ENERGISA UNT     N2 426,584,000 1.2922
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 152
+
+PAGINA 53
+Código Ação Tipo Quantidade teórica Participação (%)
+EQTL3 EQUATORIAL ON      NM 706,443,900 1.3079
+GFSA3 GAFISA ON      NM 2,961,673,300 2.0090
+GGBR4 GERDAU PN      N1 629,781,100 1.2673
+GUAR3 GUARARAPES ON      NM 2,956,972,300 1.3210
+HBSA3 HIDROVIAS ON      NM 8,316,484,500 1.2878
+IFCM3 INFRACOMM ON      NM 5,034,844,700 1.2799
+IGTI11 IGUATEMI S.A UNT     N1 1,026,952,900 1.3017
+INTB3 INTELBRAS ON  EJ  NM 1,264,263,700 2.6378
+ITSA4 ITAUSA PN      N1 2,223,022,100 1.2962
+ITUB4 ITAUUNIBANCO PN      N1 1,517,631,400 2.5981
+JALL3 JALLESMACHAD ON      NM 2,555,408,100 1.3377
+KEPL3 KEPLER WEBER ON 931,446,300 1.2847
+LEVE3 METAL LEVE ON      NM 612,592,100 1.2617
+LJQQ3 QUERO-QUERO ON      NM 9,065,170,500 2.6088
+LOGN3 LOG-IN ON      NM 525,646,900 1.2642
+LWSA3 LOCAWEB ON      NM 2,711,634,000 1.3043
+MATD3 MATER DEI ON      NM 2,723,527,100 1.3455
+MGLU3 MAGAZ LUIZA ON      NM 14,784,861,300 2.7757
+MILS3 MILLS ON      NM 1,709,075,700 1.3385
+PCAR3 P.ACUCAR-CBD ON      NM 1,122,224,400 1.2703
+PGMN3 PAGUE MENOS ON      NM 4,446,044,200 1.3343
+POSI3 POSITIVO TEC ON      NM 2,204,606,500 1.4184
+QUAL3 QUALICORP ON      NM 3,157,445,000 1.2699
+RANI3 IRANI ON      NM 2,397,545,100 1.3224
+RENT3 LOCALIZA ON  EJS NM 711,163,400 2.5923
+RRRP3 3R PETROLEUM ON      NM 517,470,100 1.3385
+SANB11 SANTANDER BR UNT 671,070,800 1.2962
+SBFG3 GRUPO SBF ON      NM 1,480,836,700 1.2967
+SBSP3 SABESP ON      NM 329,832,200 1.2918
+SLCE3 SLC AGRICOLA ON  EJ  NM 811,894,800 2.6096
+SQIA3 SINQIA ON      NM 1,247,751,200 1.2850
+STBP3 SANTOS BRP ON  EJ  NM 2,328,615,700 1.2461
+TAEE11 TAESA UNT     N2 542,484,700 1.2887
+TIMS3 TIM ON  EJ  NM 1,523,215,500 1.2941
+TOTS3 TOTVS ON      NM 696,148,200 1.3089
+TRAD3 TC ON      NM 7,827,279,500 1.1906
+UGPA3 ULTRAPAR ON      NM 1,517,013,500 1.3107
+UNIP6 UNIPAR PNB 209,431,400 1.2629
+VIIA3 VIA ON      NM 7,860,306,000 1.2926
+VIVT3 TELEF BRASIL ON 995,932,900 2.5511
+WIZS3 WIZ S.A. ON      NM 5,487,165,000 2.6356
+Quantidade teórica total: 222.337.818.200
+Valor do Redutor: 1.271.068.463,99705
+Participação total: 100.00%
+IFIL
+Código Ação Tipo Quantidade teórica Participação (%)
+ALZR11 FII ALIANZA CI 7,311,700 0.8511
+ARCT11 FII ARCTIUM CI 3,708,168 0.3429
+BARI11 FII BARIGUI CI 4,634,191 0.4213
+BBPO11 FII BB PRGII CI 15,919,690 1.4119
+BCFF11 FII BC FFII CI 25,186,378 1.7499
+BCRI11 FII BEES CRI CI 6,257,873 0.6186
+BRCO11 FII BRESCO CI 14,778,781 1.5136
+BRCR11 FII BC FUND CI 26,638,202 1.6542
+BTAL11 FII BTG AGRO CI  ER 5,982,736 0.5959
+BTCI11 FII BTG CRI CI 11,057,908 0.9379
+BTLG11 FII BTLG CI 21,066,892 2.2179
+CPTS11 FII CAPI SEC CI 31,782,814 2.7358
+CVBI11 FII VBI CRI CI 11,010,228 0.9963
+DEVA11 FII DEVANT CI 14,044,908 1.2849
+GGRC11 FII GGRCOVEP CI 8,765,434 1.0662
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 153
+
+PAGINA 54
+Código Ação Tipo Quantidade teórica Participação (%)
+HABT11 FII HABIT II CI 8,126,783 0.7567
+HCTR11 FII HECTARE CI 22,084,202 2.3213
+HFOF11 FII HTOPFOF3 CI 23,012,000 1.6667
+HGBS11 FII HEDGEBS CI 10,000,000 1.9791
+HGCR11 FII CSHG CRI CI 15,418,106 1.6321
+HGLG11 FII CSHG LOG CI 23,456,675 3.9921
+HGRE11 FII HG REAL CI 11,817,767 1.5107
+HGRU11 FII CSHG URB CI 18,406,458 2.3198
+HSML11 FII HSI MALL CI 15,780,613 1.3426
+IRDM11 FII IRIDIUM CI 36,433,827 3.5282
+JSRE11 FII JS REAL CI 20,767,328 1.5790
+KISU11 FII KILIMA CI 44,196,050 0.3712
+KNCR11 FII KINEA RI CI 57,097,087 5.8370
+KNHY11 FII KINEA HY CI 18,490,843 1.8781
+KNIP11 FII KINEA IP CI 80,078,186 7.6422
+KNRI11 FII KINEA CI 24,157,121 3.5261
+KNSC11 FII KINEA SC CI 13,275,794 1.1897
+LVBI11 FII VBI LOG CI 11,775,177 1.2629
+MALL11 FII MALLS BP CI 9,124,659 0.9828
+MCCI11 FII MAUA CI 16,960,024 1.5632
+MCHF11 FII MAUA HF CI 32,307,646 0.3113
+MGFF11 FII MOGNO CI 9,050,620 0.5591
+MXRF11 FII MAXI REN CI 226,039,663 2.3679
+PATL11 FII PATR LOG CI 4,991,535 0.3650
+PVBI11 FII VBI PRI CI 10,039,493 0.9809
+RBRF11 FII RBRALPHA CI 13,680,770 0.9872
+RBRP11 FII RBR PROP CI 12,179,186 0.6512
+RBRR11 FII RBRHGRAD CI 13,438,908 1.1868
+RBRY11 FII RBR PCRI CI 5,546,804 0.5721
+RECR11 FII REC RECE CI 26,441,650 2.4338
+RZAK11 FII RIZA AKN CI 4,759,958 0.4829
+RZTR11 FII RIZA TX CI 11,048,018 1.1485
+SARE11 FII SANT REN CI 9,234,329 0.6512
+SDIL11 FII SDI LOG CI 6,395,050 0.6328
+SNCI11 FII SUNO CRI CI 4,200,000 0.4336
+TGAR11 FII TG ATIVO CI 13,784,500 1.7446
+TORD11 FII TORDE EI CI 35,051,354 0.2701
+TRXF11 FII TRX REAL CI 10,823,386 1.1797
+URPR11 FII URCA REN CI 11,675,248 1.2229
+VCJR11 FII VECTIS CI 14,723,970 1.3820
+VGHF11 FII VALOR HE CI 72,889,247 0.7115
+VGIP11 FII VALORAIP CI 11,787,247 1.0618
+VGIR11 FII VALREIII CI 103,220,707 1.0661
+VILG11 FII VINCI LG CI 14,997,396 1.5605
+VINO11 FII VINCI OF CI 16,565,259 0.8209
+VISC11 FII VINCI SC CI 18,591,052 2.0541
+VRTA11 FII FATOR VE CI 15,592,424 1.4385
+VSLH11 FII VERS CRI CI 29,864,091 0.2846
+XPCI11 FII XP CRED CI 8,701,552 0.7351
+XPLG11 FII XP LOG CI 27,101,061 2.7946
+XPML11 FII XP MALLS CI 20,319,930 2.0387
+XPPR11 FII XP PROP CI 7,316,171 0.2451
+XPSF11 FII XP SELEC CI 43,302,140 0.3416
+Quantidade teórica total: 1.554.264.968
+Valor do Redutor: 75.069.317,0971866
+Participação total: 100.00%
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 154
+
+PAGINA 55
+AGFS
+Código Ação Tipo Quantidade teórica Participação (%)
+ABEV3 AMBEV S/A ON  EJ 842,002,034 6.0480
+AGRO3 BRASILAGRO ON      NM 201,001,973 2.9790
+ARML3 ARMAC ON  EDJ NM 189,833,086 1.1034
+ARZZ3 AREZZO CO ON      NM 61,996,824 2.3998
+ASAI3 ASSAI ON  EJ  NM 530,615,881 5.1107
+BEEF3 MINERVA ON      NM 518,456,660 3.3239
+BRFS3 BRF SA ON  ATZ NM 1,211,681,692 4.9631
+CAML3 CAMIL ON      NM 642,881,559 2.6332
+CRFB3 CARREFOUR BR ON      NM 344,008,560 2.5152
+CSAN3 COSAN ON      NM 722,996,425 6.1231
+DXCO3 DEXCO ON  EB  NM 888,118,306 2.9787
+FHER3 FER HERINGER ON      NM 216,877,753 1.8528
+GMAT3 GRUPO MATEUS ON      NM 433,387,418 1.3549
+HBSA3 HIDROVIAS ON      NM 920,448,592 1.0290
+JALL3 JALLESMACHAD ON      NM 714,134,226 2.6990
+JBSS3 JBS ON      NM 695,481,187 7.5656
+KEPL3 KEPLER WEBER ON 105,172,008 1.0473
+KLBN11 KLABIN S/A UNT EJ  N2 598,618,857 5.9137
+MDIA3 M.DIASBRANCO ON      NM 102,251,787 1.8123
+MRFG3 MARFRIG ON  ED  NM 767,409,906 3.3027
+PCAR3 P.ACUCAR-CBD ON      NM 151,865,424 1.2410
+RAIL3 RUMO S.A. ON      NM 610,270,770 5.6182
+RAIZ4 RAIZEN PN      N2 1,258,114,990 2.3276
+RANI3 IRANI ON      NM 673,153,758 2.6806
+RAPT4 RANDON PART PN  EJ  N1 239,054,970 0.9709
+RCSL3 RECRUSUL ON  ES 803,542,921 0.6757
+SLCE3 SLC AGRICOLA ON  EJ  NM 153,647,636 3.5655
+SMTO3 SAO MARTINHO ON      NM 264,245,694 3.4666
+SUZB3 SUZANO S.A. ON      NM 308,354,396 7.3585
+TTEN3 3TENTOS ON      NM 585,344,310 2.6987
+TUPY3 TUPY ON      NM 76,411,371 1.0265
+VAMO3 VAMOS ON  EJ  NM 257,984,441 1.6131
+Quantidade teórica total: 16.089.365.415
+Valor do Redutor: 130.513.653,21281
+Participação total: 100.00%
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 155
+
+PAGINA 56
+Informativos
+Leilões/comunicados
+LEILÃO DE VENDA DE AÇÕES   POR DETERMINAÇÃO JUDICIAL  A REALIZAR-SE NA B3  EM
+02/01/2023 
+LEILÃO DE VENDA DE AÇÕES 
+POR DETERMINAÇÃO JUDICIAL
+A REALIZAR-SE NA B3
+EM 02/01/2023
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... AGORA CTVM S/A - 039
+Em decorrência de ordens judiciais e em razão do disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3, será realizado
+leilão especial para a venda de ações dos ativos relacionados na tabela disponível em www.b3.com.br
+Valores.
+NOTAS DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão; e
+·         Caso a oferta de venda não seja atendida na sua totalidade durante a realização do leilão, a intermediadora registrará o saldo não atendido no call
+de fechamento, até que a oferta seja atendida em sua totalidade ou por até 5 pregões consecutivos – Data limite: 09/01/2023.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+CPFL   ENERGIAON NM CPFE3 655 R$   28,05 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 156
+
+PAGINA 57
+A presente venda está em conformidade com o Processo nº 1021072-02.2021.8.26.0451 de 20/09/2022, 2ª Vara de Família e Sucessões da Comarca de
+Piracicaba – São Paulo e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3F 27 R$   30,10 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 5167196-29.2022.8.13.0024 de 04/10/2022, 30ª Vara Cível da Comarca de Belo Horizonte – Minas
+Gerais e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 157
+
+PAGINA 58
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRF   SA ON ATZ NM BRFS3F 2 R$   9,80 por ação
+WEG   ON NM WEGE3 364 R$   32,80 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0000418-25.2008.8.20.0001 de 21/06/2022, 9ª Vara de Família e Sucessões da Comarca de
+Natal – Rio Grande do Norte e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3 912 R$   30,10 por ação
+OI   ON N1 OIBR3F 1 R$   0,15 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 8000774-60.2019.8.05.0082 de 24/10/2022, Juízo de Direito da Vara de Relações de Consumo,
+Cível, Comercial, Registros Públicos e Acidentes de Trabalho da Comarca de Gandu – Bahia e está de acordo com o disposto no item 6.5.1.6 do Manual de
+Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 158
+
+PAGINA 59
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3F 12 R$   30,10 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 5000195-52.2022.8.13.0110 de 13/09/2022, Secretaria da Única Vara Cível da Comarca de
+Campestre – Minas Gerais e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3F 24 R$   30,10 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0021459-87.1999.8.19.0002 de 07/07/2022, 9ª Vara Cível da Comarca de Niterói – Rio de Janeiro
+e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 159
+
+PAGINA 60
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3F 24 R$   30,10 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0000220-31.2021.8.19.0010 de 22/01/2022, 1ª Vara da Comarca de Bom Jesus de Itabapoana –
+Rio de Janeiro e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3 753 R$   28,70 por ação
+PETROBRAS   PN N2 PETR4 1393 R$   22,15 por ação
+VALE   ON NM VALE3 1196 R$   67,00 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0717898-15.2020.8.07.0001 de 31/05/2022, 1ª Vara de Órfãos e Sucessões de Brasília – Distrito
+Federal e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 160
+
+PAGINA 61
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+PETROBRAS   PN N2 PETR4 1104 R$   21,70 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0253825-37.2018.8.19.0001 de 28/04/2021, 7ª Vara de Órfãos e Sucessões da Comarca da
+Capital – Rio de Janeiro e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+FII   BB PROGRCI MB BBFI11B 20 R$   1.527,00 por cota
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0023332- 23.2015.8.17.0001 de 16/08/2022, 3ª Vara de Sucessões e Registros Púclicos da
+Comarca de Recife - PE e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 161
+
+PAGINA 62
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+FII   BB PROGRCI MB BBFI11B 20 R$   1.527,00 por cota
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0023332- 23.2015.8.17.0001 de 16/08/2022, 3ª Vara de Sucessões e Registros Púclicos da
+Comarca de Recife - PE e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3 691 R$   28,70 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0040916-51.2010.8.26.0576 de 02/05/2022, 1ª Vara de Família e Sucessões da Comarca de São
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 162
+
+PAGINA 63
+José do Rio Preto - SP e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3F 81 R$   28,70 por ação
+VALE   ON NM VALE3F 93 R$   67,00 por ação
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0808649-06.2021.8.15.2001 de 02/09/2022, Vara de Sucessões da Capital da Comarca de João
+Pessoa - PB e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES
+POR SOLICITAÇÃO DO PODER JUDICIÁRIO
+A REALIZAR-SE NA B3
+EM 02/01/2023
+PAPEL/TIPO CÓDIGO QUANTIDADE PREÇO   REFERÊNCIA
+BRASIL   ON NM BBAS3 369 R$   28,70 por ação
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 163
+
+PAGINA 64
+DATA/HORA................. 02/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... GENIAL INSTITUCIONAL CCTVM S/A (120)
+A presente venda está em conformidade com o Processo nº 0061906-91.2010.8.17.0001 de 13/05/2022, 2ª Vara de Sucessões e Registros Públicos da
+Comarca de Recife – PE e está de acordo com o disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3.
+NOTA DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão.
+DATA: 28/12/2022
+LEILÃO DE VENDA DE AÇÕES  POR DETERMINAÇÃO JUDICIAL  A REALIZAR-SE NA B3  EM
+03/01/2023 - INTEGRA
+ 
+LEILÃO DE VENDA DE AÇÕES
+POR DETERMINAÇÃO JUDICIAL
+A REALIZAR-SE NA B3
+EM 03/01/2023
+DATA/HORA...................03/01/2023, no Call de Fechamento
+INTERMEDIADORA..............NU INVEST CORRE(90)
+Em decorrência de ordens judiciais e em razão do disposto na Instrução CVM nº 168/91, no Regulamento de Negociação da B3 e no Manual de
+em www.b3.com.br</a> / Produtos e Serviços/ Leilões / Bolsa de Valores.
+NOTAS DA B3
+•Será permitida a livre interferência de compradores e vendedores no leilão;
+•Caso a oferta de venda não seja atendida na sua totalidade durante a realização do leilão, a intermediadora registrará o saldo não atendido no call de
+fechamento, até que a oferta seja atendida em sua totalidade ou por até 5 pregões consecutivos – Data limite: 10/01/2023.
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 164
+
+PAGINA 65
+DATA: 29/12/2022
+Resumo das Posições
+Código do
+Ativo
+Quantidade Preço  
+Referência
+Preço  
+Mínimo
+Código
+PNP
+Número   do
+Processo
+Protocolo   do
+BACENJUD
+Vara   do Processo 5 pregões  
+consecutivos
+NUBR33 1 R$3,46 - 90 0701981302019
+8070020
+0 1 VARA DE FAMILIA E   DE ORFAOS E SUCESSOES DE
+AGUAS CLARAS
+Sim
+BDI
+LEILÃO DE VENDA DE AÇÕES POR DETERMINAÇÃO JUDICIAL A REALIZAR-SE NA B3 EM 03/01/2023
+DATA/HORA 03/01/2023, no Call de Fechamento INTERMEDIADORA NU INVEST CORRE (90)
+Em decorrência de ordens judiciais e em razão do disposto na Instrução CVM nº 168/91, no Regulamento de Negociação da B3 e no Manual de
+www.b3.com.br/Produtos</a> e Serviços/Leilões/Bolsa de Valores.
+NOTAS DA B3: Será permitida a livre interferência de compradores e vendedores no leilão,
+e caso a oferta de venda não seja atendida na sua totalidade durante a realização do leilão, a intermediadora registrará o saldo não atendido no call de
+fechamento, até que a oferta seja atendida em sua totalidade ou por até 5 pregões consecutivos – Data limite: 10/01/2023.
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 165
+
+PAGINA 66
+9
+LEILÃO DE VENDA DE AÇÕES      POR DETERMINAÇÃO JUDICIAL     A REALIZAR-SE NA B3    
+EM 04/01/2023 
+ 
+LEILÃO DE VENDA DE AÇÕES
+POR DETERMINAÇÃO JUDICIAL
+A REALIZAR-SE NA B3
+EM 04/01/2023
+DATA/HORA................. 04/01/2023, das 17h55 às 18h00.
+INTERMEDIADORA....... BTG PACTUAL CTVM S/A - 085
+Em decorrência de ordens judiciais e em razão do disposto no item 6.5.1.6 do Manual de Procedimentos Operacionais de Negociação da B3, será realizado
+leilão especial para a venda de ações dos ativos relacionados na tabela disponível em www.b3.com.br
+Valores.
+NOTAS DA B3
+·         Será permitida a livre interferência de compradores e vendedores no leilão; e
+·         Caso a oferta de venda não seja atendida na sua totalidade durante a realização do leilão, a intermediadora registrará o saldo não atendido no call
+de fechamento, até que a oferta seja atendida em sua totalidade ou por até 5 pregões consecutivos – Data limite: 11/01/2023.
+DATA: 02/01/2023
+BDI
+REFERENTE A SEGUNDA-FEIRA - 02 DE JANEIRO DE 2023 - Nº 166

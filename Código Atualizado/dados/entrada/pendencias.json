@@ -1,0 +1,22 @@
+[
+  {
+    "id": "COMPOSICOES_ISE",
+    "descricao": "ISE 2023–2025 cruzado com BDIs, anúncios e exclusões; regra usa última seleção definitiva anunciada. Classes e listas de 2016–2022 não certificadas integralmente. Ver LISTAS_ISE_E_PONDERACAO.md."
+  },
+  {
+    "id": "IBRX_OFICIAL",
+    "descricao": "Fornecer composições oficiais históricas para atender literalmente ao plano; AMPLO_PROXY é comparação complementar."
+  },
+  {
+    "id": "FUNDAMENTOS_PIT",
+    "descricao": "Snapshots históricos foram obtidos agora. Confirmar com o fornecedor datas de divulgação e revisões dos balanços; data_base não é prova de vintage."
+  },
+  {
+    "id": "EVENTOS_FINANCEIROS",
+    "descricao": "Tratamentos documentados no eventos.json. Demais saídas seguem aproximação ao terceiro pregão sem preço, com data, valor e peso em eventos_por_carteira.csv. Catálogo explicita evidência e pendência de cada ativo."
+  },
+  {
+    "id": "BASE_PRECOS",
+    "descricao": "Cache herdado combina fornecedores e preços ajustados, sem trilha original por célula. Classes Copel e eventos implementados tiveram escala nominal cruzada com COTAHIST; isso não certifica todos os demais aliases e ajustes."
+  }
+]

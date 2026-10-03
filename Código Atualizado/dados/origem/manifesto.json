@@ -1,0 +1,37 @@
+[
+  {
+    "Arquivo": "dados\\entrada\\precos.csv",
+    "sha256": "d73ff4ddc39f6f4a4937b716df54b754c6d1b6515243882e09fbb51c84e510b2",
+    "documentacao": "dados\\origem\\precos.csv.md"
+  },
+  {
+    "Arquivo": "dados\\entrada\\universos.csv",
+    "sha256": "6fc87a76001c56fc4c4e6201809a21f18afbe2f0548f2a56dd6f8d34eae84217",
+    "documentacao": "dados\\origem\\universos.csv.md"
+  },
+  {
+    "Arquivo": "dados\\entrada\\aliases.json",
+    "sha256": "1b846500df35f640a0fca4dfa45d90d4832dc76fb0629699c713d59ef9634381",
+    "documentacao": "dados\\origem\\aliases.json.md"
+  },
+  {
+    "Arquivo": "dados\\entrada\\eventos.json",
+    "sha256": "ac9c3d89ca41211678f1110242eda0b6db967601d37f5281202440d8572fb63c",
+    "documentacao": "dados\\origem\\eventos.json.md"
+  },
+  {
+    "Arquivo": "dados\\entrada\\base_ise_ibrx_selic.csv",
+    "sha256": "0ac4e5d4e3ba37347c205a68812ddb8c76ffba63ae294129cdf1407a34f73d82",
+    "documentacao": "dados\\origem\\base_ise_ibrx_selic.csv.md"
+  },
+  {
+    "Arquivo": "dados\\entrada\\nefin_fatores.csv",
+    "sha256": "619991c2192c958ae5f508ca4b9eae2d679d0a87b9c19ee4a21325b1981855f2",
+    "documentacao": "dados\\origem\\nefin_fatores.csv.md"
+  },
+  {
+    "Arquivo": "dados\\entrada\\pendencias.json",
+    "sha256": "6fcc7390c5b8bd58e51cd43982437a47631992423ccc4e838807b4f05831c34e",
+    "documentacao": "dados\\origem\\pendencias.json.md"
+  }
+]

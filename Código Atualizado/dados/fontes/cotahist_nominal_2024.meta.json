@@ -1,0 +1,8 @@
+{
+  "arquivo": "dados\\fontes\\cotahist_nominal_2024.csv",
+  "url": "https://bvmf.bmfbovespa.com.br/InstDados/SerHist/COTAHIST_A2024.ZIP",
+  "obtido_em": "2026-09-11T16:57:25.777937+00:00",
+  "sha256": "de014396d689fa2fa96c6df60caa1baa8f1e419b70da2be73193e461cc83eed8",
+  "sha256_zip_original": "96a003d10fab0fa2ace0c64cdc2b892b4c111adf9da8e538aa0b28437bd2a172",
+  "procedimento": "Registro 01, mercado 010; ticker posições 13–24; fechamento 109–121 /100; fator de cotação 211–217."
+}

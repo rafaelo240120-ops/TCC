@@ -1,0 +1,288 @@
+PAGINA 1
+ 
+ 
+  1 
+   
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+20 de julho de 2021 
+005/2021-VPC 
+O F Í C I O  C I R C U L A R  
+Participantes do Listado B3  
+Ref.: Alteração na Metodologia do Índice de Sustentabilidade Empresarial 
+(ISE B3) 
+Informamos que, a partir de 03/01/2022, entrará em vigor a nova metodologia 
+de elaboração da carteira teórica de ativos que compõe o ISE B3. 
+O ISE B3 tem por objetivo ser um indicador do desempenho médio dos ativos 
+emitidos por companhias que se destacaram pelo seu reconhecido 
+comprometimento com a sustentabilidade emp resarial. Essa alteração buscou 
+aprimorar os critérios de seleção e ponderação do índice, de forma a alinhar o 
+objetivo do ISE B3 à estratégia utilizada pelos investidores. 
+As principais alterações na metodologia do índice estão descritas a seguir. 
+a) Seleção dos ativos: passará a ser realizada pelo Score ISE B3, o qual reflete 
+o indicador de sustentabilidade atribuído pela B3 para as empresas, de 
+forma a torná-la mais objetiva. 
+b) Forma de ponderação: passará a utilizar o Score ISE B3, com limite tanto 
+de participação por empresa, quanto em relação à representatividade do 
+valor de mercado do free float. 
+PAGINA 2
+ 
+  2 
+ 
+ 
+ 
+005/2021-VPC 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+c) Monitoramento de incidentes: no caso de evento em que haja indícios de 
+situações em desacordo com o compromisso da empresa com práticas de 
+sustentabilidade empresarial. 
+A nova metodologia  encontra-se no Anexo deste Ofício Circular. As prévias 
+referentes à carteira de janeiro de 2022 do ISE B3 já serão apuradas com base na 
+nova metodologia. 
+Esclarecimentos adicionais poderão ser obtidos com a Superintendência de 
+Equities, pelo telefone (11) 2565-7249; ou com a Superintendência de Suporte à 
+Negociação, pelo telefone (11) 2565 -5022 ou pelo e -mail 
+negociacao@b3.com.br. 
+ 
+José Ribeiro de Andrade 
+Vice-Presidente de Produtos e Clientes 
+           Viviane El Banate Basso  
+Vice-Presidente de Operações - 
+Emissores, Depositária e Balcão 
+ 
+PAGINA 3
+ 
+  1/6 
+ 
+ 
+ 
+005/2021-VPC 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+Anexo do Ofício Circular 005/2021-VPC 
+METODOLOGIA DO ÍNDICE DE SUSTENTABILIDADE EMPRESARIAL (ISE B3) 
+O Índice de Sustentabilidade Empresarial (ISE B3) é o resultado de uma carteira 
+teórica de ativos, elaborada de acordo com os critérios estabelecidos nesta 
+metodologia. Mais detalhes encontram-se nas Diretrizes do ISE B3, disponível em 
+www.b3.com.br, Market Data e Índices, Índices de Sustentabilidade, Índice de 
+Sustentabilidade Empresarial (ISE B3). 
+Os índices da B3 utilizam procedimentos e regras constantes do Manual de 
+Definições e Procedimentos dos Índices da B3, disponível em www.b3.com.br, 
+Market Data e Índices, Índices de Sustentabilidade, Índice de Sustentab ilidade 
+Empresarial (ISE B3). 
+1 Objetivo 
+O objetivo do ISE B3 é ser o indicador do desempenho médio das cotações dos 
+ativos de empresas selecionadas pelo seu reconhecido comprometimento com a 
+sustentabilidade empresarial. 
+2 Tipo de Índice 
+O ISE B3 é um índice de retorno total (ver Manual de Definições e Procedimentos 
+dos Índices da B3). 
+PAGINA 4
+ 
+  2/6 
+ 
+ 
+ 
+005/2021-VPC 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+3 Ativos Elegíveis 
+O ISE B3 é composto de ações e units exclusivamente de companhias listadas na 
+B3 que atendem aos critérios de inclusão descritos a seguir. 
+Não estão incluídos nesse universo BDRs e ativos de companhias em recuperação 
+judicial ou extrajudicial, regime especial de administração temporária, 
+intervenção ou que sejam negociados em qualquer outra situação especial de 
+listagem (ver Manual de Definições e Procedimentos dos Índices da B3). 
+4 Critérios de Inclusão 
+Serão selecionados para compor o ISE B3 os ativos que, no início de cada 
+processo seletivo anual, atendam cumulativamente aos critérios abaixo. 
+4.1 Estar entre os ativos elegíveis que, no período de vigência das 3 ( três) 
+carteiras anteriores, em ordem decrescente de Índice de Negociabilidade 
+(IN), ocupem as 200 primeiras posições (ver Manual de Definições e 
+Procedimentos dos Índices da B3). 
+4.2 Ter presença em pregão de 50% (cinquenta por cento) no período de 
+vigência das 3 (três) carteiras anteriores. 
+4.3 Não ser classificado como “Penny Stock” (ver Manual de Definições e 
+Procedimentos dos Índices da B3). 
+Adicionalmente, seja um ativo emitido por uma empresa que, conforme avaliado 
+no processo seletivo anual, atenda c umulativamente aos critérios de 
+sustentabilidade descritos a seguir. 
+PAGINA 5
+ 
+  3/6 
+ 
+ 
+ 
+005/2021-VPC 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+4.4 Critérios de sustentabilidade 
+a) Score ISE B3 igual ou maior que a nota de corte geral aplicável a cada ciclo 
+anual de seleção (ver Apêndice e Diretrizes do ISE B3). 
+b) Pontuação por tema do questionário ISE B3 maior ou igual que 0,01 pontos 
+(ver Diretrizes do ISE B3).  
+c) Pontuação qualitativa mínima de 70 pontos percentuais (ver Diretrizes do 
+ISE B3). 
+d) Índice de risco reputacional (RepRisk Index – Peak RRI) igual ou menor que 
+50 pontos (ver Diretrizes do ISE B3). 
+e) Score CDP-Clima igual ou superior a “C” (ver Diretrizes do ISE B3). 
+f) Resposta positiva às perguntas do questionário classificadas como 
+requisitos mínimos para o setor (ver Diretrizes do ISE B3). 
+4.5 Uma vez que um ativo de uma empresa atenda aos critérios de inclusão 
+acima, somente a espécie de sua emissão de maior Índice  de Negociabilidade 
+(IN) participará da carteira do índice. 
+4.6 Atualizações dos valores referentes aos critérios indicados nas alíneas (d) 
+e (e) do item 4.4 (Score CDP-Clima e RepRisk Index – Peak RRI) serão consideradas 
+a cada rebalanceamento quadrimestr al, podendo resultar na inclusão de ativos 
+que passem a atendê-los.  
+PAGINA 6
+ 
+  4/6 
+ 
+ 
+ 
+005/2021-VPC 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+5 Critérios de Exclusão 
+Serão excluídos da carteira do ISE B3 os ativos que: 
+5.1 por ocasião dos rebalanceamentos quadrimestrais da carteira, quando 
+serão consideradas eventuais atualizações dos valores referentes às alíneas 
+(d) e (e) do item 4.4 (Score CDP-Clima e RepRisk Index- Peak RRI); 
+5.2 durante a vigência da carteira passem a ser listados em situação especial 
+(ver Manual de Definições e Procedimentos dos Índices da B3). Esses ativos 
+serão excluídos ao final de seu primeiro dia de negociação nesse 
+enquadramento; 
+5.3  durante a vigência da carteira se envolvam em incidentes que as tornem 
+incompatíveis com os objetivos do ISE B3, conforme critérios estabelecidos 
+na política de gestão de riscos do índice (ver Diretrizes do ISE B3). 
+Para monitoramento desses incidentes , a B3 utiliza os serviços da RepRisk –
+fornecedor internacional de coleta e análise massiva de informações públicas 
+disponíveis on-line sobre riscos ambientais, sociais e de governança corporativa.  
+Havendo apontamento de um incidente de risco envolvendo uma empresa da 
+carteira, a B3 examina o caso, avaliando o seu possível impacto na empresa 
+envolvida e as providências cabíveis, conforme estabelecido na política de gestão 
+de riscos do ISE B3.  
+Essas providências podem chegar à exclusão da empresa da carteira do índice. A 
+empresa que for excluída por esse motivo não poderá integrar a carteira do índice 
+pelos 2 (dois) anos seguintes, contados a partir do primeiro rebalanceamento 
+PAGINA 7
+ 
+  5/6 
+ 
+ 
+ 
+005/2021-VPC 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+após sua exclusão. A critério da B3, e mediante pedido da empresa respaldado 
+por evidências de melhoria na gestão de seus riscos, e sse período poderá ser 
+reduzido. Para mais informações sobre a RepRisk, acesse www.reprisk.com.  
+6 Critério de Ponderação 
+Na carteira do ISE B3, os ativos são ponderados pelo Score ISE B3, com limite de 
+participação bas eado no valor de mercado do “free float” (ativos que se 
+encontram em circulação) da espécie pertencente à carteira (ver Manual de 
+Definições e Procedimentos dos Índices da B3). 
+A representatividade de um ativo no índice, quando dos rebalanceamentos 
+periódicos, não poderá ser superior a 3 (três) vezes a participação que o ativo 
+teria caso a carteira fosse ponderada pela representatividade do valor de 
+mercado de “free float” do ativo. 
+A participação de uma empresa no ISE B3 não poderá ser superior a 10% (dez por 
+cento), quando de sua inclusão ou nos rebalanceamentos periódicos. Caso isso 
+ocorra, serão efetuados ajustes para adequar o peso dos ativos das companhias 
+a esse limite, redistribuindo-se o excedente proporcionalmente aos demais ativos 
+da carteira.  
+PAGINA 8
+ 
+  6/6 
+ 
+ 
+ 
+005/2021-VPC 
+Este Ofício Circular produz efeitos a partir da data de sua publicação, respeitados os prazos específicos 
+de vigência, se houver.  
+O teor deste documento confere com o original assinado, disponível na B3.  
+Praça Antonio Prado, 48 – 01010-901 – São Paulo, SP  
+Tel.: (11) 2565-4000 – Fax: (11) 2565-7737 
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+APÊNDICE 
+NOTA DE CORTE  
+(ver também Diretrizes do ISE B3) 
+A nota de corte utilizada na seleção dos ativos, será calculada conforme a 
+seguinte expressão: 
+NotaDeCorte= max
+[
+ 
+ 
+ 
+ 
+ 
+(
+∑ ScoreISEB3i
+k
+i=1
+k ) − σ0 ;
+∑ ((∑ ScoreISEB3i
+k
+i=1
+k ) − σt )t
+i=1
+t
+]
+ 
+ 
+ 
+ 
+ 
+ 
+Onde: 
+𝐒𝐜𝐨𝐫𝐞𝐈𝐒𝐄𝐁𝟑𝐢= ScoreISEB3 da empresa; 
+𝐤 = número de empresas respondentes do ciclo; 
+𝛔𝟎 =desvio-padrão do ScoreISEB3 das empresas respondentes no ciclo em curso; 
+𝛔𝐭 = desvio -padrão do ScoreISEB3 das empresas respondentes nos ciclos 
+anteriores; 
+𝐭 = número de ciclos anteriores (três) em relação ao ciclo em curso. 
+ 

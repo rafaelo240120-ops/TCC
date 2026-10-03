@@ -1,0 +1,14 @@
+{
+  "consulta": "2026-10-02",
+  "indices_b3_estatisticas_historicas.csv": {
+    "fonte": "B3, estatísticas históricas dos índices (evolução diária)",
+    "pagina": "https://www.b3.com.br/pt_br/market-data-e-indices/indices/",
+    "endereco_dos_dados": "https://sistemaswebb3-listados.b3.com.br/indexStatisticsProxy/IndexCall/GetPortfolioDay/ (índices IBXX e ISEE, anos de 2015 a 2025)",
+    "linhas": 2729
+  },
+  "selic_bcb_sgs1178.csv": {
+    "fonte": "Banco Central do Brasil, Sistema Gerenciador de Séries Temporais, série 1178 (taxa de juros Selic anualizada, base 252)",
+    "endereco_dos_dados": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1178/dados",
+    "linhas": 2760
+  }
+}

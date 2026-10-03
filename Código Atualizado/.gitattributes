@@ -1,0 +1,4 @@
+# Guardar e baixar todos os arquivos desta pasta exatamente como foram gerados, sem
+# converter quebras de linha, para que os códigos de verificação (SHA-256) dos dados e dos
+# resultados continuem válidos em qualquer sistema.
+* -text

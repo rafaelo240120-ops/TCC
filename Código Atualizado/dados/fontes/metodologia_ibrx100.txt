@@ -1,0 +1,98 @@
+
+PAGINA 1
+ 
+ 
+INFORMAÇÃO INTERNA – INTERNAL INFORMATION 
+ 
+METODOLOGIA DO ÍNDICE BRASIL 
+100 (IBRX 100) 
+ 
+Agosto/2020 INFORMAÇÃO PÚBLICA 
+
+PAGINA 2
+ 
+ 
+METODOLOGIA DO ÍNDICE BRASIL 100 (IBrX 100) 
+2 INFORMAÇÃO PÚBLICA 
+SUMÁRIO 
+1 OBJETIVO ...................................................................................................... 3 
+2 TIPO DE ÍNDICE ............................................................................................. 3 
+3 ATIVOS ELEGÍVEIS ....................................................................................... 3 
+4 CRITÉRIOS DE INCLUSÃO ........................................................................... 3 
+5 CRITÉRIOS DE EXCLUSÃO .......................................................................... 4 
+6 CRITÉRIO DE PONDERAÇÃO ...................................................................... 5 
+ 
+ 
+  
+
+PAGINA 3
+ 
+ 
+METODOLOGIA DO ÍNDICE BRASIL 100 (IBrX 100) 
+3 INFORMAÇÃO PÚBLICA 
+O IBrX 100 é o resultado de uma carteira teórica de ativos, elaborada de acordo 
+com os critérios estabelecidos nesta metodologia. 
+Os índices da B3 utilizam procedimentos e regras consta ntes do Manual de 
+Definições e Procedimentos dos Índices da B3  (Conceitos e Procedimentos), 
+disponível em www.b3.com.br, Market Data e Índices, Índices Amplos, Índice 
+Brasil 100 (IBrX 100). 
+1 Objetivo 
+O objetivo do IBrX 100 é ser o indicador do desempenho médio das cotações 
+dos 100 ativos de maior negociabilidade e representatividade do mercado de 
+ações brasileiro. 
+2 Tipo de Índice 
+O IBrX 100 é um índice de retorno total (ver Manual de Definições e 
+Procedimentos dos Índices da B3). 
+3 Ativos Elegíveis 
+O IBrX 100 é composto das ações e units exclusivamente de ações de 
+companhias listadas na B3 que atendem aos critérios de inclusão descritos a 
+seguir. 
+Não estão incluídos nesse universo BDRs e ativos de companhias em 
+recuperação judicial ou extrajudicial, regime especial de administração 
+temporária, intervenção ou que sejam negociados em qualquer outra situação 
+especial de listagem (ver Manual de Definições e Procedimentos dos Índices da 
+B3). 
+4 Critérios de Inclusão 
+Serão selecionados para compor o IBrX 100 os ativos que atendam 
+cumulativamente aos critérios abaixo. 
+
+PAGINA 4
+ 
+ 
+METODOLOGIA DO ÍNDICE BRASIL 100 (IBrX 100) 
+4 INFORMAÇÃO PÚBLICA 
+4.1 Estar entre os ativos elegíveis que, no período de vigência das 3 (três) 
+carteiras anteriores, em ordem decrescente de Índice de Negociabilidade (IN), 
+ocupem as 100 primeiras posições (ver Manual de Definições e Procedimentos 
+dos Índices da B3). 
+4.2 Ter presença em pregão de 95% (noventa e cinco por cento) no período 
+de vigência das 3 (três) carteiras anteriores. 
+4.3 Não ser classificado como “Penny Stock” (v er Manual de Definições e 
+Procedimentos dos Índices da B3). 
+Um ativo que seja objeto de Oferta Pública realizada durante o período de 
+vigência das 3 (três) carteiras anteriores ao rebalanceamento será elegível, 
+mesmo sem estar listado todo o período, desde que: 
+a) a Oferta Pública de distribuição de ações ou units, conforme o caso, tenha 
+sido realizada antes do rebalanceamento imediatamente anterior; 
+b) possua 95% (noventa e cinco por cento) de presença desde seu início de 
+negociação; 
+c) atenda cumulativamente aos critérios 4.1 e 4.3. 
+5 Critérios de Exclusão 
+Serão excluídos da carteira os ativos que: 
+5.1 deixarem de atender a qualquer um dos critérios de inclusão acima 
+indicados; 
+5.2 durante a vigência da carteira passem a ser listados em situação especial 
+(ver Manual de Definições e Procedimentos dos Índices da B3). Serão excluídos 
+ao final de seu primeiro dia de negociação nesse enquadramento. 
+ 
+ 
+
+PAGINA 5
+ 
+ 
+METODOLOGIA DO ÍNDICE BRASIL 100 (IBrX 100) 
+5 INFORMAÇÃO PÚBLICA 
+6 Critério de Ponderação 
+No IBrX 100, os ativos são ponderados pelo valor de mercado do “free float” 
+(ativos que se encontram em circulação) da espécie pertencente à carteira (ver 
+Manual de Definições e Procedimentos dos Índices da B3). 

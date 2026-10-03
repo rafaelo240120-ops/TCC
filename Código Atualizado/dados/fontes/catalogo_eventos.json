@@ -1,0 +1,107 @@
+{
+  "BIDI11": {
+    "Tipo_documentado": "BDRs, com alternativa de caixa sujeita a condições",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/b4dc0b14-a83a-40a9-9545-d9e4f18ed7af/02d3afdb-1e23-1652-426d-ba2c410a431a?origin=1",
+    "Pendencia": "Não reconstruídos a eleição/rateio e a continuidade financeira da série do BDR."
+  },
+  "BRML3": {
+    "Tipo_documentado": "Incorporação na Aliansce Sonae",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/330c258b-6212-45ce-8c13-557ea46cc23a/4c6ca5bb-c2e0-9203-e65b-f3592b996000",
+    "Pendencia": "Consumação em 06/01/2023 confirmada; relação final, parcela em dinheiro e escala da série recebida ainda não cruzadas."
+  },
+  "CESP6": {
+    "Tipo_documentado": "Incorporação na Auren",
+    "Fonte_consultada": "https://vipfiles.valor.com.br/BDEmpresas/622677.pdf",
+    "Pendencia": "Relatório da companhia confirma fim da negociação em 25/03/2022 e AURE3 desde 28/03. Aviso final e escala financeira não reconstruídos."
+  },
+  "CIEL3": {
+    "Tipo_documentado": "OPA e conversão de registro",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/09/D5/1E/78/68BE09105FE89209AC094EA8/OC%20011-2024-VNC%20Tratamento%20posi%C3%A7%C3%B5es%20e%20carteiras%20de%20%C3%ADndices%20em%20caso%20de%20convers%C3%A3o%20de%20registro%20de%20cia%20aberta%20e%20sa%C3%ADda%20do%20NM%20da%20Cielo%20_PT.pdf",
+    "Pendencia": "Ofício B3 confirma a operação, mas não determina sozinho a data e o valor efetivamente recebidos por acionista que não aderiu ao leilão."
+  },
+  "CRFB3": {
+    "Tipo_documentado": "Incorporação pela Brachiosaurus",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/03/E7/AF/B0/2FBC69106B8BCB69AC094EA8/OC%20005-2025-VNC%20TRATAMENTO%20DAS%20CARTEIRAS%20DE%20%C3%8DNDICES%20DA%20B3_PT.pdf",
+    "Pendencia": "Exclusão do índice em 30/05/2025 confirmada. O ofício trata do índice; não basta para selecionar contrapartida individual e data de pagamento."
+  },
+  "ENBR3": {
+    "Tipo_documentado": "Dinheiro por resgate compulsório",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/fdc31e8d-cd08-47c5-8b5c-3f120d561d2b/9de25d16-fb40-e1d9-f983-f71eaf5935ab?origin=1",
+    "Pendencia": "FR de 30/08/2023: R$23,73 corrigidos pela Selic desde 14/07 até pagamento, previsto em até 15 dias. Não confirmado o pagamento final; a liquidação do código em 24/08 é uma aproximação anterior ao resgate aprovado."
+  },
+  "GNDI3": {
+    "Tipo_documentado": "Combinação com Hapvida",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/0c822d83-2c10-4c55-be63-e1a7bb804bee/a5993266-a397-157a-3f83-92c8cebd450a?origin=1",
+    "Pendencia": "Demonstrações financeiras confirmam a combinação; ainda falta separar dividendos já ajustados no preço, parcela-caixa e relação na base sintética."
+  },
+  "HGTX3": {
+    "Tipo_documentado": "Ações SOMA3 e dinheiro",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/71/45/70/6E/00BCB710D30FE9B7AC094EA8/OC%20107-2021%20PRE%20%20Tratamento%20das%20Posi%C3%A7%C3%B5es%2C%20Garantias%20e%20Carteiras%20de%20%C3%8Dndices%20%20Combina%C3%A7%C3%A3o%20de%20Neg%C3%B3cios%20da%20Cia.%20Hering%20e%20do%20Grupo%20de%20Moda%20SOMA%20%28PT%29.pdf",
+    "Pendencia": "B3 indica 1,625107 SOMA3 e R$9,630957 por HGTX3, desde 20/09/2021. Não cruzados atualização final do dinheiro, pagamento e fatores nominais/ajustados."
+  },
+  "LAME4": {
+    "Tipo_documentado": "Ações AMER3",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/7A/80/06/B5/DF87E7108BD66BD7AC094EA8/OC%20010-2022%20PRE%20Tratamento%20de%20Posi%C3%A7%C3%B5es%20Garantias%20e%20Carteiras%20de%20%C3%8Dndices%20-%20Americanas%20S.A%20e%20Lojas%20Americanas%20%28PT%29.pdf",
+    "Pendencia": "Não foi cruzado o conjunto incorporação/distribuição anterior com a base de preços, para evitar duplicar proventos ou aplicar fator de cesta à ação."
+  },
+  "LCAM3": {
+    "Tipo_documentado": "Ações RENT3",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/08f327aa-e610-4d9d-b683-8ff0f7caae07/aaa0b329-8b3b-27f9-e0cf-fe66c7e401e7?origin=1",
+    "Pendencia": "Cronograma de fechamento consultado; relação final após proventos e escala de cotação precisam ser cruzadas antes de aplicar."
+  },
+  "LINX3": {
+    "Tipo_documentado": "BDRs StoneCo e dinheiro",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/0f096bac-7f76-4ace-96d0-af7eab4e55a5/6c30fffd-9d7b-4305-7181-5cb6cb7eece9?origin=1",
+    "Pendencia": "Aviso altera datas da operação. Parcela-caixa final corrigida, efetivo pagamento e continuidade do BDR ainda não reconstruídos."
+  },
+  "SOMA3": {
+    "Tipo_documentado": "Incorporação na Arezzo",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/dd835c95-0412-4284-82db-dae5784acebc/7cbde696-a64e-70c6-c2b4-d0b761a6c75a?origin=1",
+    "Pendencia": "Boletim assemblear confirma objeto da proposta; não substitui fato relevante de consumação. Relação final e escala AZZA3 permanecem pendentes."
+  },
+  "SRNA3": {
+    "Tipo_documentado": "OPA para conversão de registro",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/9A/07/26/6E/BD53A910F51990A9AC094EA8/OC%20044-2025-VNC%20TRATAMENTO%20DAS%20CARTEIRAS%20DE%20INDICES%20DA%20B3%20EM%20VIRTUDE%20A%20OPA%20DA%20SERENA%20ENERGIA%20SA_PT.pdf",
+    "Pendencia": "Ofício estabelece cenários da oferta de 04/11/2025; preço de resgate efetivo e fluxo para não aderentes não confirmados."
+  },
+  "STBP3": {
+    "Tipo_documentado": "OPA para conversão de registro",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/84/D3/5B/AD/6A6199100A29E189AC094EA8/OC%20034-2025-VNC%20TRATAMENTO%20DAS%20CARTEIRAS%20DE%20INDICES%20DA%20B3%20EM%20VIRTUDE%20A%20OPA%20DA%20SANTOS%20BRASIL%20PARTICIPA%C3%87%C3%95ES%20SA_PT.pdf",
+    "Pendencia": "Ofício confirma oferta e tratamento condicional do índice. Não determina sozinho o fluxo individual para quem não aderiu; pagamento/resgate posterior não reconstruído."
+  },
+  "VIVT4": {
+    "Tipo_documentado": "Conversão em VIVT3, uma por uma",
+    "Fonte_consultada": "https://ri.telefonica.com.br/servicos/faq-e-acoes-do-plano-de-expansao/",
+    "Pendencia": "FAQ da emissora confirma data 23/11/2020 e relação 1:1. Falta cruzar preços nominais/ajustados das duas classes; não aplicar 1:1 diretamente às cotas sintéticas."
+  },
+  "SULA11": {
+    "Tipo_documentado": "Tratamento financeiro implementado",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/e8c6cbd2-1c84-422b-ae5f-a166e084bf7e/9e4459e0-c763-54bb-bff6-c6596fed425b",
+    "Pendencia": "Relação final por unit; frações mantidas continuamente, sem leilão de frações."
+  },
+  "AESB3": {
+    "Tipo_documentado": "Tratamento financeiro implementado",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/1B/13/38/49/5DEB29106EEC8429AC094EA8/OC%20143-2024%20PRE%20Tratamento%20de%20Posicoes%20e%20Indices%20-%20combinacao%20de%20negocios%20AES%20Brasil%20Energia%20e%20Auren%20Energia%20(PT).pdf",
+    "Pendencia": "Opção 1, padrão para acionista sem manifestação; não se escolhe a alternativa mais rentável a posteriori."
+  },
+  "BRFS3": {
+    "Tipo_documentado": "Tratamento financeiro implementado",
+    "Fonte_consultada": "https://www.b3.com.br/data/files/56/E6/BD/DC/304599100A29E189AC094EA8/OC%20035-2025-VNC%20TRATAMENTO%20DAS%20CARTEIRAS%20DE%20%C3%8DNDICES%20DA%20B3%20E%20DAS%20OPCOES%20FLEXIVEIS%20DE%20BALCAO_PT.pdf",
+    "Pendencia": "Relação divulgada pela B3; dividendos anteriores já incorporados aos preços ajustados."
+  },
+  "CPLE6": {
+    "Tipo_documentado": "Tratamento financeiro implementado",
+    "Fonte_consultada": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?CodigoInstituicao=1&Tela=ext&descTipo=IPE&numProtocolo=1439632",
+    "Pendencia": "Unificação PNB/PNA; reconhecimento econômico no primeiro pregão ex; crédito em 12/11."
+  },
+  "CPLE5": {
+    "Tipo_documentado": "Tratamento financeiro implementado",
+    "Fonte_consultada": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?CodigoInstituicao=1&Tela=ext&descTipo=IPE&numProtocolo=1446410",
+    "Pendencia": "Conversão ON mais resgate PNC; primeiro pregão ex em 22/12, crédito ON em 26/12. Valores brutos, sem imposto individual."
+  },
+  "RRRP3": {
+    "Tipo_documentado": "Tratamento financeiro implementado",
+    "Fonte_consultada": "https://api.mziq.com/mzfilemanager/v2/d/55b913af-cd4c-48d5-bc19-48c63916b8a5/ab9427fb-e1cc-b096-4fb5-a1f47e69faaf?origin=1",
+    "Pendencia": "Mudança de código da mesma ação; preserva posição e escala de preço. Não é liquidação."
+  }
+}

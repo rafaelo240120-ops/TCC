@@ -1,0 +1,6 @@
+{
+  "arquivo": "dados\\cache\\precos_CPLE5_api.json",
+  "url": "https://laboratoriodefinancas.com/api/v2/preco/corrigido?ticker=CPLE5&data_ini=2025-10-01&data_fim=2025-12-31",
+  "obtido_em": "2026-09-11T16:56:46.366332+00:00",
+  "sha256": "8bf0a01093bb6c5d5a86801dd9980cf1414faa9461223225c1950a34b3c6a53b"
+}

@@ -1,0 +1,48 @@
+Universo,Ano,Ticker,Motivo
+AMPLO_PROXY,2016,EGIE3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2016,ELET6,sem série de preços
+AMPLO_PROXY,2016,GOLL4,sem série de preços
+AMPLO_PROXY,2016,JBSS3,sem série de preços
+AMPLO_PROXY,2016,ODPV3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2016,PCAR3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2017,GOLL4,sem série de preços
+AMPLO_PROXY,2017,JBSS3,sem série de preços
+AMPLO_PROXY,2017,ODPV3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2017,PCAR3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2017,WIZC3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2018,GOLL4,sem série de preços
+AMPLO_PROXY,2018,JBSS3,sem série de preços
+AMPLO_PROXY,2018,ODPV3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2018,PCAR3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2018,SMLS3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2019,GOLL4,sem série de preços
+AMPLO_PROXY,2019,JBSS3,sem série de preços
+AMPLO_PROXY,2019,ODPV3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2019,PCAR3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2020,ALOS3,menos de 150 preços no período de observação
+AMPLO_PROXY,2020,GOLL4,sem série de preços
+AMPLO_PROXY,2020,JBSS3,sem série de preços
+AMPLO_PROXY,2020,ODPV3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2020,PCAR3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2021,GOLL4,sem série de preços
+AMPLO_PROXY,2021,JBSS3,sem série de preços
+AMPLO_PROXY,2022,GOLL4,sem série de preços
+AMPLO_PROXY,2022,JBSS3,sem série de preços
+AMPLO_PROXY,2022,PETZ3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2023,GOLL4,sem série de preços
+AMPLO_PROXY,2023,JBSS3,sem série de preços
+AMPLO_PROXY,2023,PETZ3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2024,GOLL4,sem série de preços
+AMPLO_PROXY,2024,JBSS3,sem série de preços
+AMPLO_PROXY,2024,PETZ3,sem fundamento da identidade solicitada
+AMPLO_PROXY,2025,JBSS3,sem série de preços
+AMPLO_PROXY,2025,PETZ3,sem fundamento da identidade solicitada
+ISE,2016,EGIE3,sem fundamento da identidade solicitada
+ISE,2016,ELPL3,sem fundamento da identidade solicitada
+ISE,2016,FIBR3,sem fundamento da identidade solicitada
+ISE,2016,TIET11,sem fundamento da identidade solicitada
+ISE,2017,ELPL3,sem fundamento da identidade solicitada
+ISE,2017,FIBR3,sem fundamento da identidade solicitada
+ISE,2018,ELPL3,sem fundamento da identidade solicitada
+ISE,2018,FIBR3,sem fundamento da identidade solicitada
+ISE,2019,ELPL3,sem fundamento da identidade solicitada

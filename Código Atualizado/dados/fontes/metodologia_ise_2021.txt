@@ -1,0 +1,204 @@
+
+PAGINA 1
+ 
+ 
+INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+ 
+METODOLOGIA DO ÍNDICE DE 
+SUSTENTABILIDADE EMPRESARIAL 
+(ISE B3) 
+ 
+Julho/2021 INFORMAÇÃO PÚBLICA 
+
+PAGINA 2
+ 
+ 
+METODOLOGIA DO ÍNDICE DE SUSTENTABILIDADE 
+EMPRESARIAL (ISE B3) 
+2 INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+SUMÁRIO 
+1 OBJETIVO .................................................................................................... 3 
+2 TIPO DE ÍNDICE .......................................................................................... 3 
+3 ATIVOS ELEGÍVEIS ..................................................................................... 3 
+4 CRITÉRIOS DE INCLUSÃO ......................................................................... 4 
+5 CRITÉRIOS DE EXCLUSÃO ........................................................................ 5 
+6 CRITÉRIO DE PONDERAÇÃO .................................................................... 6 
+APÊNDICE ......................................................................................................... 7 
+ 
+ 
+  
+
+PAGINA 3
+ 
+ 
+METODOLOGIA DO ÍNDICE DE SUSTENTABILIDADE 
+EMPRESARIAL (ISE B3) 
+3 INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+O Índice de Sustentabilidade Empresarial (ISE B3) é o resultado de uma carteira 
+teórica de ativos, elaborada de acordo com os critérios estabelecidos nesta 
+metodologia. Mais detalhes encontram -se nas Diretrizes do ISE B3, disponível 
+em www.b3.com.br, Market Data e Índices, Índices de Sustentabilidade, Índice 
+de Sustentabilidade Empresarial (ISE B3). 
+Os índices da B3 utilizam procedimentos e regras constantes do Manual de 
+Definições e Procedimentos dos Índices da B3, disponível em www.b3.com.br, 
+Market Data e Índices, Índices de Sustentabilidade, Índice de Sustentabilidade 
+Empresarial (ISE B3). 
+1 OBJETIVO 
+O objetivo do ISE B3 é ser o indicador do desempenho médio das cotações dos 
+ativos de empresas selecionadas pelo seu reconhecido comprometimento com 
+a sustentabilidade empresarial. 
+2 TIPO DE ÍNDICE 
+O ISE B3 é um índice de retorno total (ver Manual de Definições e Procedimentos 
+dos Índices da B3). 
+3 ATIVOS ELEGÍVEIS 
+O ISE B3 é composto das ações e units exclusivamente de companhias listadas 
+na B3 que atendem aos critérios de inclusão descritos a seguir. 
+Não estão incluídos nesse universo BDRs e ativos de companhias em 
+recuperação judicial ou extrajudicial, regime especial de adminis tração 
+temporária, intervenção ou que sejam negociados em qualquer outra situação 
+especial de listagem (ver Manual de Definições e Procedimentos dos Índices da 
+B3). 
+
+PAGINA 4
+ 
+ 
+METODOLOGIA DO ÍNDICE DE SUSTENTABILIDADE 
+EMPRESARIAL (ISE B3) 
+4 INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+4 CRITÉRIOS DE INCLUSÃO 
+Serão selecionados para compor o ISE B3 os ativos que, no início de cada 
+processo seletivo   anual, atendam cumulativamente aos critérios abaixo. 
+4.1 Estar entre os ativos elegíveis que, no período de vigência das 3 (três) 
+carteiras anteriores, em ordem decrescente de Índice de Negociabilidade (IN), 
+ocupem as 200 primeiras posições (ver Manual de Definições e P rocedimentos 
+dos Índices da B3). 
+4.2 Ter presença em pregão de 50% (cinquenta por cento) no período de 
+vigência das 3 (três) carteiras anteriores. 
+4.3 Não ser classificado como “Penny Stock” (ver Manual de Definições e 
+Procedimentos dos Índices da B3). 
+Adicionalmente, seja um ativo emitido por uma empresa que, conforme avaliado 
+no processo seletivo anual, atenda cumulativamente aos critérios de 
+sustentabilidade descritos a seguir. 
+4.4 Critérios de sustentabilidade 
+ a) Score ISE B3 igual ou maior que a nota de corte geral aplicável a cada 
+ciclo anual de seleção (ver Apêndice, e, também, Diretrizes do ISE B3). 
+b) Pontuação por tema do questionário ISE B3 maior ou igual que 0,01 
+pontos (ver Diretrizes do ISE B3).   
+c) Pontuação qualitativa mínima de 70 pontos percentuais (ver Diretrizes 
+do ISE B3).   
+d) Índice de risco reputacional (RepRisk Index – Peak RRI) igual ou menor 
+que 50 pontos (ver Diretrizes do ISE B3). 
+e) Score CDP-Clima igual ou superior a “C” (ver Diretrizes do ISE B3). 
+
+PAGINA 5
+ 
+ 
+METODOLOGIA DO ÍNDICE DE SUSTENTABILIDADE 
+EMPRESARIAL (ISE B3) 
+5 INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+f) Resposta positiva às perguntas do questionário classificadas como 
+requisitos mínimos para o setor (ver Diretrizes do ISE B3). 
+4.5 Uma vez que um ativo de uma empresa atenda aos critérios de inclusão 
+acima, somente a espécie   de sua emissão de maior Índice de Negociabilidade 
+(IN) participará da carteira do índice. 
+4.6 Atualizações dos valores referentes aos critérios indicados nas alíneas (d) 
+e (e) do item 4.4 (Score CDP -Clima e RepRisk Index – Peak RRI ) serão 
+consideradas a cada rebalanceamento quadrimestral, podendo resultar na 
+inclusão de ativos que passem a atendê-los.  
+5 CRITÉRIOS DE EXCLUSÃO 
+Serão excluídos da carteira do ISE B3 os ativos que: 
+5.1 por ocasião dos rebalanceamentos quadrimestrais da carteira, quando 
+serão consideradas eventuais atualizações dos valores referentes às alíneas (d) 
+e (e) do item 4.4 (Score CDP-Clima e RepRisk Index- Peak RRI); 
+5.2 durante a vigência da carteira passem a ser listados em situação especial 
+(ver Manual de Definições e Procedimentos dos Índices da B3). Esses ativos 
+serão excluídos ao final de seu primeiro dia de negociação nesse 
+enquadramento; 
+5.3  durante a vigência da carteira se envolvam em incidentes que as tornem 
+incompatíveis com os objetivos do ISE B3, conforme critérios estabelecidos na 
+política de gestão de riscos do índice (ver Diretrizes do ISE B3). 
+Para monitoramento desses incidentes, a B3 utiliza os serviços da RepRisk –
+fornecedor internacional de coleta e a nálise massiva de informações públicas 
+disponíveis on-line sobre riscos ambientais, sociais e de governança corporativa.  
+Havendo apontamento de um incidente de risco envolvendo uma empresa da 
+carteira, a B3 examina o caso, avaliando o seu possível impacto  na empresa 
+
+PAGINA 6
+ 
+ 
+METODOLOGIA DO ÍNDICE DE SUSTENTABILIDADE 
+EMPRESARIAL (ISE B3) 
+6 INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+envolvida e as providências cabíveis, conforme estabelecido na política de 
+gestão de riscos do ISE B3.  
+Essas providências podem chegar à exclusão da empresa da carteira do índice. 
+A empresa que for excluída por esse motivo não poderá integrar a carteira do 
+índice pelos 2 (dois) anos seguintes, contados a partir do primeiro 
+rebalanceamento após sua exclusão. A critério da B3, e mediante pedido da 
+empresa respaldado por evidências de melhoria na gestão de seus riscos, esse 
+período poderá ser redu zido. Para mais informações sobre a RepRisk, acesse 
+www.reprisk.com.   
+6 CRITÉRIO DE PONDERAÇÃO 
+Na carteira do ISE B3, os ativos são ponderados pelo Score ISE B3, com limite 
+de participação  baseado no valor de mercado do “free float” (ativos que se 
+encontram em circulação) da espécie pertencente à carteira (ver Manual de 
+Definições e Procedimentos dos Índices da B3). 
+A representatividade de um ativo no índice, quando dos rebalanceamentos 
+periódicos, não poderá ser superior a 3 (três) vezes a participação que o ativo 
+teria caso a carteira fosse ponderada pela representatividade do valor de 
+mercado de “free float” do ativo. 
+A participação de uma empresa no ISE B3 não poderá ser superior a 10% ( dez 
+por cento), quando de sua inclusão ou nos rebalanceamentos periódicos. Caso 
+isso ocorra, serão efetuados ajustes para adequar o peso dos ativos das 
+companhias a esse limite, redistribuindo-se o excedente proporcionalmente aos 
+demais ativos da carteira. 
+ 
+  
+
+PAGINA 7
+ 
+ 
+METODOLOGIA DO ÍNDICE DE SUSTENTABILIDADE 
+EMPRESARIAL (ISE B3) 
+7 INFORMAÇÃO PÚBLICA – PUBLIC INFORMATION 
+APÊNDICE 
+Nota de Corte  
+(ver também Diretrizes do ISE B3) 
+A nota de corte utilizad a na seleção dos ativos, será calculada conforme a 
+seguinte expressão: 
+NotaDeCorte= max
+[
+ 
+ 
+ 
+ 
+ 
+(
+∑ ScoreISEB3i
+k
+i=1
+k ) − σ0 ;
+∑ ((∑ ScoreISEB3i
+k
+i=1
+k ) − σt )t
+i=1
+t
+]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Onde: 
+𝑺𝒄𝒐𝒓𝒆𝑰𝑺𝑬𝑩𝟑𝒊= ScoreISEB3 da empresa; 
+𝒌 = número de empresas respondentes do ciclo; 
+𝝈𝟎 =desvio-padrão do ScoreISEB3 das empresas respondentes no ciclo  em 
+curso; 
+𝝈𝒕 = desvio -padrão do ScoreISEB3 das empresas respondentes nos ciclos 
+anteriores; 
+𝒕= número de ciclos anteriores (três) em relação ao ciclo em curso. 
+ 
+ 
