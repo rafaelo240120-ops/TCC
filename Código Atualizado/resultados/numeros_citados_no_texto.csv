@@ -1,0 +1,44 @@
+﻿Secao;Descricao;Valor
+3.2;Primeiro e último pregão do período;04/01/2016 a 30/12/2025
+3.2;Número de pregões;2.483
+3.2;Exclusões pelas três condições de entrada (casos);9
+3.2;Ações diferentes excluídas;4
+3.4;Ações da carteira ISE B3 em pesos iguais (mínimo e máximo);27 e 76
+3.4;Ações da União (mínimo e máximo);23 e 38
+4.2 e 6;R$ 100 aplicados em 2016 viraram (R$): Multifator;525
+4.2 e 6;R$ 100 aplicados em 2016 viraram (R$): IBrX-100;386
+4.2 e 6;R$ 100 aplicados em 2016 viraram (R$): Índice ISE B3;203
+4.3;Anos em que a Multifator rendeu menos que o IBrX-100;2016 e 2017
+4.3;Anos em que o índice ISE B3 rendeu mais que o IBrX-100;2025
+4.6;Anos em que a carteira ISE B3 em pesos iguais rendeu mais que o índice ISE B3;8
+4.6;Diferença média por ano, pesos iguais menos índice, 2016 a 2021 (p.p.);10,8
+4.6;Diferença média por ano, pesos iguais menos índice, 2022 a 2025 (p.p.);3,3
+5.2;Diferença em 2016 (p.p.);26,9
+5.2;Diferença média de 2017 a 2021 (p.p.);7,5
+4.4;Crise de 2020, pico do IBrX-100;23 de janeiro
+4.4;Crise de 2020, valor no pico (R$): IBrX-100;286,66
+4.4;Crise de 2020, valor no pico (R$): Multifator;234,75
+4.4;Crise de 2020, fundo do IBrX-100;23 de março
+4.4;Crise de 2020, valor no fundo (R$): IBrX-100;152,70
+4.4;Crise de 2020, valor no fundo (R$): Multifator;141,53
+5.3;Anos em que o IBrX-100 fechou no negativo;2021 e 2024
+5.3 e 6;Únicas séries à frente do IBrX-100 nos três ciclos (entre todas as carteiras e o índice ISE B3);Multifator
+5.4;Anos em que o momentum rendeu mais que o IBrX-100, 2016 a 2021;5
+5.4;Anos em que o momentum rendeu mais que o IBrX-100, 2022 a 2025;0
+5.4;Volatilidade média, no ano de formação, das ações escolhidas: Multifator;30,3%
+5.4;Volatilidade média, no ano de formação, das ações escolhidas: União;39,0%
+5.4;Parte da carteira trocada por remontagem: Multifator;41,1%
+5.4;Custo pago por ano, em % do patrimônio: Multifator;0,16%
+5.4;Parte da carteira trocada por remontagem: Momentum;78,8%
+5.4;Custo pago por ano, em % do patrimônio: Momentum;0,32%
+5.5;Peso médio do setor de energia: Valor;39,0%
+5.5;Peso médio do setor de energia: Baixa volatilidade;34,0%
+5.5;Peso médio do setor de energia: Momentum;22,0%
+5.5;Peso médio do setor de energia: Qualidade;22,0%
+5.5;Peso médio do setor de energia: Carteira ISE B3 em pesos iguais;21,3%
+5.5;Média da nota final, de 0 a 100: Energia;60,8
+5.5;Média da nota final, de 0 a 100: Demais setores;48,8
+5.5;Média da nota de valor, de 0 a 100: Energia;66,7
+5.5;Média da nota de valor, de 0 a 100: Demais setores;47,4
+5.5;Média da nota de volatilidade, de 0 a 100: Energia;64,4
+5.5;Média da nota de volatilidade, de 0 a 100: Demais setores;47,9
